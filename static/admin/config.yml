@@ -6,7 +6,7 @@ public_folder: "/images/uploads"
 collections:
   - name: "artykuly" # Used in routes, e.g., /admin/collections/blog
     label: "Artykuły" # Used in the UI
-    folder: "_posts/artykuly" # The path to the folder where the documents are stored
+    folder: "static/posts/artykuly" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -19,11 +19,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Teaser", name: "teaser", widget: "markdown" }
+      - { label: "Teaser", name: "teaser", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "oferta" # Used in routes, e.g., /admin/collections/oferta
     label: "Oferta" # Used in the UI
-    folder: "_posts/oferta" # The path to the folder where the documents are stored
+    folder: "static/posts/oferta" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -31,11 +31,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Teaser", name: "teaser", widget: "markdown" }
+      - { label: "Teaser", name: "teaser", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "szkolenia" # Used in routes, e.g., /admin/collections/szkolenia
-    label: "szkolenia" # Used in the UI
-    folder: "_posts/szkolenia" # The path to the folder where the documents are stored
+    label: "Szkolenia" # Used in the UI
+    folder: "static/posts/szkolenia" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -48,11 +48,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Teaser", name: "teaser", widget: "markdown" }
+      - { label: "Teaser", name: "teaser", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "zespol" # Used in routes, e.g., /admin/collections/zespol
     label: "Zespół" # Used in the UI
-    folder: "_posts/zespol" # The path to the folder where the documents are stored
+    folder: "static/posts/zespol" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
