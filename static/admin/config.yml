@@ -76,4 +76,4 @@ collections:
         fields:
           - { label: "Obraz główny", name: "thumbnail", widget: "image" }
           - { label: "Logo", name: "logo", widget: "image" }
-          - { label: "Opis", name: "body", widget: "text" }
+          - { label: "Opis", name: "body", widget: "markdown" }
