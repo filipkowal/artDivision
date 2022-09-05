@@ -4,65 +4,76 @@ backend:
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
-  - name: "artykuly" # Used in routes, e.g., /admin/collections/blog
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Artykuły" # Used in the UI
-    folder: "static/posts/artykuly" # The path to the folder where the documents are stored
+    folder: "static/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
+      - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Data publikacji", name: "date", widget: "datetime" }
+      - { label: "Autor", name: "author", widget: "string", required: false }
       - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "artykuly",
-        }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - {
-          label: "Tags",
+          label: "Tagi",
           name: "tags",
           widget: "list",
           field: { label: "Tag", name: "tag", widget: "string" },
+          required: false,
         }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Teaser", name: "teaser", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "oferta" # Used in routes, e.g., /admin/collections/oferta
-    label: "Oferta" # Used in the UI
-    folder: "static/posts/oferta" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: "Layout", name: "layout", widget: "hidden", default: "oferta" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Teaser", name: "teaser", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "szkolenia" # Used in routes, e.g., /admin/collections/szkolenia
-    label: "Szkolenia" # Used in the UI
-    folder: "static/posts/szkolenia" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
       - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "szkolenia",
+          label: "Obraz główny",
+          name: "thumbnail",
+          widget: "image",
+          required: false,
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Teaser", name: "teaser", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "zespol" # Used in routes, e.g., /admin/collections/zespol
-    label: "Zespół" # Used in the UI
-    folder: "static/posts/zespol" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: "Layout", name: "layout", widget: "hidden", default: "zespol" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Intro", name: "intro", widget: "text", required: false }
+      - { label: "Tekst", name: "body", widget: "markdown" }
+
+  - name: "oferta"
+    label: "Oferta"
+    folder: "static/oferta"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Tekst", name: "body", widget: "markdown" }
+
+  - name: "szkolenia"
+    label: "Szkolenia"
+    folder: "static/szkolenia"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Poziom zaawansowania", name: "level", widget: "string" }
+      - { label: "Tekst", name: "body", widget: "markdown" }
+      - { label: "Cena regularna", name: "price", widget: "string" }
+      - {
+          label: "Cena przy wcześniejszym zapisie",
+          name: "priceReduced",
+          widget: "string",
+        }
+
+  - name: "zespol"
+    label: "Zespół"
+    folder: "static/zespol"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Imię i nazwisko", name: "title", widget: "string" }
+      - { label: "Zdjęcie", name: "photo", widget: "image" }
+      - { label: "Opis", name: "body", widget: "text" }
+
+  - name: "pages"
+    label: "Strony statyczne"
+    create: false
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    files:
+      - name: "onas"
+        file: "static/onas.yml"
+        label: "O Art Division"
+        fields:
+          - { label: "Obraz główny", name: "thumbnail", widget: "image" }
+          - { label: "Logo", name: "logo", widget: "image" }
+          - { label: "Opis", name: "body", widget: "text" }
