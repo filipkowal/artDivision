@@ -4,7 +4,6 @@
 		attributes: { title, tags, date, author, thumbnail, intro },
 		body
 	} = data;
-	console.log(data);
 </script>
 
 <h1>{title}</h1>
