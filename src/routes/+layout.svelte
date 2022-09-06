@@ -1,6 +1,6 @@
 <div class="layout-container">
 	<section><h1>Art Division</h1></section>
-	<slot />
+	<main><slot /></main>
 	<section><h1>Zespół</h1></section>
 </div>
 

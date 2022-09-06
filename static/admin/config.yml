@@ -4,11 +4,11 @@ backend:
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+  - name: "artykuly" # Used in routes, e.g., /admin/collections/artykuly
     label: "Artykuły" # Used in the UI
-    folder: "static/blog" # The path to the folder where the documents are stored
+    folder: "src/routes/artykuly" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Tytuł", name: "title", widget: "string" }
@@ -32,18 +32,18 @@ collections:
 
   - name: "oferta"
     label: "Oferta"
-    folder: "static/oferta"
+    folder: "src/routes/oferta"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Tekst", name: "body", widget: "markdown" }
 
   - name: "szkolenia"
     label: "Szkolenia"
-    folder: "static/szkolenia"
+    folder: "src/routes/szkolenia"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Poziom zaawansowania", name: "level", widget: "string" }
@@ -58,9 +58,9 @@ collections:
 
   - name: "zespol"
     label: "Zespół"
-    folder: "static/zespol"
+    folder: "src/routes/zespol"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Imię i nazwisko", name: "title", widget: "string" }
       - { label: "Zdjęcie", name: "photo", widget: "image" }
@@ -69,10 +69,10 @@ collections:
   - name: "pages"
     label: "Strony statyczne"
     create: false
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     files:
       - name: "onas"
-        file: "static/onas.yml"
+        file: "src/routes/onas/onas.yml"
         label: "O Art Division"
         fields:
           - { label: "Obraz główny", name: "thumbnail", widget: "image" }

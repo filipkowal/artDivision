@@ -1,14 +1,17 @@
+<script>
+	export let data;
+</script>
+
 <main>
-	<section class="articles"><h1>Artykuły</h1></section>
-	<section class="offer"><h1>Oferta</h1></section>
-	<section class="workshops"><h1>Szkolenia</h1></section>
+	<section class="articles"><a href="artykuly"><h1>Artykuły</h1></a></section>
+	<section class="offer"><a href="oferta"><h1>Oferta</h1></a></section>
+	<section class="workshops"><a href="szkolenia"><h1>Szkolenia</h1></a></section>
 </main>
 
 <style>
 	main {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-		min-height: 100%;
 	}
 
 	@media (max-width: 1200px) {
