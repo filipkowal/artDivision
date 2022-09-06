@@ -21,15 +21,20 @@ collections:
           field: { label: "Tag", name: "tag", widget: "string" },
           required: false,
         }
-      - {
-          label: "Obraz główny",
-          name: "thumbnail",
-          widget: "image",
-          required: false,
-        }
       - { label: "Intro", name: "intro", widget: "text", required: false }
       - { label: "Tekst", name: "body", widget: "markdown" }
-
+      - label: "Obraz główny"
+        name: "thumbnail"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Obraz", name: "image", widget: "string" }
+          - {
+              label: "Opis obrazu",
+              name: "caption",
+              widget: "string",
+              required: false,
+            }
   - name: "oferta"
     label: "Oferta"
     folder: "src/routes/oferta"
@@ -75,6 +80,17 @@ collections:
         file: "src/routes/onas/onas.yml"
         label: "O Art Division"
         fields:
-          - { label: "Obraz główny", name: "thumbnail", widget: "image" }
           - { label: "Logo", name: "logo", widget: "image" }
           - { label: "Opis", name: "body", widget: "markdown" }
+          - label: "Obraz główny"
+            name: "thumbnail"
+            widget: "object"
+            required: false
+            fields:
+              - { label: "Obraz", name: "image", widget: "string" }
+              - {
+                  label: "Opis obrazu",
+                  name: "caption",
+                  widget: "string",
+                  required: false,
+                }
