@@ -5,6 +5,7 @@ date: 2022-09-05T16:17:20.966Z
 author: Joanna Sikorska
 tags:
   - Rynek sztuki
+thumbnail: /images/uploads/landscape_1280-340x240articlethumbnail2.png
 intro: "Czaszka jako symbol śmierci, wpisuje się w typowy dla Hirtst’a motyw
   przemijania. Strach przed śmiercią okazuje się silniejszą emocją niż miłość
   czy pożądanie. Inspiruje Hirst’a od momentu, gdy jako młody chłopak znalazł
