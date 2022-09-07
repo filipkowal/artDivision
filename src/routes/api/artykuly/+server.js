@@ -6,7 +6,7 @@ export const GET = async () => {
 
 	const posts = await Promise.all(
 		postNames.map(async (name) => {
-			const { attributes, html: body } = await import(`../../artykuly/${name}`);
+			const { attributes, html: body } = await import(`../../artykuly/${name}.md`);
 			return { attributes, body, name };
 		})
 	);

@@ -4,7 +4,7 @@ export const fetchMarkdownPosts = async () => {
 
 	const postNames = await Promise.all(
 		iterablePostFiles.map(async ([path]) => {
-			const postPath = path.slice(21);
+			const postPath = path.slice(21, -3);
 
 			return postPath;
 		})
