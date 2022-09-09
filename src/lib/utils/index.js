@@ -12,6 +12,13 @@ export const fetchOffers = async () => {
 	return posts;
 };
 
+export const fetchWorkshops = async () => {
+	const allPostFiles = import.meta.glob('/src/routes/szkolenia/*.md');
+	const posts = getFilesContent(allPostFiles, 'szkolenia');
+
+	return posts;
+};
+
 const getFilesContent = async (allPostFiles, category) => {
 	const iterablePostFiles = Object.entries(allPostFiles);
 
