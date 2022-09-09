@@ -4,13 +4,13 @@
 </script>
 
 <div class="layout-container">
-	<header>
+	<header class="column">
 		<img src={onas.logo} alt="logo-art-division" />
 		<img src={onas.thumbnail} alt="zespół" />
 		<p>{@html onas.body}</p>
 	</header>
 	<main><slot /></main>
-	<footer>
+	<footer class="column">
 		<h2>Zespół</h2>
 		{#each zespol as osoba}
 			<div>
@@ -54,7 +54,17 @@
 	header,
 	footer {
 		padding: 0.6rem;
+		overflow-y: auto;
+		height: 100vh;
 	}
+
+	:global(.column::-webkit-scrollbar) {
+		width: 0.2em;
+	}
+	:global(.column::-webkit-scrollbar-thumb) {
+		background-color: black;
+	}
+
 	header {
 		border-right: 1px solid black;
 	}
