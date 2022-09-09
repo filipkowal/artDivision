@@ -34,7 +34,13 @@
 		text-decoration: none;
 		color: inherit;
 	}
-
+	:global(a:hover, a:hover div) {
+		color: #0000ff;
+		border-color: #0000ff;
+	}
+	:global(a:hover img) {
+		filter: sepia(100%) hue-rotate(195deg) saturate(6);
+	}
 	main {
 		border-right: 1px solid black;
 		overflow: auto;
@@ -53,7 +59,8 @@
 	}
 	header,
 	footer {
-		padding: 0.6rem;
+		padding-right: 0.6rem;
+		padding-left: 0.6rem;
 		overflow-y: auto;
 		height: 100vh;
 	}
@@ -63,6 +70,9 @@
 	}
 	:global(.column::-webkit-scrollbar-thumb) {
 		background-color: black;
+	}
+	:global(.column) {
+		padding-top: 2rem;
 	}
 
 	header {

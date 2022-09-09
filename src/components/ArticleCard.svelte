@@ -22,6 +22,9 @@
 		max-width: 271px;
 		margin-bottom: 2rem;
 	}
+	.articleCard:hover .tag {
+		border-color: #0000ff;
+	}
 	.image-container {
 		text-align: center;
 	}

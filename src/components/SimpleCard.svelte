@@ -18,6 +18,9 @@
 		padding: 0 1rem;
 		margin-bottom: 0.7rem;
 	}
+	.simpleCard:hover {
+		border-color: #0000ff;
+	}
 	.level {
 		color: #0000ff;
 	}

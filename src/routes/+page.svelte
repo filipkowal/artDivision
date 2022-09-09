@@ -37,7 +37,8 @@
 	}
 	section {
 		min-height: 100vh;
-		padding: 0.6rem;
+		padding-left: 0.6rem;
+		padding-right: 0.6rem;
 		overflow-y: auto;
 		height: 100vh;
 	}
