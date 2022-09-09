@@ -34,6 +34,7 @@
 	.section-container {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
+		min-height: 100%;
 	}
 	section {
 		min-height: 100vh;

@@ -28,13 +28,11 @@
 
 	main {
 		border-right: 1px solid black;
-		min-height: 100vh;
 		overflow: auto;
 	}
 	@media (max-width: 1200px) {
 		main {
 			margin: 0 0.5rem;
-			min-height: 0;
 			border-left: 1px solid black;
 			border-bottom: 2px solid black;
 		}
