@@ -7,7 +7,7 @@ export const fetchMarkdownPosts = async () => {
 			const fileName = path.slice(21, -3);
 
 			const { attributes, html } = await getContent();
-			return { fileName, ...attributes, html };
+			return { fileName, ...attributes, body: html };
 		})
 	);
 

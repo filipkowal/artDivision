@@ -1,9 +1,6 @@
 <script>
 	export let data;
-	const {
-		attributes: { title, tags, date, author, thumbnail, intro },
-		body
-	} = data;
+	const { title, tags, date, author, thumbnail, intro, body } = data;
 </script>
 
 <article>
