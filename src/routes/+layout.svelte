@@ -11,11 +11,11 @@
 	</header>
 	<main><slot /></main>
 	<footer>
-		<h1>Zespół</h1>
+		<h2>Zespół</h2>
 		{#each zespol as osoba}
 			<div>
+				<h3><a href="./zespol/{osoba.fileName}">{osoba.title}</a></h3>
 				<img src={osoba.photo} alt={osoba.title} />
-				<p><a href="./zespol/{osoba.fileName}">{osoba.title}</a></p>
 				<p>{@html osoba.body}</p>
 			</div>
 		{/each}
@@ -25,9 +25,14 @@
 <style>
 	:root {
 		font-family: Neue Haas Unica Pro, sans-serif;
+		font-size: 14px;
 	}
-	:global(h1) {
+	:global(h1, h2) {
 		font-weight: 400;
+	}
+	:global(a) {
+		text-decoration: none;
+		color: inherit;
 	}
 
 	main {
@@ -48,6 +53,9 @@
 	}
 	header,
 	footer {
+		padding: 0.6rem;
+	}
+	header {
 		border-right: 1px solid black;
 	}
 	img {

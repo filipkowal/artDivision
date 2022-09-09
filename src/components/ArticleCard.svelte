@@ -20,7 +20,7 @@
 	}
 	.articleCard {
 		max-width: 271px;
-		margin: 10px;
+		margin-bottom: 2rem;
 	}
 	.image-container {
 		text-align: center;

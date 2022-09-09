@@ -1,9 +1,11 @@
 <script>
 	import ArticleCard from '../components/ArticleCard.svelte';
+	import SimpleCard from '../components/SimpleCard.svelte';
 	import Layout from './+layout.svelte';
 
 	export let data;
-	const { artykuly, oferta, szkolenia } = data;
+	const { artykuly, oferta: oferty, szkolenia } = data;
+	console.log(szkolenia);
 </script>
 
 <div class="section-container">
@@ -15,18 +17,14 @@
 	</section>
 	<section class="offer">
 		<a href="oferta"><h1>Oferta</h1></a>
-		{#each oferta as o}
-			<li>
-				<a href="./oferta/{o.fileName}">{o.title}</a>
-			</li>
+		{#each oferty as oferta}
+			<SimpleCard title={oferta.title} fileName={oferta.fileName} />
 		{/each}
 	</section>
 	<section class="workshops">
 		<a href="szkolenia"><h1>Szkolenia</h1></a>
 		{#each szkolenia as szkolenie}
-			<li>
-				<a href="./szkolenia/{szkolenie.fileName}">{szkolenie.title}</a>
-			</li>
+			<SimpleCard title={szkolenie.title} fileName={szkolenie.fileName} level={szkolenie.level} />
 		{/each}
 	</section>
 </div>
@@ -39,6 +37,7 @@
 	}
 	section {
 		min-height: 100vh;
+		padding: 0.6rem;
 	}
 	section:not(:last-of-type) {
 		border-right: 1px solid black;
