@@ -26,6 +26,13 @@ export const fetchTeam = async () => {
 	return posts;
 };
 
+export const fetchAbout = async () => {
+	const postFile = await import('/src/routes/onas/onas.md');
+	const { attributes, html: body } = postFile;
+
+	return { ...attributes, body };
+};
+
 const getFilesContent = async (allPostFiles, category) => {
 	const iterablePostFiles = Object.entries(allPostFiles);
 

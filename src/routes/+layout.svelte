@@ -1,10 +1,14 @@
 <script>
 	export let data;
-	const { zespol } = data;
+	const { zespol, onas } = data;
 </script>
 
 <div class="layout-container">
-	<header><h1>Art Division</h1></header>
+	<header>
+		<img src={onas.logo} alt="logo-art-division" />
+		<img src={onas.thumbnail} alt="zespół" />
+		<p>{@html onas.body}</p>
+	</header>
 	<main><slot {...data} /></main>
 	<footer>
 		<h1>Zespół</h1>
