@@ -82,15 +82,4 @@ collections:
         fields:
           - { label: "Logo", name: "logo", widget: "image" }
           - { label: "Opis", name: "body", widget: "markdown" }
-          - label: "Obraz główny"
-            name: "thumbnail"
-            widget: "object"
-            required: false
-            fields:
-              - { label: "Obraz", name: "image", widget: "string" }
-              - {
-                  label: "Opis obrazu",
-                  name: "caption",
-                  widget: "string",
-                  required: false,
-                }
+          - { label: "Obraz główny", name: "thumbnail", widget: "image" }
