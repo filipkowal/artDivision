@@ -77,7 +77,7 @@ collections:
     slug: "{{slug}}"
     files:
       - name: "onas"
-        file: "src/routes/onas/onas.yml"
+        file: "src/routes/onas/onas.md"
         label: "O Art Division"
         fields:
           - { label: "Logo", name: "logo", widget: "image" }
