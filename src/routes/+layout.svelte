@@ -9,15 +9,15 @@
 		<img src={onas.thumbnail} alt="zespół" />
 		<p>{@html onas.body}</p>
 	</header>
-	<main><slot {...data} /></main>
+	<main><slot /></main>
 	<footer>
 		<h1>Zespół</h1>
 		{#each zespol as osoba}
-			<li>
+			<div>
 				<img src={osoba.photo} alt={osoba.title} />
-				<a href="./zespol/{osoba.fileName}">{osoba.title}</a>
+				<p><a href="./zespol/{osoba.fileName}">{osoba.title}</a></p>
 				<p>{@html osoba.body}</p>
-			</li>
+			</div>
 		{/each}
 	</footer>
 </div>

@@ -1,4 +1,7 @@
 <script>
+	import ArticleCard from '../components/ArticleCard.svelte';
+	import Layout from './+layout.svelte';
+
 	export let data;
 	const { artykuly, oferta, szkolenia } = data;
 </script>
@@ -7,9 +10,7 @@
 	<section class="articles">
 		<a href="artykuly"><h1>Artykuły</h1></a>
 		{#each artykuly as artykul}
-			<li>
-				<a href="./artykuly/{artykul.fileName}">{artykul.title}</a>
-			</li>
+			<ArticleCard {...artykul} />
 		{/each}
 	</section>
 	<section class="offer">

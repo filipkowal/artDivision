@@ -1,15 +1,27 @@
 <script>
+	import Layout from '../+layout.svelte';
+	import ArticleCard from '../../components/ArticleCard.svelte';
+
 	export let data;
-	const posts = Object.values(data);
+	const { artykuly } = data;
 </script>
 
-<section class="articles">
+<section class="articlesPage">
 	<h1>Artykuły</h1>
-	<ul>
-		{#each posts as post}
-			<li>
-				<a href="./artykuly/{post.fileName}">{post.title}</a>
-			</li>
+	<div class="articles">
+		{#each artykuly as artykul}
+			<ArticleCard
+				title={artykul.title}
+				thumbnail={artykul.thumbnail}
+				tags={artykul.tags}
+				fileName={artykul.fileName}
+			/>
 		{/each}
-	</ul>
+	</div>
 </section>
+
+<style>
+	.articles {
+		display: flex;
+	}
+</style>
