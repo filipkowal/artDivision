@@ -7,6 +7,7 @@
 </script>
 
 <article>
+	<a href="/">Powrót</a>
 	<h1>{title}</h1>
 	<date>{date}</date>
 	<span class="author">{author}</span>

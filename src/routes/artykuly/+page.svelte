@@ -8,7 +8,7 @@
 	<ul>
 		{#each posts as post}
 			<li>
-				<a href="./artykuly/{post.name}">{post.attributes.title}</a>
+				<a href="./artykuly/{post.fileName}">{post.title}</a>
 			</li>
 		{/each}
 	</ul>
