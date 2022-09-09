@@ -72,7 +72,7 @@ collections:
       - { label: "Opis", name: "body", widget: "text" }
 
   - name: "pages"
-    label: "Strony statyczne"
+    label: "O nas"
     create: false
     slug: "{{slug}}"
     files:
