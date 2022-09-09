@@ -1,7 +1,21 @@
+<script>
+	export let data;
+	const { zespol } = data;
+</script>
+
 <div class="layout-container">
 	<header><h1>Art Division</h1></header>
-	<main><slot /></main>
-	<footer><h1>Zespół</h1></footer>
+	<main><slot {...data} /></main>
+	<footer>
+		<h1>Zespół</h1>
+		{#each zespol as osoba}
+			<li>
+				<img src={osoba.photo} alt={osoba.title} />
+				<a href="./zespol/{osoba.fileName}">{osoba.title}</a>
+				<p>{@html osoba.body}</p>
+			</li>
+		{/each}
+	</footer>
 </div>
 
 <style>
@@ -29,11 +43,13 @@
 	.layout-container {
 		display: grid;
 		grid-template-columns: 1fr 3fr 1fr;
-		grid-template-rows: 1;
 	}
 	header,
 	footer {
 		border-right: 1px solid black;
+	}
+	img {
+		max-width: 250px;
 	}
 	@media (max-width: 1200px) {
 		header,

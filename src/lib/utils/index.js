@@ -19,6 +19,13 @@ export const fetchWorkshops = async () => {
 	return posts;
 };
 
+export const fetchTeam = async () => {
+	const allPostFiles = import.meta.glob('/src/routes/zespol/*.md');
+	const posts = getFilesContent(allPostFiles, 'zespol');
+
+	return posts;
+};
+
 const getFilesContent = async (allPostFiles, category) => {
 	const iterablePostFiles = Object.entries(allPostFiles);
 
