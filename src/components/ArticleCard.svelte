@@ -19,7 +19,6 @@
 		--url: url(--imageUrl);
 	}
 	.articleCard {
-		max-width: 271px;
 		margin-bottom: 2rem;
 	}
 	.articleCard:hover .tag {

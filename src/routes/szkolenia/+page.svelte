@@ -1,15 +1,26 @@
 <script>
+	import SimpleCard from '../../components/SimpleCard.svelte';
+
 	export let data;
-	const posts = Object.values(data);
+	const { workshops } = data;
 </script>
 
-<section class="articles">
+<div class="workshops-container">
 	<h1>Szkolenia</h1>
-	<ul>
-		{#each posts as post}
-			<li>
-				<a href="./szkolenia/{post.fileName}">{post.title}</a>
-			</li>
+	<section class="workshops">
+		{#each workshops as workshop}
+			<SimpleCard fileName={workshop.fileName} title={workshop.title} level={workshop.level} />
 		{/each}
-	</ul>
-</section>
+	</section>
+</div>
+
+<style>
+	.workshops-container {
+		padding: 0.6rem;
+	}
+	.workshops {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		column-gap: 0.6rem;
+	}
+</style>

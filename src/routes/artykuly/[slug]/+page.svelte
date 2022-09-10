@@ -4,7 +4,10 @@
 </script>
 
 <article>
-	<a href="/">Powrót</a>
+	<header>
+		<h2 class="header-title">Artykuły</h2>
+		<a href="/"><h1 class="back">&#8617</h1></a>
+	</header>
 	<h1>{title}</h1>
 	<date>{date}</date>
 	<span class="author">{author}</span>

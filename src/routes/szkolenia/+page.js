@@ -1,6 +1,6 @@
 export async function load({ fetch }) {
 	const response = await fetch(`/api/szkolenia`);
-	const posts = await response.json();
+	const workshops = await response.json();
 
-	return posts;
+	return { workshops };
 }

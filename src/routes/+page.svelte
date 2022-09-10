@@ -1,11 +1,9 @@
 <script>
 	import ArticleCard from '../components/ArticleCard.svelte';
 	import SimpleCard from '../components/SimpleCard.svelte';
-	import Layout from './+layout.svelte';
 
 	export let data;
-	const { artykuly, oferta: oferty, szkolenia } = data;
-	console.log(szkolenia);
+	const { artykuly, oferty, szkolenia } = data;
 </script>
 
 <div class="section-container">
