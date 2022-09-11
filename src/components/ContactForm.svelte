@@ -2,7 +2,7 @@
 	export let name;
 </script>
 
-<form method="POST" {name} netlify>
+<form method="POST" {name} data-netlify="true">
 	<input type="hidden" name="subject" value={name} />
 	<input type="text" name="name" placeholder="Imię i nazwisko" />
 	<input type="email" name="email" placeholder="Adres email" />
@@ -18,6 +18,10 @@
 		display: block;
 		width: 100%;
 		padding: 1rem;
+	}
+	input:active,
+	textarea:active {
+		border-color: #0000ff;
 	}
 	input:not(:last-of-type) {
 		border-bottom: none;
