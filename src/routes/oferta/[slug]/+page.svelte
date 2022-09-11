@@ -5,7 +5,7 @@
 	const { title, body } = data;
 </script>
 
-<article>
+<article class="column">
 	<a href="/">Powrót</a>
 	<h1>{title}</h1>
 	<div>{@html body}</div>
