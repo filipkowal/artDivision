@@ -1,4 +1,4 @@
-export async function load({ fetch }) {
+export async function load() {
 	const response = await fetch(`/api/oferta`);
 	const offers = await response.json();
 
