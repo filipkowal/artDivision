@@ -1,7 +1,9 @@
-export async function load({ url }) {
+import { fetchAbout, fetchTeam } from '../lib/utils';
+
+export async function load() {
 	const posts = {
-		zespol: await fetch(`${url.origin}/api/zespol`).then((response) => response.json()),
-		onas: await fetch(`${url.origin}/api/onas`).then((response) => response.json())
+		zespol: await fetchTeam(),
+		onas: await fetchAbout()
 	};
 
 	return posts;

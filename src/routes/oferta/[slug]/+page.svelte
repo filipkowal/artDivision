@@ -12,6 +12,6 @@
 </article>
 
 <footer>
-	<p>Jeśli masz jakieś pytania, zapraszamy do <a href="contact">kontaktu</a>.</p>
+	<p>Jeśli masz jakieś pytania, zapraszamy do <a href="/kontakt">kontaktu</a>.</p>
 	<ContactForm name={title} />
 </footer>

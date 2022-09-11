@@ -1,4 +1,4 @@
-export const fetchPosts = async () => {
+export const fetchArticles = async () => {
 	const allPostFiles = import.meta.glob('/src/routes/artykuly/*.md');
 	const posts = getFilesContent(allPostFiles, 'artykuly');
 

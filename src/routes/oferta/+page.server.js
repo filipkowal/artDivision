@@ -1,6 +1,7 @@
+import { fetchOffers } from '../../lib/utils';
+
 export async function load() {
-	const response = await fetch(`/api/oferta`);
-	const offers = await response.json();
+	const offers = await fetchOffers();
 
 	return { offers };
 }

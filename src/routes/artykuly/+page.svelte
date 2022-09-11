@@ -2,19 +2,19 @@
 	import ArticleCard from '../../components/ArticleCard.svelte';
 
 	export let data;
-	const { artykuly } = data;
+	const { articles } = data;
 </script>
 
 <section class="articlesPage">
 	<h1>Artykuły</h1>
 	<div class="articles">
-		{#each artykuly as artykul}
+		{#each articles as article}
 			<div class="card">
 				<ArticleCard
-					title={artykul.title}
-					thumbnail={artykul.thumbnail}
-					tags={artykul.tags}
-					fileName={artykul.fileName}
+					title={article.title}
+					thumbnail={article.thumbnail}
+					tags={article.tags}
+					fileName={article.fileName}
 				/>
 			</div>
 		{/each}

@@ -1,8 +1,10 @@
-export async function load({ url }) {
+import { fetchOffers, fetchArticles, fetchWorkshops } from '../lib/utils';
+
+export async function load() {
 	const posts = {
-		artykuly: await fetch(`${url.origin}/api/artykuly`).then((response) => response.json()),
-		oferty: await fetch(`${url.origin}/api/oferta`).then((response) => response.json()),
-		szkolenia: await fetch(`${url.origin}/api/szkolenia`).then((response) => response.json())
+		artykuly: await fetchArticles(),
+		oferty: await fetchOffers(),
+		szkolenia: await fetchWorkshops()
 	};
 
 	return posts;

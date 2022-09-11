@@ -14,7 +14,7 @@
 		<h2>Zespół</h2>
 		{#each zespol as osoba}
 			<div>
-				<h3><a href="./zespol/{osoba.fileName}">{osoba.title}</a></h3>
+				<h3><a href="/zespol/{osoba.fileName}">{osoba.title}</a></h3>
 				<img src={osoba.photo} alt={osoba.title} />
 				<p>{@html osoba.body}</p>
 			</div>

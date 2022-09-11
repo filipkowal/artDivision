@@ -8,19 +8,19 @@
 
 <div class="section-container">
 	<section class="articles column">
-		<a href="artykuly"><h1>Artykuły</h1></a>
+		<a href="/artykuly"><h1>Artykuły</h1></a>
 		{#each artykuly as artykul}
 			<ArticleCard {...artykul} />
 		{/each}
 	</section>
 	<section class="offer column">
-		<a href="oferta"><h1>Oferta</h1></a>
+		<a href="/oferta"><h1>Oferta</h1></a>
 		{#each oferty as oferta}
 			<SimpleCard title={oferta.title} fileName={oferta.fileName} />
 		{/each}
 	</section>
 	<section class="workshops column">
-		<a href="szkolenia"><h1>Szkolenia</h1></a>
+		<a href="/szkolenia"><h1>Szkolenia</h1></a>
 		{#each szkolenia as szkolenie}
 			<SimpleCard title={szkolenie.title} fileName={szkolenie.fileName} level={szkolenie.level} />
 		{/each}
