@@ -1,4 +1,6 @@
 <script>
+	import Tag from './Tag.svelte';
+
 	export let title, thumbnail, fileName, tags;
 </script>
 
@@ -9,7 +11,7 @@
 		</div>
 		<h2>{title}</h2>
 		{#each tags as tag}
-			<div class="tag"><p>{tag}</p></div>
+			<Tag {tag} />
 		{/each}
 	</div>
 </a>
@@ -21,9 +23,6 @@
 	.articleCard {
 		margin-bottom: 2rem;
 	}
-	.articleCard:hover .tag {
-		border-color: #0000ff;
-	}
 	.image-container {
 		text-align: center;
 	}
@@ -31,15 +30,5 @@
 		width: 160px;
 		height: 200px;
 		object-fit: cover;
-	}
-	.tag {
-		border: 2px solid black;
-		text-align: center;
-	}
-	.tag:not(:last-of-type) {
-		border-bottom: 1px solid black;
-	}
-	.tag p {
-		margin: 0.6rem 0;
 	}
 </style>

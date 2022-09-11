@@ -10,7 +10,7 @@
 			<input type="text" name="name" placeholder="Imię i nazwisko" />
 			<input type="email" name="email" placeholder="Adres email" />
 			<p>
-				Przechodząc dalej, akceptujesz naszą <a class="polityka-prywatnosci" href="/privacy"
+				Przechodząc dalej, akceptujesz naszą <a class="privacy" href="/polityka-prywatnosci"
 					>politykę prywatności.</a
 				>
 			</p>
