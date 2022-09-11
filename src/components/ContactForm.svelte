@@ -2,8 +2,9 @@
 	export let name;
 </script>
 
-<form method="POST" {name} data-netlify="true">
-	<input type="hidden" name="subject" value={name} />
+<form method="POST" name="netlify-form-example" data-netlify="true">
+	<input type="hidden" name="form-name" value="netlify-form-example" />
+	<input type="hidden" name="subject" value="netlify-form-example" />
 	<input type="text" name="name" placeholder="Imię i nazwisko" />
 	<input type="email" name="email" placeholder="Adres email" />
 	<input type="phone" name="phone" placeholder="Numer telefonu (opcjonalnie)" />
