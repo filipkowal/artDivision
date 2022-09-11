@@ -27,4 +27,7 @@
 			margin: 0 0.5rem;
 		}
 	}
+	img {
+		max-width: 100%;
+	}
 </style>

@@ -24,3 +24,16 @@
 <footer>
 	<p>Jeśli masz jakieś pytania, zapraszamy do <a href="/kontakt">kontaktu</a>.</p>
 </footer>
+
+<style>
+	article {
+		overflow: auto;
+		height: 100vh;
+	}
+	h1 {
+		font-size: 5rem;
+	}
+	h2 {
+		font-size: 4rem;
+	}
+</style>

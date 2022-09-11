@@ -65,6 +65,12 @@
 		display: grid;
 		grid-template-columns: 1fr 3fr 1fr;
 	}
+	@media (min-width: 1201px) {
+		.layout-container {
+			overflow: hidden;
+			max-height: 100vh;
+		}
+	}
 
 	:global(.column::-webkit-scrollbar) {
 		width: 0.2em;
