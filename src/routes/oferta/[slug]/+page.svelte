@@ -1,4 +1,6 @@
 <script>
+	import ContactForm from '../../../components/ContactForm.svelte';
+
 	export let data;
 	const { title, body } = data;
 </script>
@@ -11,4 +13,5 @@
 
 <footer>
 	<p>Jeśli masz jakieś pytania, zapraszamy do <a href="contact">kontaktu</a>.</p>
+	<ContactForm name={title} />
 </footer>
