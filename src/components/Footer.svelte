@@ -1,0 +1,30 @@
+<script>
+	export let zespol;
+</script>
+
+<footer class="column">
+	<h2>Zespół</h2>
+	{#each zespol as osoba}
+		<div>
+			<h3><a href="/zespol/{osoba.fileName}">{osoba.title}</a></h3>
+			<img src={osoba.photo} alt={osoba.title} />
+			<p>{@html osoba.body}</p>
+		</div>
+	{/each}
+</footer>
+
+<style>
+	footer {
+		padding-right: 1rem;
+		padding-left: 1rem;
+		overflow-y: auto;
+		height: 100vh;
+	}
+	@media (max-width: 1200px) {
+		footer {
+			border-bottom: 2px solid black;
+			border-left: 1px solid black;
+			margin: 0 0.5rem;
+		}
+	}
+</style>
