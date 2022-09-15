@@ -51,19 +51,36 @@
 	header > * {
 		width: calc(50% - 1rem);
 	}
-	:global(.content p) {
-		font-size: 1.15rem;
-	}
-	:global(.content h3) {
-		font-size: 1.8rem;
+	.header-title {
+		font-weight: 400;
+		font-size: 1.7rem;
 	}
 	:global(.content h1) {
-		font-size: 5rem;
 		font-family: NewsPlantinItalic;
 		font-style: italic;
+		font-weight: 400;
+	}
+	:global(.content-body h1) {
+		font-size: 3.5rem;
+		font-family: NewsPlantinItalic;
+		font-style: italic;
+		font-weight: 400;
+		border-top: 1px solid black;
+		padding: 3.8rem 0;
+		border-bottom: 1px solid black;
+	}
+	.content-header h1 {
+		font-size: 4.3rem;
 	}
 	:global(.content h2) {
 		font-size: 4rem;
+	}
+	:global(.content h3) {
+		line-height: 2.2rem;
+		font-size: 1.7rem;
+	}
+	:global(.content p) {
+		font-size: 1.15rem;
 	}
 	footer {
 		margin: 6rem 0 3rem 0;
@@ -90,5 +107,6 @@
 	}
 	:global(.content-body p img) {
 		margin-left: -10rem;
+		margin-top: 2.7rem;
 	}
 </style>

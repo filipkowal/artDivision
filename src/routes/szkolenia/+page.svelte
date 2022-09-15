@@ -23,4 +23,8 @@
 		grid-template-columns: 1fr 1fr 1fr;
 		column-gap: 0.6rem;
 	}
+	h1 {
+		font-weight: 400;
+		font-size: 1.7rem;
+	}
 </style>

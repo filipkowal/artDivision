@@ -23,11 +23,14 @@
 	.articleCard {
 		margin-bottom: 2rem;
 	}
-	.articleCard h2 {
+	h2 {
 		font-family: NewsPlantinItalic;
 		font-weight: 400;
 		font-size: 2.1rem;
 		line-height: 2.1rem;
+	}
+	:global(.articleCard:hover .tag) {
+		border-color: #0000ff;
 	}
 	.image-container {
 		text-align: center;

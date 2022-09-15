@@ -26,6 +26,10 @@
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
 	}
+	h1 {
+		font-weight: 400;
+		font-size: 1.7rem;
+	}
 	.card {
 		padding-left: 0.6rem;
 		padding-right: 0.6rem;
