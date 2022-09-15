@@ -20,6 +20,13 @@
 		overflow-y: auto;
 		height: 100vh;
 	}
+	h2 {
+		font-weight: 400;
+		font-size: 1.7rem;
+	}
+	h3 {
+		font-size: 1.3rem;
+	}
 	@media (max-width: 1200px) {
 		footer {
 			border-bottom: 2px solid black;

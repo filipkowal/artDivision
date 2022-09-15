@@ -59,6 +59,8 @@
 	}
 	:global(.content h1) {
 		font-size: 5rem;
+		font-family: NewsPlantinItalic;
+		font-style: italic;
 	}
 	:global(.content h2) {
 		font-size: 4rem;
@@ -79,12 +81,11 @@
 		border-bottom: 1px solid black;
 	}
 	.content-header h1 {
-		max-width: 90%;
+		max-width: 85%;
 		margin-top: 0;
 	}
 	:global(.content-body p) {
 		max-width: 70%;
-		/* position: relative; */
 		padding-left: 10rem;
 	}
 	:global(.content-body p img) {

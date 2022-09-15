@@ -13,12 +13,38 @@
 </div>
 
 <style>
-	:root {
-		font-family: Neue Haas Unica Pro, sans-serif;
-		font-size: 14px;
-	}
-	:global(h1, h2) {
+	@font-face {
+		font-family: 'Neue Haas Unica Pro';
+		src: url('/fonts/NeueHaasUnicaRegular.woff2') format('woff2'),
+			url('/fonts/NeueHaasUnicaRegular.woff') format('woff');
 		font-weight: 400;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'Neue Haas Unica Pro';
+		src: url('/fonts/NeueHaasUnicaMedium.woff2') format('woff2'),
+			url('/fonts/NeueHaasUnicaMedium.woff') format('woff');
+		font-weight: 500;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'Neue Haas Unica Pro';
+		src: url('/fonts/NeueHaasUnicaBold.woff2') format('woff2'),
+			url('/fonts/NeueHaasUnicaBold.woff') format('woff');
+		font-weight: 700;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'NewsPlantinItalic';
+		src: url('/fonts/NewsPlantinItalic.woff2') format('woff2'),
+			url('/fonts/NewsPlantinItalic.woff') format('woff'),
+			url('/fonts/NewsPlantinItalic.ttf') format('truetype');
+		font-weight: 400;
+		font-style: italic;
+	}
+	:root {
+		font-family: 'Neue Haas Unica Pro', sans-serif;
+		font-size: 14px;
 	}
 	:global(a) {
 		text-decoration: none;

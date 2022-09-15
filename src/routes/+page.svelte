@@ -43,6 +43,10 @@
 	section:not(:last-of-type) {
 		border-right: 1px solid black;
 	}
+	h1 {
+		font-weight: 400;
+		font-size: 1.7rem;
+	}
 
 	@media (max-width: 1200px) {
 		.section-container {

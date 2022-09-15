@@ -21,6 +21,12 @@
 	.simpleCard:hover {
 		border-color: #0000ff;
 	}
+	h2 {
+		font-weight: 500;
+		font-size: 1.8rem;
+		font-family: 'Neue Haas Unica Pro';
+		line-height: 2rem;
+	}
 	.level {
 		color: #0000ff;
 	}

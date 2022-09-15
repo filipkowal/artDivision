@@ -8,7 +8,7 @@
 		<h1>Newsletter</h1>
 		<form method="post" name="newsletter" netlify>
 			<input type="text" name="name" placeholder="Imię i nazwisko" />
-			<input type="email" name="email" placeholder="Adres email" />
+			<input type="email" name="email" placeholder="Adres email" required />
 			<p>
 				Przechodząc dalej, akceptujesz naszą <a class="privacy" href="/polityka-prywatnosci"
 					>politykę prywatności.</a
