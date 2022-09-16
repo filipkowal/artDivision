@@ -8,8 +8,10 @@
 
 <article class="column page-container">
 	<SectionHeader title="Oferta" />
-	<h1>{title}</h1>
-	<div>{@html body}</div>
+	<div class="non-article-content">
+		<h1>{title}</h1>
+		<div>{@html body}</div>
+	</div>
 </article>
 
 <footer>

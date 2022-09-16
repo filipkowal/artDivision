@@ -86,6 +86,19 @@
 		overflow: auto;
 		height: 100vh;
 	}
+	:global(.non-article-content) {
+		margin: 1rem 0;
+		border: 2px solid black;
+		padding: 2rem;
+	}
+	:global(.non-article-content h1:first-of-type) {
+		font-size: 4.3rem;
+		line-height: 5rem;
+		margin-top: 0;
+	}
+	:global(.non-article-content p, .non-article-content li) {
+		font-size: 1.2rem;
+	}
 	main {
 		border-right: 1px solid black;
 		overflow: auto;

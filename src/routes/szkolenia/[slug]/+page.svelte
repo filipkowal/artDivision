@@ -7,8 +7,10 @@
 
 <article class="column page-container">
 	<SectionHeader title="Szkolenia" />
-	<h1>{title}</h1>
-	<div>{@html body}</div>
+	<div class="non-article-content">
+		<h1>{title}</h1>
+		<div>{@html body}</div>
+	</div>
 </article>
 
 <footer>
@@ -16,11 +18,4 @@
 </footer>
 
 <style>
-	h1 {
-		font-size: 4.3rem;
-		line-height: 5rem;
-	}
-	:global(p, li) {
-		font-size: 1.2rem;
-	}
 </style>
