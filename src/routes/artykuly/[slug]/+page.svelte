@@ -35,7 +35,7 @@
 	article {
 		overflow: auto;
 		height: 100vh;
-		margin: 1rem;
+		margin: 0 0.6rem;
 	}
 	.content {
 		margin: 1rem 0;
