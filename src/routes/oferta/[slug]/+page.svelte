@@ -11,10 +11,16 @@
 	<div class="non-article-content">
 		<h1>{title}</h1>
 		<div>{@html body}</div>
+		<footer>
+			<p>Jeśli masz jakieś pytania, zapraszamy do <a href="/kontakt"><b>kontaktu</b></a>.</p>
+			<ContactForm name={title} />
+		</footer>
 	</div>
 </article>
 
-<footer>
-	<p>Jeśli masz jakieś pytania, zapraszamy do <a href="/kontakt">kontaktu</a>.</p>
-	<ContactForm name={title} />
-</footer>
+<style>
+	footer {
+		border-top: 1px solid black;
+		margin-top: 5rem;
+	}
+</style>
