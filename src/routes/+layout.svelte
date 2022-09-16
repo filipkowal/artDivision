@@ -75,6 +75,12 @@
 		transform: scale(1.01) translate(0.2rem, -0.2rem);
 		transition: box-shadow 0.15s, translate 0.15s;
 	}
+	:global(.square) {
+		max-width: 100%;
+		height: auto;
+		aspect-ratio: 1;
+		object-fit: cover;
+	}
 	main {
 		border-right: 1px solid black;
 		overflow: auto;
