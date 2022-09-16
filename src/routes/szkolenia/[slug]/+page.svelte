@@ -1,11 +1,12 @@
 <script>
+	import SectionHeader from '../../../components/SectionHeader.svelte';
+
 	export let data;
 	const { title, body } = data;
 </script>
 
-<article class="column">
-	<a href="/">Powrót</a>
-	<h1>{title}</h1>
+<article class="column page-container">
+	<SectionHeader title="Szkolenia" />
 	<div>{@html body}</div>
 </article>
 

@@ -1,15 +1,12 @@
 <script>
 	import Tag from '../../../components/Tag.svelte';
-	import BackButton from '../../../components/BackButton.svelte';
+	import SectionHeader from '../../../components/SectionHeader.svelte';
 	export let data;
 	const { title, tags, date, author, intro, body } = data;
 </script>
 
-<article class="column">
-	<header>
-		<div><h2 class="header-title">Artykuły</h2></div>
-		<BackButton />
-	</header>
+<article class="column page-container">
+	<SectionHeader title="Artykuły" />
 	<div class="content">
 		<div class="content-header">
 			<div class="header-row">
@@ -38,26 +35,10 @@
 </article>
 
 <style>
-	article {
-		overflow: auto;
-		height: 100vh;
-		margin: 0 0.6rem;
-	}
 	.content {
 		margin: 1rem 0;
 		border: 2px solid black;
 		padding: 2rem;
-	}
-	header {
-		display: flex;
-		flex-direction: row;
-	}
-	header > * {
-		width: calc(50% - 1rem);
-	}
-	.header-title {
-		font-weight: 400;
-		font-size: 1.7rem;
 	}
 	.tags {
 		display: flex;

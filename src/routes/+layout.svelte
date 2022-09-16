@@ -81,6 +81,11 @@
 		aspect-ratio: 1;
 		object-fit: cover;
 	}
+	:global(.page-container) {
+		padding: 2rem 0.6rem;
+		overflow: auto;
+		height: 100vh;
+	}
 	main {
 		border-right: 1px solid black;
 		overflow: auto;

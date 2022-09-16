@@ -1,12 +1,13 @@
 <script>
 	import ArticleCard from '../../components/ArticleCard.svelte';
+	import SectionHeader from '../../components/SectionHeader.svelte';
 
 	export let data;
 	const { articles } = data;
 </script>
 
-<section class="articlesPage">
-	<h1>Artykuły</h1>
+<section class="page-container">
+	<SectionHeader title="Artykuły" />
 	<div class="articles">
 		{#each articles as article}
 			<div class="card">
@@ -25,10 +26,6 @@
 	.articles {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-	}
-	h1 {
-		font-weight: 400;
-		font-size: 1.7rem;
 	}
 	.card {
 		padding-left: 0.6rem;
