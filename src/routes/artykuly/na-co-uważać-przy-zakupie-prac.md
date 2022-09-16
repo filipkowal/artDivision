@@ -6,8 +6,9 @@ author: Joanna Sikorska
 tags:
   - Doradztwo
   - Rynek sztuki
-thumbnail: /images/uploads/articlethumbnail1.png
+thumbnail: /images/uploads/ad_test-article1.jpg
 ---
+
 Inwestycje w dzieła sztuki są coraz popularniejszą formą lokaty kapitału, jednak by kolekcjonować z powodzeniem warto poznać zagrożenia, które niestety nie należą do rzadkości.\
 \
 Jednym z głównych mitów jest przekonanie, że aby nabywać dzieła sztuki nie trzeba w ogóle znać się na sztuce. Wystarczy zasobny portfel i wybór pracy na chybił trafił. Galeria w której kupujemy też jest bez znaczenia. Obraz bądź rzeźba po prostu ma nam się podobać. I tak kupujemy prace pod kolor kanapy lub dywanu. Tylko, że moda na wyposażenie wnętrz się zmienia i po kilku latach obraz, który kupiliśmy może już nie pasować do naszego salonu. Mając wiarę w nasz gust próbujemy takową pracę sprzedać, oczywiście licząc na zwrot z ,,inwestycji”. Pojawia się problem, gdy z ,,jakiegoś” powodu nie możemy znaleźć nabywcy. Kupiliśmy prace na aukcji młodej sztuki, do której prawa autorskie mają osoby trzecie. Wartość artystyczna jest tak niska, że żaden dom aukcyjny nie chce naszej pracy przyjąć.\
