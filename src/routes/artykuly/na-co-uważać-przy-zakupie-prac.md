@@ -3,11 +3,14 @@ layout: blog
 title: Mity rynku sztuki – na co uważać przy zakupie prac?
 date: 2022-09-05T16:13:58.395Z
 author: Joanna Sikorska
+thumbnail: /images/uploads/ad_test-article1.jpg
 tags:
   - Doradztwo
   - Rynek sztuki
-thumbnail: /images/uploads/ad_test-article1.jpg
 ---
+![Venice in oil](/images/uploads/ad_test-article1.jpg)
+
+
 
 Inwestycje w dzieła sztuki są coraz popularniejszą formą lokaty kapitału, jednak by kolekcjonować z powodzeniem warto poznać zagrożenia, które niestety nie należą do rzadkości.\
 \
