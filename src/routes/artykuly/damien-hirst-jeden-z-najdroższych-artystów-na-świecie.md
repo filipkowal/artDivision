@@ -5,12 +5,14 @@ date: 2022-09-05T16:17:20.966Z
 author: Joanna Sikorska
 tags:
   - Rynek sztuki
-thumbnail: /images/uploads/landscape_1280-340x240articlethumbnail2.png
 intro: "Czaszka jako symbol śmierci, wpisuje się w typowy dla Hirtst’a motyw
   przemijania. Strach przed śmiercią okazuje się silniejszą emocją niż miłość
   czy pożądanie. Inspiruje Hirst’a od momentu, gdy jako młody chłopak znalazł
   pracę w kostnicy… "
+thumbnail: /images/uploads/landscape_1280-340x240articlethumbnail2.png
 ---
+![Damien Hirst, For the Love of God/ zdjecie: www.freeze.com](/images/uploads/ad_test-article3.jpg "Damien Hirst, For the Love of God/ zdjecie: www.freeze.com")
+
 Damien Hirst urodził się w 1965 roku w Bristolu. Studiował na Goldsmiths University of London. Na studiach współtworzył grupę Young British Artist. Młodzi twórcy znani byli z odważnych i kontrowersyjnych postaw artystycznych. Przykładem może być ,,Fizyczna niemożność śmierci w umyśle kogoś żyjącego’’ Hirst’a, czyli rekin tygrysi zanurzony w szklanym zbiorniku wypełnionym formaliną. Monumentalna praca została sprzedana w 2004 roku za 8 mln dolarów. Kolejną odważną pracą z kręgu Young British Artists jest ,,Moje łóżko’’ Tracy Emin. Śmiały zapis epizodu depresji artystki wywołał fale poruszenia.\
 \
 Od samego początku działalność Hirst’a koncentrowała się wokół relacji między sztuką, pięknem religią i śmiercią. Motyw przemijania jest dominujący niemal we wszystkich pracach. W cyklu ,,Historii naturalnej’’ używa martwych zwierząt. W późniejszych realizacjach sięga po skrzydła motyli. Mniej kontrowersji widać w pracach, w których Hirst używa pigułek z serii leków paliatywnych i antydepresyjnych. W ,,Lullaby” duża gablota zapełniona jest pastylkami. Liczba odpowiada ilości jaką przeciętny człowiek spożywa w ciągu życia.
