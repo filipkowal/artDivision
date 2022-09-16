@@ -1,6 +1,6 @@
 export const fetchArticles = async () => {
 	const allPostFiles = import.meta.glob('/src/routes/artykuly/*.md');
-	const posts = getFilesContent(allPostFiles, 'artykuly');
+	const posts = await getFilesContent(allPostFiles, 'artykuly');
 
 	return posts;
 };

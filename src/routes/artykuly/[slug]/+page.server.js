@@ -1,10 +1,17 @@
 export async function load({ params }) {
 	const { attributes, html: body } = await import(`../${params.slug}.md`);
 
-	const withFigures = body.replace(
-		/<img\s.*?>/g,
-		(match) => `<figure>${match}<figcaption>${match.match(/title="(.*)"/)[1]}</figcaption></figure>`
-	);
+	return { ...attributes, body: addCaptionsToImages(body) };
+}
 
-	return { ...attributes, body: withFigures };
+function addCaptionsToImages(body) {
+	if (body.includes('<img')) {
+		return body.replace(/<img\s.*?>/g, (match) => {
+			const title = match.match(/title="(.*)"/)?.[1];
+			if (title) return `<figure>${match}<figcaption>${title}</figcaption></figure>`;
+			return `<figure>${match}</figure>`;
+		});
+	}
+
+	return body;
 }

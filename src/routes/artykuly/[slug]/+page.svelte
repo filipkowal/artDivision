@@ -1,6 +1,6 @@
 <script>
 	import Tag from '../../../components/Tag.svelte';
-
+	import BackButton from '../../../components/BackButton.svelte';
 	export let data;
 	const { title, tags, date, author, intro, body } = data;
 </script>
@@ -8,7 +8,7 @@
 <article class="column">
 	<header>
 		<div><h2 class="header-title">Artykuły</h2></div>
-		<div><a href="/"><h1 class="back">&#8617</h1></a></div>
+		<BackButton />
 	</header>
 	<div class="content">
 		<div class="content-header">
@@ -16,14 +16,20 @@
 				<h1>{title}</h1>
 				<time datetime={date}>{date.slice(0, 10)}</time>
 			</div>
-			<div class="header-row">
-				{#each tags as tag}
-					<Tag {tag} />
-				{/each}
-				<span class="author">Autor: {author}</span>
-			</div>
+			{#if tags.length}
+				<div class="header-row">
+					<div class="tags">
+						{#each tags as tag}
+							<Tag {tag} />
+						{/each}
+					</div>
+					<span class="author">Autor: {author}</span>
+				</div>
+			{/if}
 		</div>
-		<h3>{intro}</h3>
+		{#if intro}
+			<h3>{intro}</h3>
+		{/if}
 		<div class="content-body">{@html body}</div>
 		<footer>
 			<p>Jeśli masz jakieś pytania, zapraszamy do <b><a href="/kontakt">kontaktu</a></b>.</p>
@@ -52,6 +58,13 @@
 	.header-title {
 		font-weight: 400;
 		font-size: 1.7rem;
+	}
+	.tags {
+		display: flex;
+	}
+	:global(.tags div) {
+		border: 2px solid black !important;
+		margin-right: 0.3rem;
 	}
 	:global(.content h1) {
 		font-family: NewsPlantinItalic;
@@ -105,6 +118,9 @@
 	}
 	:global(.content-body figure) {
 		margin-top: 2.7rem;
+	}
+	:global(.content-body img) {
+		max-width: 25rem;
 	}
 	:global(.content-body figcaption) {
 		margin-top: 1rem;
