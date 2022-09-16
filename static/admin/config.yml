@@ -14,6 +14,7 @@ collections:
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }
       - { label: "Autor", name: "author", widget: "string", required: false }
+      - { label: "Obraz główny", name: "thumbnail", widget: "image" }
       - {
           label: "Tagi",
           name: "tags",
@@ -23,18 +24,7 @@ collections:
         }
       - { label: "Intro", name: "intro", widget: "text", required: false }
       - { label: "Tekst", name: "body", widget: "markdown" }
-      - label: "Obraz główny"
-        name: "thumbnail"
-        widget: "object"
-        required: false
-        fields:
-          - { label: "Obraz", name: "image", widget: "string" }
-          - {
-              label: "Opis obrazu",
-              name: "caption",
-              widget: "string",
-              required: false,
-            }
+
   - name: "oferta"
     label: "Oferta"
     folder: "src/routes/oferta"
