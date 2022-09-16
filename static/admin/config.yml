@@ -13,7 +13,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }
-      - { label: "Autor", name: "author", widget: "string", required: false }
+      - { label: "Autor", name: "author", widget: "string" }
       - { label: "Obraz główny", name: "thumbnail", widget: "image" }
       - {
           label: "Tagi",
