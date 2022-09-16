@@ -2,8 +2,7 @@
 	import Tag from '../../../components/Tag.svelte';
 
 	export let data;
-	const { title, tags, date, author, thumbnail, intro, body } = data;
-	console.log(thumbnail);
+	const { title, tags, date, author, intro, body } = data;
 </script>
 
 <article class="column">
@@ -24,7 +23,6 @@
 				<span class="author">Autor: {author}</span>
 			</div>
 		</div>
-		<image src={thumbnail} />
 		<h3>{intro}</h3>
 		<div class="content-body">{@html body}</div>
 		<footer>
@@ -105,8 +103,21 @@
 		max-width: 70%;
 		padding-left: 10rem;
 	}
-	:global(.content-body p img) {
-		margin-left: -10rem;
+	:global(.content-body figure) {
 		margin-top: 2.7rem;
+	}
+	:global(.content-body figcaption) {
+		margin-top: 1rem;
+		font-size: 0.8rem;
+		margin-left: 5.8rem;
+	}
+	:global(.content-body figcaption::before) {
+		content: '';
+		background-image: url('/AD_search.svg');
+		display: inline-block;
+		width: 0.8rem;
+		height: 0.8rem;
+		margin-right: 0.5rem;
+		transform: translateY(15%);
 	}
 </style>
