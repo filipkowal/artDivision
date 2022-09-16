@@ -32,9 +32,7 @@
 			border-bottom: 2px solid black;
 			border-left: 1px solid black;
 			margin: 0 0.5rem;
+			height: auto;
 		}
-	}
-	img {
-		max-width: 100%;
 	}
 </style>

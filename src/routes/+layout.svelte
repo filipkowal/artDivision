@@ -76,7 +76,8 @@
 		transition: box-shadow 0.15s, translate 0.15s;
 	}
 	:global(.square) {
-		max-width: 100%;
+		width: 100%;
+		max-width: 25rem;
 		height: auto;
 		aspect-ratio: 1;
 		object-fit: cover;

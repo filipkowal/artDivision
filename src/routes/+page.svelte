@@ -54,6 +54,7 @@
 			flex-direction: column;
 		}
 		section {
+			overflow: hidden;
 			min-height: 0;
 			border-right: 0;
 		}
