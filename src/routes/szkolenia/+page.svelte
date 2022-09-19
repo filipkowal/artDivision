@@ -6,7 +6,7 @@
 	const { workshops } = data;
 </script>
 
-<div class="page-container">
+<div class="column page-container">
 	<SectionHeader title="Szkolenia" />
 	<section class="workshops">
 		{#each workshops as workshop}

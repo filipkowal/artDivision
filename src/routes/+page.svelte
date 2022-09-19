@@ -3,31 +3,36 @@
 	import SimpleCard from '../components/SimpleCard.svelte';
 
 	export let data;
-	const { artykuly, oferty, szkolenia } = data;
+	const { articles, offers, workshops } = data;
 </script>
 
 <div class="section-container">
 	<section class="articles column column-2">
 		<a href="/artykuly"><h1>Artykuły</h1></a>
 		<div class="cards-container">
-			{#each artykuly as artykul}
-				<ArticleCard {...artykul} />
+			{#each articles as article}
+				<ArticleCard
+					title={article.title}
+					thumbnail={article.thumbnail}
+					fileName={article.fileName}
+					tags={article.tags}
+				/>
 			{/each}
 		</div>
 	</section>
 	<section class="offer column column-3">
 		<a href="/oferta"><h1>Oferta</h1></a>
 		<div class="cards-container">
-			{#each oferty as oferta}
-				<SimpleCard title={oferta.title} fileName={oferta.fileName} />
+			{#each offers as offer}
+				<SimpleCard title={offer.title} fileName={offer.fileName} />
 			{/each}
 		</div>
 	</section>
 	<section class="workshops column column-4">
 		<a href="/szkolenia"><h1>Szkolenia</h1></a>
 		<div class="cards-container">
-			{#each szkolenia as szkolenie}
-				<SimpleCard title={szkolenie.title} fileName={szkolenie.fileName} level={szkolenie.level} />
+			{#each workshops as workshop}
+				<SimpleCard title={workshop.title} fileName={workshop.fileName} level={workshop.level} />
 			{/each}
 		</div>
 	</section>

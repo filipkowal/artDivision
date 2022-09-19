@@ -1,5 +1,7 @@
 <script>
-	export let title, level, fileName;
+	export let title,
+		level = null,
+		fileName;
 </script>
 
 <a href={`./${level ? 'szkolenia' : 'oferta'}/${fileName}`}>
