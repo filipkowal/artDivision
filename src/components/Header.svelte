@@ -5,10 +5,12 @@
 </script>
 
 <header class="column">
-	<a href="/" class="link-home"><img src={onas.logo} alt="logo-art-division" class="logo" /></a>
-	<img src={onas.thumbnail} alt="zespół" class="square" />
-	<p>{@html onas.body}</p>
-	<ContactPopup />
+	<div class="column-content">
+		<a href="/" class="link-home"><img src={onas.logo} alt="logo-art-division" class="logo" /></a>
+		<img src={onas.thumbnail} alt="zespół" class="square" />
+		<p>{@html onas.body}</p>
+		<ContactPopup />
+	</div>
 </header>
 
 <style>

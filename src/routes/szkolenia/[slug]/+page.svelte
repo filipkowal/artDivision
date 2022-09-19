@@ -8,7 +8,7 @@
 
 <article class="column page-container column-2">
 	<SectionHeader title="Szkolenia" />
-	<div class="non-article-content">
+	<div class="content">
 		<h1>{title}</h1>
 		<div>{@html body}</div>
 		<footer>
@@ -19,6 +19,9 @@
 </article>
 
 <style>
+	h1 {
+		font-weight: 700;
+	}
 	footer {
 		border-top: 1px solid black;
 		margin-top: 5rem;

@@ -3,14 +3,16 @@
 </script>
 
 <footer class="column column-5">
-	<h2>Zespół</h2>
-	{#each zespol as osoba}
-		<div>
-			<h3><a href="/zespol/{osoba.fileName}">{osoba.title}</a></h3>
-			<img src={osoba.photo} alt={osoba.title} class="square" />
-			<p>{@html osoba.body}</p>
-		</div>
-	{/each}
+	<div class="column-content">
+		<h2>Zespół</h2>
+		{#each zespol as osoba}
+			<div>
+				<h3><a href="/zespol/{osoba.fileName}">{osoba.title}</a></h3>
+				<img src={osoba.photo} alt={osoba.title} class="square" />
+				<p>{@html osoba.body}</p>
+			</div>
+		{/each}
+	</div>
 </footer>
 
 <style>

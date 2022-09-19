@@ -42,6 +42,10 @@
 		font-weight: 400;
 		font-style: italic;
 	}
+	:global(h1) {
+		font-size: 4.2rem;
+		font-weight: 400;
+	}
 	:root {
 		font-family: 'Neue Haas Unica Pro', sans-serif;
 		font-size: 14px;
@@ -87,17 +91,17 @@
 		overflow: auto;
 		height: 100vh;
 	}
-	:global(.non-article-content) {
+	:global(.content) {
 		margin: 1rem 0 2.5rem 0;
 		border: 2px solid black;
 		padding: 2rem;
 	}
-	:global(.non-article-content h1:first-of-type) {
+	:global(.content h1:first-of-type) {
 		font-size: 4.3rem;
 		line-height: 5rem;
 		margin-top: 0;
 	}
-	:global(.non-article-content p, .non-article-content li) {
+	:global(.content p, .content li) {
 		font-size: 1.2rem;
 	}
 	main {
@@ -135,7 +139,8 @@
 	:global(.column) {
 		transform: translateY(100%);
 		opacity: 0;
-		animation: 1s ease-in-out slideIn forwards;
+		animation: 0.8s ease-in-out slideIn forwards;
+		padding-top: 2rem;
 	}
 	:global(.column-2) {
 		animation-delay: 0.1s;
@@ -156,8 +161,8 @@
 	:global(.column::-webkit-scrollbar-thumb) {
 		background-color: black;
 	}
-	:global(.column) {
-		padding-top: 2rem;
+	:global(.column-content) {
+		padding-bottom: 3rem;
 	}
 
 	@media (max-width: 1200px) {
