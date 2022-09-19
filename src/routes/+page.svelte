@@ -7,23 +7,29 @@
 </script>
 
 <div class="section-container">
-	<section class="articles column">
+	<section class="articles column column-2">
 		<a href="/artykuly"><h1>Artykuły</h1></a>
-		{#each artykuly as artykul}
-			<ArticleCard {...artykul} />
-		{/each}
+		<div class="cards-container">
+			{#each artykuly as artykul}
+				<ArticleCard {...artykul} />
+			{/each}
+		</div>
 	</section>
-	<section class="offer column">
+	<section class="offer column column-3">
 		<a href="/oferta"><h1>Oferta</h1></a>
-		{#each oferty as oferta}
-			<SimpleCard title={oferta.title} fileName={oferta.fileName} />
-		{/each}
+		<div class="cards-container">
+			{#each oferty as oferta}
+				<SimpleCard title={oferta.title} fileName={oferta.fileName} />
+			{/each}
+		</div>
 	</section>
-	<section class="workshops column">
+	<section class="workshops column column-4">
 		<a href="/szkolenia"><h1>Szkolenia</h1></a>
-		{#each szkolenia as szkolenie}
-			<SimpleCard title={szkolenie.title} fileName={szkolenie.fileName} level={szkolenie.level} />
-		{/each}
+		<div class="cards-container">
+			{#each szkolenia as szkolenie}
+				<SimpleCard title={szkolenie.title} fileName={szkolenie.fileName} level={szkolenie.level} />
+			{/each}
+		</div>
 	</section>
 </div>
 
@@ -46,6 +52,9 @@
 	h1 {
 		font-weight: 400;
 		font-size: 1.7rem;
+	}
+	.cards-container {
+		margin-bottom: 2.5rem;
 	}
 
 	@media (max-width: 1200px) {

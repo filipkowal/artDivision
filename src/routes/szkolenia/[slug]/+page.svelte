@@ -6,7 +6,7 @@
 	const { title, body } = data;
 </script>
 
-<article class="column page-container">
+<article class="column page-container column-2">
 	<SectionHeader title="Szkolenia" />
 	<div class="non-article-content">
 		<h1>{title}</h1>

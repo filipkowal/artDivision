@@ -2,7 +2,7 @@
 	export let zespol;
 </script>
 
-<footer class="column">
+<footer class="column column-5">
 	<h2>Zespół</h2>
 	{#each zespol as osoba}
 		<div>

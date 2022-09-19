@@ -3,7 +3,7 @@
 	const { title, body, photo } = data;
 </script>
 
-<article class="column">
+<article class="column column-2">
 	<a href="/">Powrót</a>
 	<h1>{title}</h1>
 	<div>{@html body}</div>

@@ -5,7 +5,7 @@
 	const { title, tags, date, author, intro, body } = data;
 </script>
 
-<article class="column page-container">
+<article class="column page-container column-2">
 	<SectionHeader title="Artykuły" />
 	<div class="content">
 		<div class="content-header">
@@ -36,7 +36,7 @@
 
 <style>
 	.content {
-		margin: 1rem 0;
+		margin: 1rem 0 2.5rem 0;
 		border: 2px solid black;
 		padding: 2rem;
 	}
