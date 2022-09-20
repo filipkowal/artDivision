@@ -2,15 +2,14 @@
 	import SectionHeader from '../../../components/SectionHeader.svelte';
 
 	export let data;
-	const { title, body, photo } = data;
 </script>
 
 <article class="column column-2 page-container">
 	<SectionHeader title="Zespół" />
 	<div class="content">
-		<h1>{title}</h1>
-		<div class="team-body">{@html body}</div>
-		<img src={photo} alt={title} />
+		<h1>{data.title}</h1>
+		<div class="team-body">{@html data.body}</div>
+		<img src={data.photo} alt={data.title} />
 	</div>
 </article>
 
