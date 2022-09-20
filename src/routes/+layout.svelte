@@ -7,9 +7,15 @@
 </script>
 
 <div class="layout-container">
-	<Header {onas} />
+	<div class="hide-on-mobile">
+		<Header {onas} />
+	</div>
+
 	<main><slot /></main>
-	<Footer {zespol} />
+
+	<div class="hide-on-mobile">
+		<Footer {zespol} />
+	</div>
 </div>
 
 <style>
@@ -112,6 +118,9 @@
 			margin: 0 0.5rem;
 			border-left: 1px solid black;
 			border-bottom: 2px solid black;
+		}
+		.hide-on-mobile {
+			display: none;
 		}
 	}
 

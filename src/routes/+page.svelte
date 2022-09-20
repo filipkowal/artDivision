@@ -1,12 +1,18 @@
 <script>
 	import ArticleCard from '../components/ArticleCard.svelte';
 	import SimpleCard from '../components/SimpleCard.svelte';
+	import Header from '../components/Header.svelte';
+	import Footer from '../components/Footer.svelte';
 
 	export let data;
-	const { articles, offers, workshops } = data;
+	const { articles, offers, workshops, onas, zespol } = data;
 </script>
 
 <div class="section-container">
+	<div class="hide-on-desktop">
+		<Header {onas} />
+	</div>
+
 	<section class="articles column column-2">
 		<a href="/artykuly"><h1>Artykuły</h1></a>
 		<div class="cards-container">
@@ -36,6 +42,10 @@
 			{/each}
 		</div>
 	</section>
+
+	<div class="hide-on-desktop">
+		<Footer {zespol} />
+	</div>
 </div>
 
 <style>
@@ -75,6 +85,11 @@
 		section:not(:last-of-type) {
 			border-bottom: 2px solid black;
 			border-right: 0;
+		}
+	}
+	@media (min-width: 1201px) {
+		.hide-on-desktop {
+			display: none;
 		}
 	}
 </style>
