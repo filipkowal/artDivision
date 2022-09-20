@@ -1,5 +1,5 @@
 <script>
-	import ContactPopup from './ContactPopup.svelte';
+	import ContactPopup from './ContactPopupDesktop.svelte';
 
 	export let onas;
 </script>

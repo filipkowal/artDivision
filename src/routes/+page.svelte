@@ -10,7 +10,7 @@
 </script>
 
 <div class="section-container">
-	<div class="hide-on-desktop">
+	<div class="hide-on-desktop" id="onas">
 		<Header {onas} />
 	</div>
 
@@ -44,7 +44,7 @@
 		</div>
 	</section>
 
-	<div class="hide-on-desktop">
+	<div class="hide-on-desktop" id="zespol">
 		<Footer {zespol} />
 	</div>
 

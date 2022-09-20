@@ -1,9 +1,8 @@
 <script>
 	import ContactData from './ContactData.svelte';
-
-	export let setOpenMenu = () => {};
 </script>
 
+<button class="contact-button {$$props.class}">Kontakt</button>
 <div class="contact-popup">
 	<div class="newsletter-section">
 		<b>Newsletter</b>
@@ -23,40 +22,38 @@
 		<ContactData />
 		<a href="/kontakt"><button>Otwórz formularz kontaktowy</button></a>
 	</div>
-	<div class="buttons">
-		<button class="close-button" on:click={() => setOpenMenu(null)}>Zamknij</button>
-		<button on:click={() => setOpenMenu('menu')}>Menu</button>
-	</div>
 </div>
 
 <style>
-	.buttons {
-		display: flex;
-		flex-direction: row;
-		justify-content: space-between;
-	}
-	.close-button {
-		background-color: #0000ff;
-		color: white;
-	}
-	.buttons > button {
-		max-width: 45%;
-		margin: initial 0;
-	}
 	.contact-popup {
+		display: none;
 		position: absolute;
-		bottom: 0;
+		bottom: 4rem;
 		left: 50%;
 		transform: translateX(-50%);
 		border: 2px solid #0000ff;
 		background-color: white;
 		padding: 1rem;
-		width: 94%;
+		width: 80%;
 		color: #0000ff;
+	}
+	.contact-button {
+		text-align: center;
+		position: sticky;
+		margin-left: auto;
+		margin-right: auto;
+		bottom: 4rem;
+		background-color: white;
 	}
 	.contact-popup button {
 		width: 100%;
 		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.contact-button:hover + .contact-popup,
+	.contact-popup:hover {
+		display: block;
 	}
 	input {
 		border-color: #0000ff;

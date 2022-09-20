@@ -78,6 +78,8 @@
 		font-weight: bold;
 		background-color: inherit;
 		margin-top: 1.6rem;
+		text-align: center;
+		background-color: white;
 	}
 	:global(button:hover) {
 		cursor: pointer;
