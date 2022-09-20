@@ -114,6 +114,13 @@
 		line-height: 5rem;
 		margin-top: 0;
 	}
+	@media (max-width: 1200px) {
+		:global(.content h1:first-of-type) {
+			font-size: 2.5rem;
+			line-height: 2.6rem;
+			overflow-wrap: break-word;
+		}
+	}
 	:global(.content p, .content li) {
 		font-size: 1.2rem;
 	}
