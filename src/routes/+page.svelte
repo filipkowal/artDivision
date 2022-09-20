@@ -80,6 +80,8 @@
 		section {
 			overflow: hidden;
 			min-height: 0;
+			height: auto;
+			max-height: 100vh;
 			border-right: 0;
 		}
 		section:not(:last-of-type) {

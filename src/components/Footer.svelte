@@ -31,9 +31,7 @@
 	}
 	@media (max-width: 1200px) {
 		footer {
-			border-bottom: 2px solid black;
-			border-left: 1px solid black;
-			margin: 0 0.5rem;
+			border-top: 2px solid black;
 			height: auto;
 		}
 	}

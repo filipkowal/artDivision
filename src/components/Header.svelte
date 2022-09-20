@@ -34,8 +34,9 @@
 	@media (max-width: 1200px) {
 		header {
 			border-bottom: 2px solid black;
-			border-left: 1px solid black;
-			margin: 0 0.5rem;
+			border-left: none;
+			border-right: none;
+			margin: 0;
 			height: auto;
 		}
 	}
