@@ -11,6 +11,6 @@
 	address {
 		color: #0000ff;
 		font-style: normal;
-		line-height: 1rem;
+		line-height: 1.5rem;
 	}
 </style>
