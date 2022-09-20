@@ -96,8 +96,13 @@
 	}
 	:global(.page-container) {
 		padding: 2rem 0.6rem;
-		overflow: auto;
+		overflow-y: auto;
 		height: 100vh;
+	}
+	@media (max-width: 1200px) {
+		:global(.page-container) {
+			height: auto;
+		}
 	}
 	:global(.content) {
 		margin: 1rem 0 2.5rem 0;

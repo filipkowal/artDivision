@@ -27,6 +27,12 @@
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
 	}
+	@media (max-width: 1200px) {
+		.articles {
+			display: flex;
+			flex-direction: column;
+		}
+	}
 	.card {
 		padding-left: 0.6rem;
 		padding-right: 0.6rem;

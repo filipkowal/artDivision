@@ -21,4 +21,10 @@
 		grid-template-columns: 1fr 1fr 1fr;
 		column-gap: 0.6rem;
 	}
+	@media (max-width: 1200px) {
+		.offers {
+			display: flex;
+			flex-direction: column;
+		}
+	}
 </style>
