@@ -3,6 +3,7 @@
 	import SimpleCard from '../components/SimpleCard.svelte';
 	import Header from '../components/Header.svelte';
 	import Footer from '../components/Footer.svelte';
+	import MobileMenu from '../components/MobileMenu.svelte';
 
 	export let data;
 	const { articles, offers, workshops, onas, zespol } = data;
@@ -46,6 +47,8 @@
 	<div class="hide-on-desktop">
 		<Footer {zespol} />
 	</div>
+
+	<MobileMenu />
 </div>
 
 <style>

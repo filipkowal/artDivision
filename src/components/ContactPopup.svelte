@@ -2,7 +2,7 @@
 	import ContactData from './ContactData.svelte';
 </script>
 
-<button class="contact-button">Kontakt</button>
+<button class="contact-button {$$props.class}">Kontakt</button>
 <div class="contact-popup">
 	<div class="newsletter-section">
 		<b>Newsletter</b>
@@ -39,11 +39,11 @@
 	}
 	.contact-button {
 		text-align: center;
-		position: absolute;
+		position: sticky;
+		margin-left: auto;
+		margin-right: auto;
 		bottom: 4rem;
 		background-color: white;
-		left: 50%;
-		transform: translateX(-50%);
 	}
 	.contact-popup button {
 		width: 100%;

@@ -9,7 +9,7 @@
 		<a href="/" class="link-home"><img src={onas.logo} alt="logo-art-division" class="logo" /></a>
 		<img src={onas.thumbnail} alt="zespół" class="square" />
 		<p>{@html onas.body}</p>
-		<ContactPopup />
+		<ContactPopup class="header-contact-button" />
 	</div>
 </header>
 
@@ -38,6 +38,10 @@
 			border-right: none;
 			margin: 0;
 			height: auto;
+		}
+
+		:global(.header-contact-button) {
+			display: none;
 		}
 	}
 </style>
