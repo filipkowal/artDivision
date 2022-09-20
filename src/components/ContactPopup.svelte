@@ -5,8 +5,8 @@
 <button class="contact-button">Kontakt</button>
 <div class="contact-popup">
 	<div class="newsletter-section">
-		<h1>Newsletter</h1>
-		<form method="post" name="newsletter" netlify>
+		<b>Newsletter</b>
+		<form method="post" name="newsletter" class="contact-form" netlify>
 			<input type="text" name="name" placeholder="Imię i nazwisko" />
 			<input type="email" name="email" placeholder="Adres email" required />
 			<p>
@@ -18,7 +18,7 @@
 		</form>
 	</div>
 	<div class="contact-section">
-		<h1>Kontakt</h1>
+		<b>Kontakt</b>
 		<ContactData />
 		<a href="/kontakt"><button>Otwórz formularz kontaktowy</button></a>
 	</div>
@@ -64,5 +64,11 @@
 	}
 	.privacy {
 		text-decoration: underline;
+	}
+	.contact-form {
+		margin-top: 1.5rem;
+	}
+	.contact-section {
+		margin-top: 2rem;
 	}
 </style>
