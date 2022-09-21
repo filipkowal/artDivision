@@ -15,13 +15,15 @@
 					>politykę prywatności.</a
 				>
 			</p>
-			<button type="submit">Zapisz się</button>
+			<button type="submit" on:click={() => setOpenMenu(null)}>Zapisz się</button>
 		</form>
 	</div>
 	<div class="contact-section">
 		<b>Kontakt</b>
 		<ContactData />
-		<a href="/kontakt"><button>Otwórz formularz kontaktowy</button></a>
+		<a href="/kontakt" on:click={() => setOpenMenu(null)}
+			><button>Otwórz formularz kontaktowy</button></a
+		>
 	</div>
 	<div class="buttons">
 		<button class="close-button" on:click={() => setOpenMenu(null)}>Zamknij</button>
@@ -53,6 +55,11 @@
 		padding: 1rem;
 		width: 94%;
 		color: #0000ff;
+	}
+	@media (max-width: 1200px) {
+		.contact-popup {
+			max-width: 90%;
+		}
 	}
 	.contact-popup button {
 		width: 100%;

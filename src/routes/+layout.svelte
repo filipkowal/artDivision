@@ -1,6 +1,7 @@
 <script>
 	import Footer from '../components/Footer.svelte';
 	import Header from '../components/Header.svelte';
+	import MobileMenu from '../components/MobileMenu.svelte';
 
 	export let data;
 	const { zespol, onas } = data;
@@ -16,6 +17,7 @@
 	<div class="hide-on-mobile">
 		<Footer {zespol} />
 	</div>
+	<MobileMenu />
 </div>
 
 <style>
@@ -110,6 +112,13 @@
 		margin: 1rem 0 2.5rem 0;
 		border: 2px solid black;
 		padding: 2rem;
+	}
+	@media (max-width: 1200px) {
+		:global(.content) {
+			margin: 0;
+			border: none;
+			padding: 0.5rem;
+		}
 	}
 	:global(.content h1:first-of-type) {
 		font-size: 4.3rem;
