@@ -15,7 +15,7 @@
 					>politykę prywatności.</a
 				>
 			</p>
-			<button type="submit" on:click={() => setOpenMenu(null)}>Zapisz się</button>
+			<button type="submit">Zapisz się</button>
 		</form>
 	</div>
 	<div class="contact-section">
