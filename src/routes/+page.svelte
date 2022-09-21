@@ -1,9 +1,10 @@
 <script>
 	import ArticleCard from '../components/ArticleCard.svelte';
-	import SimpleCard from '../components/SimpleCard.svelte';
 	import Header from '../components/Header.svelte';
 	import Footer from '../components/Footer.svelte';
 	import MobileFooter from '../components/MobileFooter.svelte';
+	import SimpleCardOffer from '../components/SimpleCardOffer.svelte';
+	import SimpleCardWorkshop from '../components/SimpleCardWorkshop.svelte';
 
 	export let data;
 	const { articles, offers, workshops, onas, zespol } = data;
@@ -32,7 +33,7 @@
 		<a href="/oferta"><h1 class="section-title">Oferta</h1></a>
 		<div class="cards-container">
 			{#each offers as offer}
-				<SimpleCard title={offer.title} fileName={offer.fileName} />
+				<SimpleCardOffer title={offer.title} fileName={offer.fileName} />
 			{/each}
 		</div>
 		<a href="/oferta"><button class="see-all-button">Zobacz wszystkie oferty</button></a>
@@ -41,7 +42,11 @@
 		<a href="/szkolenia"><h1 class="section-title">Szkolenia</h1></a>
 		<div class="cards-container">
 			{#each workshops as workshop}
-				<SimpleCard title={workshop.title} fileName={workshop.fileName} level={workshop.level} />
+				<SimpleCardWorkshop
+					title={workshop.title}
+					fileName={workshop.fileName}
+					level={workshop.level}
+				/>
 			{/each}
 		</div>
 		<a href="/szkolenia"><button class="see-all-button">Zobacz wszystkie szkolenia</button></a>

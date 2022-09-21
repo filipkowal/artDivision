@@ -1,15 +1,13 @@
 <script>
-	export let title,
-		level = null,
-		fileName;
+	export let title;
 </script>
 
-<a href={`./${level ? 'szkolenia' : 'oferta'}/${fileName}`}>
-	<div class="simpleCard">
-		<h2 class="title">{title}</h2>
-		<p class={`footer ${level ? 'level' : ''}`}>{level ?? 'więcej'}</p>
-	</div>
-</a>
+<div class="simpleCard">
+	<h2 class="title">{title}</h2>
+	<p class="footer">
+		<slot />
+	</p>
+</div>
 
 <style>
 	.simpleCard {
@@ -28,8 +26,5 @@
 		font-size: 1.8rem;
 		font-family: 'Neue Haas Unica Pro';
 		line-height: 2rem;
-	}
-	.level {
-		color: #0000ff;
 	}
 </style>

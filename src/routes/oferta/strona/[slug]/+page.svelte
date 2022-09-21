@@ -1,7 +1,7 @@
 <script>
 	import SectionHeader from '../../../../components/SectionHeader.svelte';
-	import SimpleCard from '../../../../components/SimpleCard.svelte';
 	import Pagination from '../../../../components/Pagination.svelte';
+	import SimpleCardOffer from '../../../../components/SimpleCardOffer.svelte';
 
 	export let data;
 </script>
@@ -10,7 +10,7 @@
 	<SectionHeader title="Oferta" />
 	<section class="offers">
 		{#each data.offers as offer}
-			<SimpleCard fileName={offer.fileName} title={offer.title} />
+			<SimpleCardOffer fileName={offer.fileName} title={offer.title} />
 		{/each}
 	</section>
 	<Pagination previousPageHref={data.previousPageHref} nextPageHref={data.nextPageHref} />

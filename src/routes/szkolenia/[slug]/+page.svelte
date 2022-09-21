@@ -15,11 +15,15 @@
 		<div>{@html body}</div>
 		<div class="prices">
 			{#if price}
-				<div class="price-card"><SimpleCard title="Cena regularna" level={price} /></div>
+				<div class="price-card">
+					<SimpleCard title="Cena regularna"><span class="price">{price}</span></SimpleCard>
+				</div>
 			{/if}
 			{#if priceReduced}
 				<div class="price-card">
-					<SimpleCard title="Cena przy wcześniejszym zapisie" level={priceReduced} />
+					<SimpleCard title="Cena przy wcześniejszym zapisie"
+						><span class="price">{priceReduced}</span></SimpleCard
+					>
 				</div>
 			{/if}
 		</div>
@@ -34,7 +38,7 @@
 	h1 {
 		font-weight: 700;
 	}
-	.level {
+	.price {
 		color: #0000ff;
 	}
 	footer {
@@ -43,11 +47,8 @@
 	}
 	.prices {
 		margin-top: 4rem;
-		/* max-width: 30rem; */
 		display: inline-flex;
 		gap: 1rem;
-
-		/* justify-content: space-evenly; */
 	}
 	@media (max-width: 1200px) {
 		.prices {
@@ -56,14 +57,6 @@
 			gap: 0;
 		}
 	}
-	/* :global(.prices > *) {
-		width: 23rem;
-		max-width: 100%;
-		height: 12rem;
-		display: flex;
-		align-items: stretch;
-		justify-items: stretch;
-	} */
 	.price-card {
 		width: 23rem;
 		max-width: 100%;

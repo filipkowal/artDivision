@@ -2,6 +2,7 @@
 	import Pagination from '../../components/Pagination.svelte';
 	import SectionHeader from '../../components/SectionHeader.svelte';
 	import SimpleCard from '../../components/SimpleCard.svelte';
+	import SimpleCardWorkshop from '../../components/SimpleCardWorkshop.svelte';
 
 	export let data;
 </script>
@@ -10,7 +11,11 @@
 	<SectionHeader title="Szkolenia" />
 	<section class="workshops">
 		{#each data.workshops as workshop}
-			<SimpleCard fileName={workshop.fileName} title={workshop.title} level={workshop.level} />
+			<SimpleCardWorkshop
+				fileName={workshop.fileName}
+				title={workshop.title}
+				level={workshop.level}
+			/>
 		{/each}
 	</section>
 	<Pagination previousPageHref={data.previousPageHref} nextPageHref={data.nextPageHref} />
