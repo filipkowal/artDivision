@@ -26,3 +26,9 @@
 	<path class="st0" d="M141.1,60.1V8.4h-20.2V1.7H169v6.7h-20.2v51.7H141.1z" />
 	<polygon class="st0" points="176.6,118.6 222.3,1.7 214.6,1.7 169,118.6 " />
 </svg>
+
+<style>
+	svg {
+		height: 2.4rem;
+	}
+</style>
