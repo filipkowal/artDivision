@@ -1,7 +1,7 @@
 <script>
-	import SectionHeader from '../../components/SectionHeader.svelte';
-	import SimpleCard from '../../components/SimpleCard.svelte';
-	import Pagination from '../../components/Pagination.svelte';
+	import SectionHeader from '../../../../components/SectionHeader.svelte';
+	import SimpleCard from '../../../../components/SimpleCard.svelte';
+	import Pagination from '../../../../components/Pagination.svelte';
 
 	export let data;
 </script>

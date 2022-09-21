@@ -56,18 +56,20 @@
 
 <style>
 	.see-all-button {
-		display: none;
-		position: absolute;
-		bottom: 1rem;
+		position: initial;
 		margin-left: auto;
 		margin-right: auto;
+		margin-bottom: 4rem;
 		left: 0;
 		right: 0;
 		width: 95%;
 	}
 	@media (max-width: 1200px) {
 		.see-all-button {
+			position: absolute;
 			display: block;
+			bottom: 1rem;
+			margin-bottom: 0;
 		}
 	}
 	.section-container {

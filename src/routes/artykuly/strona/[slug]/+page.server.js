@@ -1,4 +1,4 @@
-import { fetchArticles, getPaginatedEntries } from '../../lib/utils';
+import { fetchArticles, getPaginatedEntries } from '../../../../lib/utils';
 
 export async function load({ params }) {
 	const articles = await fetchArticles();

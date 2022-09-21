@@ -1,4 +1,4 @@
-import { fetchOffers, getPaginatedEntries } from '../../lib/utils';
+import { fetchOffers, getPaginatedEntries } from '../../../../lib/utils';
 
 export async function load({ params }) {
 	const offers = await fetchOffers();
