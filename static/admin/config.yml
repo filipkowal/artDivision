@@ -22,7 +22,6 @@ collections:
           field: { label: "Tag", name: "tag", widget: "string" },
           required: false,
         }
-      - { label: "Intro", name: "intro", widget: "text", required: false }
       - { label: "Tekst", name: "body", widget: "markdown" }
 
   - name: "oferta"

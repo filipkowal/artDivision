@@ -24,9 +24,6 @@
 				<span class="author">Autor: {author}</span>
 			</div>
 		</div>
-		{#if intro}
-			<h3>{intro}</h3>
-		{/if}
 		<div class="article-content-body">{@html body}</div>
 		<footer>
 			<p>Jeśli masz jakieś pytania, zapraszamy do <b><a href="/kontakt">kontaktu</a></b>.</p>
