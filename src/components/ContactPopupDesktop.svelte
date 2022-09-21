@@ -7,6 +7,9 @@
 	<div class="newsletter-section">
 		<b>Newsletter</b>
 		<form method="POST" name="newsletter" class="contact-form" data-netlify="true" action="/sukces">
+			<input type="hidden" name="form-name" value="newsletter" />
+			<input type="hidden" name="subject" value="newsletter" />
+
 			<input type="text" name="name" placeholder="Imię i nazwisko" autocomplete="off" />
 			<input type="email" name="email" placeholder="Adres email" required autocomplete="off" />
 			<p>
