@@ -1,4 +1,4 @@
-import { fetchWorkshops, getPaginatedEntries } from '../../lib/utils';
+import { fetchWorkshops, getPaginatedEntries } from '../../../../lib/utils';
 
 export async function load({ params }) {
 	const workshops = await fetchWorkshops();

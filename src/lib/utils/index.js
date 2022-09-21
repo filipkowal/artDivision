@@ -47,3 +47,20 @@ const getFilesContent = async (allPostFiles, category) => {
 
 	return posts;
 };
+
+export const getPaginatedEntries = ({ entries, params, name, urlName = name }) => {
+	const perPage = 20;
+	const pageNumber = Number(params.slug) || 1;
+	const hrefBase = `/${urlName}/strona`;
+
+	const start = pageNumber * perPage - perPage;
+	const end = start + perPage;
+
+	const entriesPaginated = entries.slice(start, end);
+
+	const previousPageHref = pageNumber > 1 ? `${hrefBase}/${pageNumber - 1}` : null;
+	const nextPageHref =
+		entries.length > pageNumber * perPage ? `${hrefBase}/${pageNumber + 1}` : null;
+
+	return { [name]: entriesPaginated, previousPageHref, nextPageHref };
+};
