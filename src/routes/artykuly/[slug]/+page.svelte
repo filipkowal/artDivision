@@ -129,6 +129,11 @@
 		max-width: 85%;
 		margin-top: 0;
 	}
+	@media (max-width: 1200px) {
+		.article-content-header h1 {
+			max-width: 100%;
+		}
+	}
 	:global(.article-content-body p) {
 		max-width: 70%;
 		padding-left: 10rem;
