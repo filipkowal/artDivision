@@ -1,23 +1,24 @@
 <script>
-	import BackButton from './BackButton.svelte';
-	import SectionHeaderMobile from './SectionHeaderMobile.svelte';
+	import LogoMobile from './LogoMobile.svelte';
+
 	export let title;
 </script>
 
 <header>
-	<div><h2 class="header-title">{title}</h2></div>
-	<BackButton />
+	<a href="/">
+		<LogoMobile />
+		<div><h2 class="header-title">{title}</h2></div>
+	</a>
 </header>
-<SectionHeaderMobile {title} />
 
 <style>
 	header {
-		display: flex;
+		display: none;
 		flex-direction: row;
 	}
 	@media (max-width: 1200px) {
 		header {
-			display: none;
+			display: flex;
 		}
 	}
 	header > * {
@@ -26,5 +27,9 @@
 	.header-title {
 		font-weight: 400;
 		font-size: 1.7rem;
+	}
+	a {
+		display: flex;
+		align-items: baseline;
 	}
 </style>
