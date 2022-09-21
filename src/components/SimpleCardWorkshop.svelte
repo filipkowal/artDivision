@@ -6,7 +6,7 @@
 		fileName;
 </script>
 
-<a href={`./szkolenia/${fileName}`}>
+<a href={`/szkolenia/${fileName}`}>
 	<SimpleCard {title}><span class="level">{level}</span></SimpleCard>
 </a>
 
