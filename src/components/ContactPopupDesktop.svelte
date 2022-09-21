@@ -6,7 +6,7 @@
 <div class="contact-popup">
 	<div class="newsletter-section">
 		<b>Newsletter</b>
-		<form method="post" name="newsletter" class="contact-form" netlify>
+		<form method="post" name="newsletter" class="contact-form" netlify action="/sukces">
 			<input type="text" name="name" placeholder="Imię i nazwisko" autocomplete="off" />
 			<input type="email" name="email" placeholder="Adres email" required autocomplete="off" />
 			<p>
@@ -27,10 +27,10 @@
 <style>
 	.contact-popup {
 		display: none;
-		position: absolute;
 		bottom: 4rem;
-		left: 50%;
-		transform: translateX(-50%);
+		position: sticky;
+		margin-left: auto;
+		margin-right: auto;
 		border: 2px solid #0000ff;
 		background-color: white;
 		padding: 1rem;

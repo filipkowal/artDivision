@@ -2,7 +2,7 @@
 	export let name;
 </script>
 
-<form method="POST" {name} data-netlify="true">
+<form method="POST" {name} data-netlify="true" action="/sukces">
 	<input type="hidden" name="form-name" value={name} />
 	<input type="hidden" name="subject" value={name} />
 

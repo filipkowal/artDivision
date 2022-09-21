@@ -5,7 +5,7 @@
 <div class="mobile-footer">
 	<div class="newsletter-section">
 		<h2>Newsletter</h2>
-		<form method="post" name="newsletter" class="contact-form" netlify>
+		<form method="post" name="newsletter" class="contact-form" netlify action="/sukces">
 			<input type="text" name="name" placeholder="Imię i nazwisko" />
 			<input type="email" name="email" placeholder="Adres email" required />
 			<p>
