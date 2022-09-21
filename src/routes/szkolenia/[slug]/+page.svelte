@@ -4,13 +4,14 @@
 	import SimpleCard from '../../../components/SimpleCard.svelte';
 
 	export let data;
-	const { title, body, price, priceReduced } = data;
+	const { title, body, price, priceReduced, level } = data;
 </script>
 
 <article class="column page-container column-2">
 	<SectionHeader title="Szkolenia" />
 	<div class="content">
 		<h1>{title}</h1>
+		<span class="level">{level}</span>
 		<div>{@html body}</div>
 		<div class="prices">
 			{#if price}
@@ -23,7 +24,7 @@
 			{/if}
 		</div>
 		<footer>
-			<p>Jeśli masz jakieś pytania, zapraszamy do <a href="/kontakt"><b>kontaktu</b></a>.</p>
+			<h2>Formularz do zapisów</h2>
 			<ContactForm name={title} />
 		</footer>
 	</div>
@@ -32,6 +33,9 @@
 <style>
 	h1 {
 		font-weight: 700;
+	}
+	.level {
+		color: #0000ff;
 	}
 	footer {
 		border-top: 1px solid black;

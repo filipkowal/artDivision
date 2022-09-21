@@ -1,6 +1,7 @@
 <script>
 	import Tag from '../../../components/Tag.svelte';
 	import SectionHeader from '../../../components/SectionHeader.svelte';
+	import MobileFooter from '../../../components/MobileFooter.svelte';
 	export let data;
 	const { title, tags, date, author, intro, body } = data;
 </script>
@@ -30,6 +31,7 @@
 		</footer>
 	</div>
 </article>
+<MobileFooter />
 
 <style>
 	.article-content {

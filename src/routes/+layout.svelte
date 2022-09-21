@@ -102,6 +102,7 @@
 	@media (max-width: 1200px) {
 		:global(.page-container) {
 			height: auto;
+			padding-top: 1rem;
 		}
 	}
 	:global(.content) {
