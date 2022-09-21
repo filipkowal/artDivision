@@ -13,16 +13,16 @@
 				<h1>{title}</h1>
 				<time datetime={date}>{date.slice(0, 10)}</time>
 			</div>
-			{#if tags.length}
-				<div class="header-row">
+			<div class="header-row">
+				{#if tags.length}
 					<div class="tags">
 						{#each tags as tag}
 							<Tag {tag} />
 						{/each}
 					</div>
-					<span class="author">Autor: {author}</span>
-				</div>
-			{/if}
+				{/if}
+				<span class="author">Autor: {author}</span>
+			</div>
 		</div>
 		{#if intro}
 			<h3>{intro}</h3>
@@ -64,8 +64,18 @@
 	.article-content-header h1 {
 		font-size: 4.3rem;
 	}
+	@media (max-width: 1200px) {
+		.article-content-header h1 {
+			font-size: 3rem;
+		}
+	}
 	:global(.article-content h2) {
 		font-size: 4rem;
+	}
+	@media (max-width: 1200px) {
+		:global(.article-content h1) {
+			font-size: 3rem;
+		}
 	}
 	:global(.article-content h3) {
 		line-height: 2.2rem;
@@ -85,6 +95,18 @@
 		display: flex;
 		justify-content: space-between;
 	}
+	@media (max-width: 1200px) {
+		.header-row {
+			flex-direction: column;
+		}
+		.header-row > * {
+			display: inline-block;
+			margin-top: 1rem;
+		}
+		.header-row:last-of-type {
+			flex-direction: column-reverse;
+		}
+	}
 	.header-row:last-of-type {
 		padding-bottom: 1rem;
 		border-bottom: 1px solid black;
@@ -97,8 +119,19 @@
 		max-width: 70%;
 		padding-left: 10rem;
 	}
+	@media (max-width: 1200px) {
+		:global(.article-content-body p) {
+			max-width: initial;
+			padding-left: 0;
+		}
+	}
 	:global(.article-content-body figure) {
 		margin-top: 2.7rem;
+	}
+	@media (max-width: 1200px) {
+		:global(.article-content-body figure) {
+			margin: 0;
+		}
 	}
 	:global(.article-content-body img) {
 		max-width: 25rem;
@@ -116,5 +149,13 @@
 		height: 0.8rem;
 		margin-right: 0.5rem;
 		transform: translateY(15%);
+	}
+	@media (max-width: 1200px) {
+		:global(.article-content-body img) {
+			max-width: 100%;
+		}
+		:global(.article-content-body figcaption) {
+			margin-left: 0;
+		}
 	}
 </style>
