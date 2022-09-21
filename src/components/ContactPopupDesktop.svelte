@@ -7,8 +7,8 @@
 	<div class="newsletter-section">
 		<b>Newsletter</b>
 		<form method="post" name="newsletter" class="contact-form" netlify>
-			<input type="text" name="name" placeholder="Imię i nazwisko" />
-			<input type="email" name="email" placeholder="Adres email" required />
+			<input type="text" name="name" placeholder="Imię i nazwisko" autocomplete="off" />
+			<input type="email" name="email" placeholder="Adres email" required autocomplete="off" />
 			<p>
 				Przechodząc dalej, akceptujesz naszą <a class="privacy" href="/polityka-prywatnosci"
 					>politykę prywatności.</a
@@ -52,7 +52,13 @@
 		margin-right: auto;
 	}
 	.contact-button:hover + .contact-popup,
-	.contact-popup:hover {
+	.contact-popup:hover,
+	.contact-popup:active,
+	.contact-popup:target,
+	.contact-popup *:active,
+	.contact-popup *:focus,
+	.contact-popup *:target,
+	.contact-popup:focus {
 		display: block;
 	}
 	input {
