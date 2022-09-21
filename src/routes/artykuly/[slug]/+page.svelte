@@ -21,7 +21,7 @@
 						{/each}
 					</div>
 				{/if}
-				<span class="author">Autor: {author}</span>
+				<span class="author"><span class="author-title">Autor:</span> {author}</span>
 			</div>
 		</div>
 		<div class="article-content-body">{@html body}</div>
@@ -37,8 +37,23 @@
 		border: 2px solid black;
 		padding: 2rem;
 	}
+	@media (max-width: 1200px) {
+		.article-content {
+			margin: 2rem 0.5rem 2.5rem 0.5rem;
+			border: none;
+			padding: 0;
+		}
+	}
 	.tags {
 		display: flex;
+	}
+	@media (max-width: 1200px) {
+		.author {
+			font-weight: 600;
+		}
+		.author-title {
+			display: none;
+		}
 	}
 	:global(.tags div) {
 		border: 2px solid black !important;

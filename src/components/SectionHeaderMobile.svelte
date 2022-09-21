@@ -31,5 +31,6 @@
 	a {
 		display: flex;
 		align-items: baseline;
+		padding-left: 1rem;
 	}
 </style>
