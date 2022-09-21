@@ -4,7 +4,7 @@
 
 <footer class="column column-5">
 	<div class="column-content">
-		<h2>Zespół</h2>
+		<h2 class="section-title">Zespół</h2>
 		{#each zespol as osoba}
 			<div>
 				<h3><a href="/zespol/{osoba.fileName}">{osoba.title}</a></h3>
@@ -33,6 +33,12 @@
 		footer {
 			border-top: 2px solid black;
 			height: auto;
+			padding-top: 0;
+		}
+		.section-title {
+			margin-top: 0.5rem;
+			margin-bottom: 2.5rem;
+			font-weight: 600;
 		}
 	}
 </style>

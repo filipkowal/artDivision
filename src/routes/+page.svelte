@@ -16,7 +16,7 @@
 	</div>
 
 	<section class="articles column column-2">
-		<a href="/artykuly"><h1>Artykuły</h1></a>
+		<a href="/artykuly"><h1 class="section-title">Artykuły</h1></a>
 		<div class="cards-container">
 			{#each articles as article}
 				<ArticleCard
@@ -27,22 +27,25 @@
 				/>
 			{/each}
 		</div>
+		<a href="/artykuly"><button class="see-all-button">Zobacz wszystkie artykuły</button></a>
 	</section>
 	<section class="offer column column-3">
-		<a href="/oferta"><h1>Oferta</h1></a>
+		<a href="/oferta"><h1 class="section-title">Oferta</h1></a>
 		<div class="cards-container">
 			{#each offers as offer}
 				<SimpleCard title={offer.title} fileName={offer.fileName} />
 			{/each}
 		</div>
+		<a href="/oferta"><button class="see-all-button">Zobacz wszystkie oferty</button></a>
 	</section>
 	<section class="workshops column column-4">
-		<a href="/szkolenia"><h1>Szkolenia</h1></a>
+		<a href="/szkolenia"><h1 class="section-title">Szkolenia</h1></a>
 		<div class="cards-container">
 			{#each workshops as workshop}
 				<SimpleCard title={workshop.title} fileName={workshop.fileName} level={workshop.level} />
 			{/each}
 		</div>
+		<a href="/szkolenia"><button class="see-all-button">Zobacz wszystkie szkolenia</button></a>
 	</section>
 
 	<div class="hide-on-desktop" id="zespol">
@@ -54,6 +57,21 @@
 </div>
 
 <style>
+	.see-all-button {
+		display: none;
+		position: absolute;
+		bottom: 1rem;
+		margin-left: auto;
+		margin-right: auto;
+		left: 0;
+		right: 0;
+		width: 95%;
+	}
+	@media (max-width: 1200px) {
+		.see-all-button {
+			display: block;
+		}
+	}
 	.section-container {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
@@ -86,12 +104,19 @@
 			overflow: hidden;
 			min-height: 0;
 			height: auto;
-			max-height: 100vh;
+			/* height: 100vh; */
+			max-height: 150vh;
 			border-right: 0;
+			padding-top: 0;
 		}
 		section:not(:last-of-type) {
 			border-bottom: 2px solid black;
 			border-right: 0;
+		}
+		.section-title {
+			margin-top: 0.5rem;
+			margin-bottom: 2.5rem;
+			font-weight: 600;
 		}
 	}
 	@media (min-width: 1201px) {
