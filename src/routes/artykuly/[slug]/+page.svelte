@@ -58,7 +58,6 @@
 		}
 	}
 	:global(.tags div) {
-		border: 2px solid black !important;
 		margin-right: 0.3rem;
 	}
 	:global(.article-content h1) {
