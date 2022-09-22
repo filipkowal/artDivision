@@ -32,6 +32,13 @@ collections:
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Tekst", name: "body", widget: "markdown" }
+      - { label: "Cena regularna", name: "price", widget: "string" }
+      - {
+          label: "Cena przy wcześniejszym zapisie",
+          name: "priceReduced",
+          widget: "string",
+          required: false,
+        }
 
   - name: "szkolenia"
     label: "Szkolenia"
