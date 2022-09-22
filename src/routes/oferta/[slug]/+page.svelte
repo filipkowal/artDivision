@@ -14,7 +14,11 @@
 		<div>{@html body}</div>
 		<Prices {price} {priceReduced} />
 		<footer>
-			<p>Jeśli masz jakieś pytania, zapraszamy do <a href="/kontakt"><b>kontaktu</b></a>.</p>
+			<p>
+				Zapisy i szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
+				<br />lub poprzez formularz poniżej.
+			</p>
+			<h2>Formularz do zapisów</h2>
 			<ContactForm name={title} />
 		</footer>
 	</div>
