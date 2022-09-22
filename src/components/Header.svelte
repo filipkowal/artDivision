@@ -27,9 +27,10 @@
 		height: 100vh;
 	}
 	.logo {
-		width: 100%;
 		display: block;
 		max-width: 20rem;
+		height: 34px;
+		margin-top: 1.13rem;
 	}
 	@media (max-width: 1200px) {
 		header {

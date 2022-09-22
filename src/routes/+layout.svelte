@@ -97,7 +97,7 @@
 		object-fit: cover;
 	}
 	:global(.page-container) {
-		padding: 2rem 0.6rem;
+		padding: 0 0.6rem;
 		overflow-y: auto;
 		height: 100vh;
 	}
@@ -174,7 +174,6 @@
 		transform: translateY(100%);
 		opacity: 0;
 		animation: 0.8s ease-in-out slideIn forwards;
-		padding-top: 2rem;
 	}
 	:global(.column-2) {
 		animation-delay: 0.1s;
@@ -189,13 +188,13 @@
 		animation-delay: 0.4s;
 	}
 
-	:global(.column::-webkit-scrollbar) {
+	:global(*::-webkit-scrollbar) {
 		width: 0.1rem;
 	}
-	:global(.column::-webkit-scrollbar-thumb) {
+	:global(*::-webkit-scrollbar-thumb) {
 		background: transparent;
 	}
-	:global(.column:hover::-webkit-scrollbar-thumb) {
+	:global(*:hover::-webkit-scrollbar-thumb) {
 		background: black;
 	}
 
