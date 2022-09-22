@@ -6,7 +6,7 @@
 	export let data;
 </script>
 
-<div class="page-container">
+<div class="page-container column">
 	<SectionHeader title="Oferta" />
 	<section class="offers">
 		{#each data.offers as offer}

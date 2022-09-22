@@ -2,7 +2,7 @@
 	import SectionHeader from '../../components/SectionHeader.svelte';
 </script>
 
-<div class="page-container">
+<div class="page-container column">
 	<SectionHeader title="Sukces" />
 	<div class="content">
 		<h1>Dziękujemy za kontakt.</h1>

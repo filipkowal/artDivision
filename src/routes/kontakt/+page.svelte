@@ -4,7 +4,7 @@
 	import SectionHeader from '../../components/SectionHeader.svelte';
 </script>
 
-<div class="page-container">
+<div class="page-container column">
 	<SectionHeader title="Kontakt" />
 	<div class="content">
 		<h1>Skontaktuj się z nami</h1>

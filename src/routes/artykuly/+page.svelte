@@ -6,7 +6,7 @@
 	export let data;
 </script>
 
-<section class="page-container">
+<section class="page-container column">
 	<SectionHeader title="Artykuły" />
 	<div class="articles">
 		{#each data.articles as article}
