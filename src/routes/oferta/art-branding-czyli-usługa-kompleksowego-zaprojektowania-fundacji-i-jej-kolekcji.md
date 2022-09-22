@@ -21,7 +21,7 @@ Jesteś zainteresowany poznaniem podstawowych mechanizmów rynku dzieł sztuki ?
 * Rynek pierwotny rynek wtórny: co, kiedy i gdzie kupować? Jak sprzedać ?
 * Zagrożenia na rynku dzieł sztuki: jak nie dać się oszukać ?
 
-### Szkolenie trwa od godziny 11.00 do 18.00 z godzinną przerwą.\
+### Szkolenie trwa od godziny 11.00 do 18.00 z godzinną przerwą.
 
 Maksymalna ilość uczestników to 5 osób\
 Termin najbliższego szkolenia: 20.04.2022
