@@ -190,7 +190,7 @@
 	}
 
 	:global(.column::-webkit-scrollbar) {
-		width: 0.2em;
+		width: 0.1rem;
 	}
 	:global(.column::-webkit-scrollbar-thumb) {
 		background: transparent;
