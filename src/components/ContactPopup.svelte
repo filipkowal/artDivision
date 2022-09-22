@@ -5,6 +5,13 @@
 </script>
 
 <div class="contact-popup">
+	<div class="contact-section">
+		<b>Kontakt</b>
+		<ContactData />
+		<a href="/kontakt" on:click={() => setOpenMenu(null)}
+			><button>Otwórz formularz kontaktowy</button></a
+		>
+	</div>
 	<div class="newsletter-section">
 		<b>Newsletter</b>
 		<form method="POST" name="newsletter" class="contact-form" data-netlify="true" action="/sukces">
@@ -20,13 +27,6 @@
 			</p>
 			<button type="submit">Zapisz się</button>
 		</form>
-	</div>
-	<div class="contact-section">
-		<b>Kontakt</b>
-		<ContactData />
-		<a href="/kontakt" on:click={() => setOpenMenu(null)}
-			><button>Otwórz formularz kontaktowy</button></a
-		>
 	</div>
 	<div class="buttons">
 		<button class="close-button" on:click={() => setOpenMenu(null)}>Zamknij</button>
@@ -81,7 +81,7 @@
 	.contact-form {
 		margin-top: 1.5rem;
 	}
-	.contact-section {
+	.newsletter-section {
 		margin-top: 2rem;
 	}
 </style>
