@@ -193,8 +193,12 @@
 		width: 0.2em;
 	}
 	:global(.column::-webkit-scrollbar-thumb) {
-		background-color: black;
+		background: transparent;
 	}
+	:global(.column:hover::-webkit-scrollbar-thumb) {
+		background: black;
+	}
+
 	:global(.column-content) {
 		padding-bottom: 3rem;
 	}
