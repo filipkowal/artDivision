@@ -1,6 +1,8 @@
 ---
 title: Art branding, czyli usługa kompleksowego zaprojektowania fundacji i jej
   kolekcji
+price: 1250 pln +23% VAT
+priceReduced: 950 pln + 23% VAT (do 24.09)
 ---
 Inwestowanie w dzieła sztuki jest coraz popularniejszą formą lokaty kapitału. Według raportu An Art Basel & UBS sprzedaż na globalnym rynku dzieł sztuki w 2018 roku wyniosła 67,4 mld USD i jest to 6% wzrost względem 2017 roku.\
 \
