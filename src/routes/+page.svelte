@@ -99,6 +99,9 @@
 	.cards-container {
 		margin-bottom: 2.5rem;
 	}
+	.section-title {
+		margin-left: 0.4rem;
+	}
 
 	@media (max-width: 1200px) {
 		.section-container {

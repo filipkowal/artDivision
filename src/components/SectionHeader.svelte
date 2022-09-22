@@ -26,5 +26,6 @@
 	.header-title {
 		font-weight: 400;
 		font-size: 1.7rem;
+		margin-left: 0.4rem;
 	}
 </style>
