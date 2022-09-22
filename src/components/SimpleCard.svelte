@@ -15,7 +15,7 @@
 		justify-content: space-between;
 		flex-direction: column;
 		border: 2px solid black;
-		padding: 0 1rem;
+		padding: 0 12px;
 		margin-bottom: 0.7rem;
 	}
 	.simpleCard:hover {
@@ -23,8 +23,9 @@
 	}
 	h2 {
 		font-weight: 500;
-		font-size: 1.8rem;
+		font-size: 1.57rem;
 		font-family: 'Neue Haas Unica Pro';
 		line-height: 2rem;
+		margin-top: 10px;
 	}
 </style>
