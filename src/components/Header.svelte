@@ -16,7 +16,7 @@
 <style>
 	.link-home img {
 		filter: none;
-		margin-bottom: 2rem;
+		margin-bottom: calc(2rem - 2px);
 	}
 	header {
 		border-right: 1px solid black;

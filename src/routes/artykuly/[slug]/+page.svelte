@@ -35,7 +35,7 @@
 
 <style>
 	.article-content {
-		margin: 1rem 0 2.5rem 0;
+		margin: 0 0 2.5rem 0;
 		border: 2px solid black;
 		padding: 2rem;
 	}
