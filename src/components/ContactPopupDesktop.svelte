@@ -30,23 +30,21 @@
 <style>
 	.contact-popup {
 		display: none;
-		bottom: 4rem;
+		bottom: 17px;
 		position: sticky;
-		margin-left: auto;
-		margin-right: auto;
 		border: 2px solid #0000ff;
 		background-color: white;
 		padding: 1rem;
-		width: 80%;
+		width: calc(100% - 2rem -2px);
 		color: #0000ff;
 	}
 	.contact-button {
 		text-align: center;
 		position: sticky;
-		margin-left: auto;
-		margin-right: auto;
-		bottom: 4rem;
+		width: 100%;
+		bottom: 17px;
 		background-color: white;
+		font-size: 15px;
 	}
 	.contact-popup button {
 		width: 100%;
