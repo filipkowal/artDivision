@@ -3,7 +3,7 @@
 	import SectionHeader from '../../../components/SectionHeader.svelte';
 	import MobileFooter from '../../../components/MobileFooter.svelte';
 	export let data;
-	const { title, tags, date, author, intro, body } = data;
+	const { title, tags, date, author, body, onas } = data;
 </script>
 
 <article class="column page-container column-2">
@@ -31,7 +31,7 @@
 		</footer>
 	</div>
 </article>
-<MobileFooter />
+<MobileFooter logo={onas.logo} />
 
 <style>
 	.article-content {

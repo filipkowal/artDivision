@@ -56,7 +56,7 @@
 		<Footer {zespol} />
 	</div>
 
-	<MobileFooter />
+	<MobileFooter logo={onas.logo} />
 </div>
 
 <style>

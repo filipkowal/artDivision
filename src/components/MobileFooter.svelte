@@ -1,5 +1,6 @@
 <script>
 	import ContactData from './ContactData.svelte';
+	export let logo;
 </script>
 
 <div class="mobile-footer">
@@ -22,6 +23,7 @@
 	<div class="contact-section">
 		<h2>Kontakt</h2>
 		<ContactData />
+		<img src={logo} alt="logo-art-division" class="logo" />
 	</div>
 </div>
 
@@ -61,5 +63,11 @@
 		border-top: 1px solid #0000ff;
 		padding: 1rem;
 		padding-bottom: 3rem;
+	}
+	.logo {
+		width: 100%;
+		display: block;
+		max-width: 20rem;
+		margin: 4rem auto;
 	}
 </style>
