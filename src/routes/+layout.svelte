@@ -82,12 +82,12 @@
 		margin-top: 1.6rem;
 		text-align: center;
 		background-color: white;
+		transition: color 0.15s, background-color 0.15s;
 	}
 	:global(button:hover) {
 		cursor: pointer;
-		box-shadow: -0.2rem 0.2rem 0.2rem #0000ff;
-		transform: scale(1.01) translate(0.2rem, -0.2rem);
-		transition: box-shadow 0.15s, translate 0.15s;
+		background-color: #0000ff;
+		color: white;
 	}
 	:global(.square) {
 		width: 100%;
