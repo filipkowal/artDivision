@@ -21,7 +21,7 @@
 		--url: url(--imageUrl);
 	}
 	.articleCard {
-		margin-bottom: 2rem;
+		margin-bottom: 3.57rem;
 	}
 	h2 {
 		font-family: NewsPlantinItalic;

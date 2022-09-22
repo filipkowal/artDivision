@@ -1,4 +1,4 @@
-<a href="/">
+<a href="/" class="back-button">
 	<svg
 		version="1.1"
 		id="Layer_1"
@@ -7,7 +7,6 @@
 		x="0px"
 		y="0px"
 		viewBox="0 0 79.4 42.5"
-		style="enable-background:new 0 0 79.4 42.5;"
 		xml:space="preserve"
 	>
 		<path
@@ -24,9 +23,13 @@
 	}
 	a {
 		display: inline-block;
-		color: black;
 		height: 1rem;
 		width: 2rem;
 		margin-top: 1.8rem;
+	}
+	svg:hover {
+		stroke: #0000ff;
+		color: #0000ff;
+		fill: #0000ff;
 	}
 </style>
