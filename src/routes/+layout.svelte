@@ -212,11 +212,15 @@
 		width: 100%;
 		box-sizing: border-box;
 		padding: 1rem;
+		font-family: 'Neue Haas Unica Pro';
 	}
 	:global(input:active, textarea:active) {
 		border-color: #0000ff;
 	}
 	:global(input:not(:last-of-type)) {
 		border-bottom: transparent;
+	}
+	:global(input:focus-visible, textarea:focus-visible) {
+		outline: 0;
 	}
 </style>
