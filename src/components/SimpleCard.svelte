@@ -1,9 +1,11 @@
 <script>
+	import { trailingOrphansToNewLine } from '../lib/utils';
+
 	export let title;
 </script>
 
 <div class="simpleCard">
-	<h2 class="title">{title}</h2>
+	<h2 class="title">{trailingOrphansToNewLine(title)}</h2>
 	<p class="footer">
 		<slot />
 	</p>

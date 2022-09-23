@@ -1,5 +1,6 @@
 <script>
 	import Tag from './Tag.svelte';
+	import { trailingOrphansToNewLine } from '../lib/utils';
 
 	export let title, thumbnail, fileName, tags;
 </script>
@@ -9,7 +10,7 @@
 		<div class="image-container">
 			<img src={thumbnail} alt={title} />
 		</div>
-		<h2>{title}</h2>
+		<h2>{trailingOrphansToNewLine(title)}</h2>
 		{#each tags as tag}
 			<Tag {tag} />
 		{/each}

@@ -2,6 +2,7 @@
 	import ContactForm from '../../../components/ContactForm.svelte';
 	import Prices from '../../../components/Prices.svelte';
 	import SectionHeader from '../../../components/SectionHeader.svelte';
+	import { trailingOrphansToNewLine } from '../../../lib/utils';
 
 	export let data;
 	const { title, body, price, priceReduced, level } = data;
@@ -11,7 +12,7 @@
 	<SectionHeader title="Szkolenia" />
 	<div class="content">
 		<div class="header">
-			<h1 class="title">{title}</h1>
+			<h1 class="title">{trailingOrphansToNewLine(title)}</h1>
 			<span class="level">{level}</span>
 		</div>
 		<div>{@html body}</div>

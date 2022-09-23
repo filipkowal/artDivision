@@ -2,6 +2,7 @@
 	import Tag from '../../../components/Tag.svelte';
 	import SectionHeader from '../../../components/SectionHeader.svelte';
 	import MobileFooter from '../../../components/MobileFooter.svelte';
+	import { trailingOrphansToNewLine } from '../../../lib/utils';
 	export let data;
 	const { title, tags, date, author, body, onas } = data;
 </script>
@@ -11,7 +12,7 @@
 	<div class="article-content">
 		<div class="article-content-header">
 			<div class="header-row">
-				<h1>{title}</h1>
+				<h1>{trailingOrphansToNewLine(title)}</h1>
 				<time datetime={date}>{date.slice(0, 10)}</time>
 			</div>
 			<div class="header-row">

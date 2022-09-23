@@ -64,3 +64,6 @@ export const getPaginatedEntries = ({ entries, params, name, urlName = name }) =
 
 	return { [name]: entriesPaginated, previousPageHref, nextPageHref };
 };
+
+export const trailingOrphansToNewLine = (text) =>
+	text.replace(/ . /g, (t) => t.slice(0, 2) + '\u00A0');
