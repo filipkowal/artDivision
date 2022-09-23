@@ -33,11 +33,22 @@
 		border-color: #0000ff;
 	}
 	.image-container {
-		text-align: center;
-	}
-	img {
 		width: 160px;
 		height: 200px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	img {
+		width: 100%;
+		height: 100%;
 		object-fit: cover;
+	}
+	a:hover img {
+		mix-blend-mode: screen;
+		-webkit-filter: grayscale(100%);
+		filter: grayscale(100%);
+	}
+	a:hover .image-container {
+		background: #0000ff;
 	}
 </style>

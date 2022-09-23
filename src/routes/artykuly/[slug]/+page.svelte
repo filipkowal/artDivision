@@ -22,7 +22,7 @@
 						{/each}
 					</div>
 				{/if}
-				<span class="author"><span class="author-title">Autor:</span> {author}</span>
+				<span class="author"><span class="author-title">Autor:&nbsp;</span> {author}</span>
 			</div>
 		</div>
 		<div class="article-content-body">{@html body}</div>
@@ -47,7 +47,13 @@
 		}
 	}
 	.tags {
-		display: flex;
+		display: inline-flex;
+		gap: 6px;
+	}
+
+	.author {
+		display: inline-flex;
+		align-items: end;
 	}
 	@media (max-width: 1200px) {
 		.author {
@@ -56,9 +62,6 @@
 		.author-title {
 			display: none;
 		}
-	}
-	:global(.tags div) {
-		margin-right: 0.3rem;
 	}
 	:global(.article-content h1) {
 		font-family: NewsPlantinItalic;
@@ -76,6 +79,8 @@
 	}
 	.article-content-header h1 {
 		font-size: 4.3rem;
+		letter-spacing: -1px;
+		line-height: 1.025em;
 	}
 	@media (max-width: 1200px) {
 		.article-content-header h1 {
@@ -145,6 +150,7 @@
 	}
 	:global(.article-content-body figure) {
 		margin-top: 2.7rem;
+		margin-left: 0;
 	}
 	@media (max-width: 1200px) {
 		:global(.article-content-body figure) {
@@ -157,7 +163,7 @@
 	:global(.article-content-body figcaption) {
 		margin-top: 1rem;
 		font-size: 0.8rem;
-		margin-left: 5.8rem;
+		margin-left: 8.7rem;
 	}
 	:global(.article-content-body figcaption::before) {
 		content: '';

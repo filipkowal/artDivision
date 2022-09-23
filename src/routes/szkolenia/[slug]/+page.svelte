@@ -10,11 +10,13 @@
 <article class="column page-container column-2">
 	<SectionHeader title="Szkolenia" />
 	<div class="content">
-		<h1>{title}</h1>
-		<span class="level">{level}</span>
+		<div class="header">
+			<h1 class="title">{title}</h1>
+			<span class="level">{level}</span>
+		</div>
 		<div>{@html body}</div>
-		<Prices {price} {priceReduced} />
 		<footer>
+			<Prices {price} {priceReduced} />
 			<p>
 				Zapisy i szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
 				<br />lub poprzez formularz poniżej.
@@ -31,6 +33,24 @@
 	}
 	h1 {
 		font-weight: 700;
+	}
+	.header {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
+	@media (max-width: 1200px) {
+		.header {
+			flex-direction: column;
+		}
+	}
+	@media (min-width: 1201px) {
+		:global(.content .title) {
+			max-width: 600px;
+		}
+		.level {
+			margin-top: 0.6rem;
+		}
 	}
 	footer {
 		border-top: 1px solid black;

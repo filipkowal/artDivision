@@ -10,10 +10,10 @@
 <article class="column page-container column-2">
 	<SectionHeader title="Oferta" />
 	<div class="content">
-		<h1>{title}</h1>
+		<h1 class="title">{title}</h1>
 		<div>{@html body}</div>
-		<Prices {price} {priceReduced} />
 		<footer>
+			<Prices {price} {priceReduced} />
 			<p>
 				Zapisy i szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
 				<br />lub poprzez formularz poniżej.

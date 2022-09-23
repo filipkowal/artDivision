@@ -6,16 +6,12 @@
 
 <div class="prices">
 	{#if price}
-		<div class="price-card">
-			<SimpleCard title="Cena regularna"><span class="price">{price}</span></SimpleCard>
-		</div>
+		<SimpleCard title="Cena regularna"><span class="price">{price}</span></SimpleCard>
 	{/if}
 	{#if priceReduced}
-		<div class="price-card">
-			<SimpleCard title="Cena przy wcześniejszym zapisie"
-				><span class="price">{priceReduced}</span></SimpleCard
-			>
-		</div>
+		<SimpleCard title="Cena przy wcześniejszym zapisie"
+			><span class="price">{priceReduced}</span></SimpleCard
+		>
 	{/if}
 </div>
 
@@ -24,9 +20,11 @@
 		color: #0000ff;
 	}
 	.prices {
-		margin-top: 4rem;
+		margin-top: 1rem;
+		margin-bottom: 4rem;
 		display: inline-flex;
 		gap: 1rem;
+		align-items: stretch;
 	}
 	@media (max-width: 1200px) {
 		.prices {
@@ -35,9 +33,15 @@
 			gap: 0;
 		}
 	}
-	.price-card {
-		width: 23rem;
-		max-width: 100%;
-		height: 12rem;
+	:global(.prices .simpleCard) {
+		width: 260px;
+	}
+	:global(.prices .simpleCard:hover) {
+		border-color: black;
+	}
+	:global(.prices .simpleCard .title) {
+		font-weight: 700;
+		font-size: 1.86rem;
+		margin-bottom: 0.2rem;
 	}
 </style>

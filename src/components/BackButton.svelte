@@ -19,6 +19,7 @@
 
 <style>
 	svg {
+		margin-top: 0.4rem;
 		max-width: 2rem;
 	}
 	a {

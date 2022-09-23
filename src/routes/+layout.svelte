@@ -66,9 +66,6 @@
 		color: #0000ff;
 		border-color: #0000ff;
 	}
-	:global(a:hover img) {
-		filter: sepia(100%) hue-rotate(195deg) saturate(6);
-	}
 	:global(button) {
 		border: 1px solid black;
 		display: block;
@@ -111,7 +108,7 @@
 	:global(.content) {
 		margin: 0 0 2.5rem 0;
 		border: 2px solid black;
-		padding: 2rem;
+		padding: 1.3rem 2rem 2rem 2rem;
 	}
 	@media (max-width: 1200px) {
 		:global(.content) {

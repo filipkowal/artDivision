@@ -25,7 +25,8 @@
 	.workshops {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-		column-gap: 0.6rem;
+		column-gap: 0.7rem;
+		row-gap: 1rem;
 	}
 	@media (max-width: 1200px) {
 		.workshops {
