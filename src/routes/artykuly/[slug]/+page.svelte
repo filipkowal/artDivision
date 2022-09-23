@@ -74,7 +74,7 @@
 		font-style: italic;
 		font-weight: 400;
 		border-top: 1px solid black;
-		padding: 3.8rem 0;
+		padding: calc(3.8rem + 5px) 0 3.8rem 0;
 		border-bottom: 1px solid black;
 	}
 	.article-content-header h1 {
@@ -98,6 +98,7 @@
 	:global(.article-content h3) {
 		line-height: 2.2rem;
 		font-size: 1.7rem;
+		max-width: 900px;
 	}
 	:global(.article-content p) {
 		font-size: 1.15rem;
@@ -139,8 +140,9 @@
 		}
 	}
 	:global(.article-content-body p) {
-		max-width: 70%;
-		padding-left: 10rem;
+		width: 600px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	@media (max-width: 1200px) {
 		:global(.article-content-body p) {
@@ -163,7 +165,9 @@
 	:global(.article-content-body figcaption) {
 		margin-top: 1rem;
 		font-size: 0.8rem;
-		margin-left: 8.7rem;
+		width: 600px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	:global(.article-content-body figcaption::before) {
 		content: '';

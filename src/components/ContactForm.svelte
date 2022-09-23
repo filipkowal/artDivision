@@ -18,4 +18,8 @@
 	textarea {
 		margin-top: 1.6rem;
 	}
+	button {
+		text-align: left;
+		padding-left: 20px;
+	}
 </style>

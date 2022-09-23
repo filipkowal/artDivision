@@ -209,7 +209,8 @@
 	:global(input, textarea) {
 		border: 1px solid black;
 		display: block;
-		width: 85%;
+		width: 100%;
+		box-sizing: border-box;
 		padding: 1rem;
 	}
 	:global(input:active, textarea:active) {
