@@ -222,11 +222,17 @@
 
 	:global(input, textarea) {
 		border: 1px solid black;
+		border-radius: 0;
 		display: block;
 		width: 100%;
 		box-sizing: border-box;
 		padding: 1rem;
 		font-family: 'Neue Haas Unica Pro';
+	}
+	@media screen and (-webkit-min-device-pixel-ratio: 0) and (max-width: 1200px) {
+		:global(input, textarea) {
+			font-size: 100%;
+		}
 	}
 	:global(input:active, textarea:active) {
 		border-color: #0000ff;
