@@ -228,6 +228,8 @@
 		box-sizing: border-box;
 		padding: 1rem;
 		font-family: 'Neue Haas Unica Pro';
+		-webkit-appearance: none;
+		appearance: none;
 	}
 	@media screen and (-webkit-min-device-pixel-ratio: 0) and (max-width: 1200px) {
 		:global(input, textarea) {
