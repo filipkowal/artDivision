@@ -30,6 +30,11 @@
 		border-top: 1px solid black;
 		margin-top: 5rem;
 	}
+	@media (max-width: 1200px) {
+		footer {
+			border-top: none;
+		}
+	}
 	h1 {
 		font-weight: 700;
 	}

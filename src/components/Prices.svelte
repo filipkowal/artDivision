@@ -36,6 +36,12 @@
 	:global(.prices .simpleCard) {
 		width: 260px;
 	}
+	@media (max-width: 1200px) {
+		:global(.prices .simpleCard) {
+			width: calc(100% - 2rem);
+			margin-bottom: 12px;
+		}
+	}
 	:global(.prices .simpleCard:hover) {
 		border-color: black;
 	}
