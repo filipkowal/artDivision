@@ -4,7 +4,7 @@
 
 <footer class="column column-5">
 	<div class="column-content">
-		<h2 class="section-title">Zespół</h2>
+		<h1 class="section-title">Zespół</h1>
 		{#each zespol as osoba}
 			<div>
 				<a href="/zespol/{osoba.fileName}">
@@ -24,9 +24,14 @@
 		overflow-y: auto;
 		height: 100vh;
 	}
-	h2 {
+	h1 {
 		font-weight: 400;
 		font-size: 1.7rem;
+	}
+	@media (max-width: 1200px) {
+		h1 {
+			font-size: 2.15rem;
+		}
 	}
 	h3 {
 		font-size: 1.3rem;
@@ -36,6 +41,7 @@
 			border-top: 2px solid black;
 			height: auto;
 			padding-top: 0;
+			overflow: visible;
 		}
 		.section-title {
 			margin-top: 0.5rem;

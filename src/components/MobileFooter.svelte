@@ -70,4 +70,10 @@
 		max-width: 20rem;
 		margin: 4rem auto;
 	}
+	@media (max-width: 1200px) {
+		.logo {
+			max-width: 98%;
+			margin-left: 0;
+		}
+	}
 </style>

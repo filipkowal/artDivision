@@ -93,6 +93,13 @@
 		aspect-ratio: 1;
 		object-fit: cover;
 	}
+	@media (max-width: 1200px) {
+		:global(.square) {
+			width: calc(100% + 3.1rem);
+			margin-left: -1.54rem;
+			max-width: none;
+		}
+	}
 	:global(.page-container) {
 		padding: 0 0.6rem;
 		overflow-y: auto;
@@ -115,6 +122,7 @@
 			margin: 0;
 			border: none;
 			padding: 0.5rem;
+			padding-bottom: 2rem;
 		}
 	}
 	:global(.content h1:first-of-type) {
@@ -128,6 +136,12 @@
 			line-height: 2.6rem;
 			overflow-wrap: break-word;
 		}
+		:global(.content li) {
+			margin-left: -1rem;
+		}
+		:global(.content button) {
+			width: 100%;
+		}
 	}
 	:global(.content p, .content li) {
 		font-size: 1.2rem;
@@ -137,9 +151,9 @@
 	}
 	@media (max-width: 1200px) {
 		main {
-			margin: 0 0.5rem;
+			margin: 0 0.5rem 1rem 0.5rem;
 			border-left: 1px solid black;
-			border-bottom: 2px solid black;
+			border-bottom: 1px solid black;
 		}
 		.hide-on-mobile {
 			display: none;

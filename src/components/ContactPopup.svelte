@@ -45,7 +45,7 @@
 		color: white;
 	}
 	.buttons > button {
-		max-width: 45%;
+		max-width: 49%;
 		margin: initial 0;
 	}
 	.contact-popup {
@@ -58,11 +58,7 @@
 		padding: 1rem;
 		width: 94%;
 		color: #0000ff;
-	}
-	@media (max-width: 1200px) {
-		.contact-popup {
-			max-width: 90%;
-		}
+		margin-bottom: -1rem;
 	}
 	.contact-popup button {
 		width: 100%;

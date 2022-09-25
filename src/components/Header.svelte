@@ -39,10 +39,14 @@
 			border-right: none;
 			margin: 0;
 			height: auto;
+			overflow: visible;
 		}
 
 		:global(.header-contact-button) {
 			display: none;
+		}
+		.logo {
+			height: 2.4rem;
 		}
 	}
 </style>

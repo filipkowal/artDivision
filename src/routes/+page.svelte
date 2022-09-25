@@ -26,6 +26,7 @@
 					tags={article.tags}
 				/>
 			{/each}
+			<div class="shadow" />
 		</div>
 		<a href="/artykuly"><button class="see-all-button">Zobacz wszystkie artykuły</button></a>
 	</section>
@@ -35,6 +36,7 @@
 			{#each offers as offer}
 				<SimpleCardOffer title={offer.title} fileName={offer.fileName} />
 			{/each}
+			<div class="shadow" />
 		</div>
 		<a href="/oferta"><button class="see-all-button">Zobacz wszystkie oferty</button></a>
 	</section>
@@ -48,6 +50,7 @@
 					level={workshop.level}
 				/>
 			{/each}
+			<div class="shadow" />
 		</div>
 		<a href="/szkolenia"><button class="see-all-button">Zobacz wszystkie szkolenia</button></a>
 	</section>
@@ -93,8 +96,21 @@
 		font-weight: 400;
 		font-size: 1.7rem;
 	}
+	@media (max-width: 1200px) {
+		h1 {
+			font-size: 2.15rem;
+		}
+	}
 	.cards-container {
 		margin-bottom: 10px;
+	}
+	.shadow {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: 21%;
+		background: linear-gradient(0deg, white 31%, transparent);
+		pointer-events: none;
 	}
 	.section-title {
 		margin-left: 0.4rem;

@@ -59,9 +59,13 @@
 	@media (max-width: 1200px) {
 		.author {
 			font-weight: 600;
+			margin-top: 0 !important;
 		}
 		.author-title {
 			display: none;
+		}
+		.tags {
+			margin-top: 1.4rem !important;
 		}
 	}
 	:global(.article-content h1) {
@@ -85,6 +89,7 @@
 	}
 	@media (max-width: 1200px) {
 		.article-content-header h1 {
+			margin-bottom: 0.6rem;
 			font-size: 3rem;
 		}
 	}
@@ -142,12 +147,13 @@
 	}
 	:global(.article-content-body p) {
 		width: 600px;
+		max-width: 100%;
 		margin-left: auto;
 		margin-right: auto;
 	}
 	@media (max-width: 1200px) {
 		:global(.article-content-body p) {
-			max-width: initial;
+			/* max-width: initial; */
 			padding-left: 0;
 		}
 	}
@@ -181,6 +187,7 @@
 	}
 	@media (max-width: 1200px) {
 		:global(.article-content-body img) {
+			width: 100%;
 			max-width: 100%;
 		}
 		:global(.article-content-body figcaption) {
