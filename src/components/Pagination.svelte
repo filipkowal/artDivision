@@ -4,38 +4,25 @@
 
 <div class={`pagination ${nextPageHref ? '' : 'last'}`}>
 	{#if nextPageHref}
-		<a href={nextPageHref} class="older"
-			><button>Starsze <span class="arrow">&rarr;</span></button></a
-		>
+		<a href={nextPageHref} class="older"><button>Starsze</button></a>
 	{/if}
 	{#if previousPageHref}
-		<a href={previousPageHref}
-			><button>
-				<span class="arrow">&larr;</span>
-				Nowsze</button
-			></a
-		>
+		<a href={previousPageHref} class="newer"><button> Nowsze</button></a>
 	{/if}
 </div>
 
 <style>
 	.pagination {
 		display: flex;
-		flex-direction: row-reverse;
 		justify-content: space-between;
-		margin-bottom: 4rem;
+		flex-basis: 0;
+		margin: 0 8.4px 17px 8.4px;
 	}
-	.pagination.last {
-		flex-direction: row;
-	}
-	a {
-		max-width: 48%;
+	.older,
+	.newer {
+		width: calc(33% - 6px);
 	}
 	button {
-		max-width: 100%;
-	}
-	.arrow {
-		font-size: 1.5rem;
-		line-height: 0.5rem;
+		width: 100%;
 	}
 </style>

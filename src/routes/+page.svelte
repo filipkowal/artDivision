@@ -62,12 +62,8 @@
 <style>
 	.see-all-button {
 		position: initial;
-		margin-left: auto;
-		margin-right: auto;
-		margin-bottom: 4rem;
-		left: 0;
-		right: 0;
-		width: 95%;
+		margin: 0 1.5px 10px 1.5px;
+		width: calc(100% - 3px);
 	}
 	@media (max-width: 1200px) {
 		.see-all-button {
@@ -75,6 +71,7 @@
 			display: block;
 			bottom: 1rem;
 			margin-bottom: 0;
+			width: calc(100% - 9.4px * 2);
 		}
 	}
 	.section-container {
@@ -97,7 +94,7 @@
 		font-size: 1.7rem;
 	}
 	.cards-container {
-		margin-bottom: 2.5rem;
+		margin-bottom: 10px;
 	}
 	.section-title {
 		margin-left: 0.4rem;

@@ -7,8 +7,10 @@
 		<h2 class="section-title">Zespół</h2>
 		{#each zespol as osoba}
 			<div>
-				<h3><a href="/zespol/{osoba.fileName}">{osoba.title}</a></h3>
-				<img src={osoba.photo} alt={osoba.title} class="square" />
+				<a href="/zespol/{osoba.fileName}">
+					<h3>{osoba.title}</h3>
+					<img src={osoba.photo} alt={osoba.title} class="square" />
+				</a>
 				<p>{@html osoba.body}</p>
 			</div>
 		{/each}
