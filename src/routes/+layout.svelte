@@ -231,7 +231,7 @@
 	}
 	@media screen and (-webkit-min-device-pixel-ratio: 0) and (max-width: 1200px) {
 		:global(input, textarea) {
-			font-size: 100%;
+			font-size: 16px;
 		}
 	}
 	:global(input:active, textarea:active) {
