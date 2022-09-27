@@ -25,10 +25,11 @@
 		margin-bottom: 3.57rem;
 	}
 	h2 {
-		font-family: NewsPlantinItalic;
+		font-family: 'NewsPlantinItalic';
 		font-weight: 400;
 		font-size: 2.1rem;
 		line-height: 2.1rem;
+		font-style: italic;
 	}
 	:global(.articleCard:hover .tag) {
 		border-color: #0000ff;
