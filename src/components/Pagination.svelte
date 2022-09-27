@@ -14,6 +14,7 @@
 <style>
 	.pagination {
 		display: flex;
+		flex-direction: row-reverse;
 		justify-content: space-between;
 		flex-basis: 0;
 		margin: 0 8.4px 17px 8.4px;
