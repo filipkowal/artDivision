@@ -12,7 +12,7 @@
 	<SectionHeader title="Oferta" />
 	<div class="content">
 		<h1 class="title">{trailingOrphansToNewLine(title)}</h1>
-		<div>{@html body}</div>
+		<div class="body">{@html body}</div>
 		<footer>
 			<Prices {price} {priceReduced} />
 			<p>

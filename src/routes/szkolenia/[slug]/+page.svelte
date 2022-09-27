@@ -15,7 +15,7 @@
 			<h1 class="title">{trailingOrphansToNewLine(title)}</h1>
 			<span class="level">{level}</span>
 		</div>
-		<div>{@html body}</div>
+		<div class="body">{@html body}</div>
 		<footer>
 			<Prices {price} {priceReduced} />
 			<p>

@@ -120,6 +120,9 @@
 		border: 2px solid black;
 		padding: 1.3rem 2rem 2rem 2rem;
 	}
+	:global(.content .body p) {
+		max-width: 600px;
+	}
 	@media (max-width: 1200px) {
 		:global(.content) {
 			margin: 0;
