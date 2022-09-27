@@ -110,7 +110,7 @@
 		bottom: 0;
 		width: 100%;
 		height: 21%;
-		background: linear-gradient(0deg, white 31%, transparent);
+		background: linear-gradient(0deg, white 31%, rgba(255, 255, 255, 0));
 		pointer-events: none;
 	}
 	@media (max-width: 1200px) {

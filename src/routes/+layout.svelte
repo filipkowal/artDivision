@@ -209,7 +209,7 @@
 		width: 0.1rem;
 	}
 	:global(*::-webkit-scrollbar-thumb) {
-		background: transparent;
+		background: rgba(255, 255, 255, 0);
 	}
 	:global(*:hover::-webkit-scrollbar-thumb) {
 		background: black;
@@ -246,7 +246,7 @@
 		border-color: #0000ff;
 	}
 	:global(input:not(:last-of-type)) {
-		border-bottom: transparent;
+		border-bottom: rgba(255, 255, 255, 0);
 	}
 	:global(input:focus-visible, textarea:focus-visible) {
 		outline: 0;
