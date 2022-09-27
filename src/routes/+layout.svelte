@@ -24,21 +24,24 @@
 	@font-face {
 		font-family: 'Neue Haas Unica Pro';
 		src: url('/fonts/NeueHaasUnicaRegular.woff2') format('woff2'),
-			url('/fonts/NeueHaasUnicaRegular.woff') format('woff');
+			url('/fonts/NeueHaasUnicaRegular.woff') format('woff'),
+			url('/fonts/NeueHaasUnicaRegular.ttf') format('truetype');
 		font-weight: 400;
 		font-style: normal;
 	}
 	@font-face {
 		font-family: 'Neue Haas Unica Pro';
 		src: url('/fonts/NeueHaasUnicaMedium.woff2') format('woff2'),
-			url('/fonts/NeueHaasUnicaMedium.woff') format('woff');
+			url('/fonts/NeueHaasUnicaMedium.woff') format('woff'),
+			url('/fonts/NeueHaasUnicaMedium.ttf') format('truetype');
 		font-weight: 500;
 		font-style: normal;
 	}
 	@font-face {
 		font-family: 'Neue Haas Unica Pro';
 		src: url('/fonts/NeueHaasUnicaBold.woff2') format('woff2'),
-			url('/fonts/NeueHaasUnicaBold.woff') format('woff');
+			url('/fonts/NeueHaasUnicaBold.woff') format('woff'),
+			url('/fonts/NeueHaasUnicaBold.ttf') format('truetype');
 		font-weight: 700;
 		font-style: normal;
 	}
