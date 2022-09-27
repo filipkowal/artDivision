@@ -153,13 +153,13 @@
 	}
 	@media (max-width: 1200px) {
 		:global(.article-content-body p) {
-			/* max-width: initial; */
 			padding-left: 0;
 		}
 	}
 	:global(.article-content-body figure) {
 		margin-top: 2.7rem;
 		margin-left: 0;
+		max-width: 100%;
 	}
 	@media (max-width: 1200px) {
 		:global(.article-content-body figure) {
@@ -175,6 +175,7 @@
 		width: 600px;
 		margin-left: auto;
 		margin-right: auto;
+		max-width: 100%;
 	}
 	:global(.article-content-body figcaption::before) {
 		content: '';
