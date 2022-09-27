@@ -105,12 +105,18 @@
 		margin-bottom: 10px;
 	}
 	.shadow {
+		display: none;
 		position: absolute;
 		bottom: 0;
 		width: 100%;
 		height: 21%;
 		background: linear-gradient(0deg, white 31%, transparent);
 		pointer-events: none;
+	}
+	@media (max-width: 1200px) {
+		.shadow {
+			display: block;
+		}
 	}
 	.section-title {
 		margin-left: 0.4rem;
