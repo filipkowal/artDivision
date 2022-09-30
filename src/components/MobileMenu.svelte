@@ -43,11 +43,13 @@
 		width: calc(100% - 1rem);
 	}
 	.mobile-menu-button {
-		width: 49%;
+		width: calc(49% - 0.5rem);
+		margin-right: 0.5rem;
 	}
 	.mobile-menu-contact-button {
 		position: static;
-		width: 49%;
+		margin-left: 0.5rem;
+		width: calc(49% - 0.5rem);
 	}
 	.mobile-menu-button:hover,
 	.mobile-menu-contact-button:hover {

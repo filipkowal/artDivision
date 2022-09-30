@@ -67,5 +67,11 @@
 		.contact {
 			margin-top: 4rem;
 		}
+		.level {
+			margin-top: 10px;
+		}
+		.header {
+			margin-bottom: 40px;
+		}
 	}
 </style>

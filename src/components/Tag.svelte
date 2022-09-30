@@ -16,4 +16,9 @@
 		padding: 0.25rem 0;
 		color: black;
 	}
+	@media (max-width: 1200px) {
+		.tag p {
+			font-size: 13px;
+		}
+	}
 </style>

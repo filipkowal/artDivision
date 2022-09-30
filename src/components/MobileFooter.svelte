@@ -72,7 +72,7 @@
 	}
 	@media (max-width: 1200px) {
 		.logo {
-			max-width: 98%;
+			width: 140px;
 			margin-left: 0;
 		}
 	}

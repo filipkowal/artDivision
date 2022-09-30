@@ -146,6 +146,7 @@
 		}
 		.header-row:last-of-type {
 			flex-direction: column-reverse;
+			border-bottom: none !important;
 		}
 	}
 	.header-row:last-of-type {
@@ -186,7 +187,7 @@
 		max-width: 40%;
 	}
 	:global(.article-content-body figcaption) {
-		margin-top: 10px;
+		margin-top: 6px;
 		font-size: 0.8rem;
 		width: 600px;
 		margin-left: auto;
