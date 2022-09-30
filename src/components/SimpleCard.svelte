@@ -30,4 +30,7 @@
 		line-height: 2rem;
 		margin-top: 10px;
 	}
+	.footer {
+		margin-bottom: 14px;
+	}
 </style>

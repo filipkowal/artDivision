@@ -18,6 +18,7 @@
 <style>
 	.price {
 		color: #0000ff;
+		margin-bottom: 14px;
 	}
 	.prices {
 		margin-top: 1rem;

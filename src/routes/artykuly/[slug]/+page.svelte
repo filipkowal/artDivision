@@ -40,7 +40,7 @@
 
 <style>
 	.article-content {
-		margin: 0 0 2.5rem 0;
+		margin: 0 0 10px 0;
 		border: 2px solid black;
 		padding: 2rem;
 	}
@@ -73,6 +73,17 @@
 		}
 	}
 	:global(.article-content h1) {
+		font-weight: bold;
+	}
+	:global(.article-content .tag) {
+		box-shadow: 1px 0 0 0 black, 0 1px 0 0 black, 1px 1px 0 0 black, 1px 0 0 0 black inset,
+			0 1px 0 0 black inset !important;
+	}
+	:global(.article-content .tag p) {
+		font-size: 13px;
+		margin: 0 10px 1px 10px !important;
+	}
+	:global(.article-content h1) {
 		font-family: NewsPlantinItalic;
 		font-style: italic;
 		font-weight: 400;
@@ -90,6 +101,7 @@
 		font-size: 4.3rem;
 		letter-spacing: -1px;
 		line-height: 1.025em;
+		margin-bottom: 60px;
 	}
 	@media (max-width: 1200px) {
 		.article-content-header h1 {
@@ -114,7 +126,7 @@
 		font-size: 1.15rem;
 	}
 	footer {
-		margin: 6rem 0 3rem 0;
+		margin-top: 120px;
 	}
 	.article-content-header {
 		width: 100%;
@@ -171,10 +183,10 @@
 		}
 	}
 	:global(.article-content-body img) {
-		max-width: 25rem;
+		max-width: 40%;
 	}
 	:global(.article-content-body figcaption) {
-		margin-top: 1rem;
+		margin-top: 10px;
 		font-size: 0.8rem;
 		width: 600px;
 		margin-left: auto;

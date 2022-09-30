@@ -120,8 +120,17 @@
 		border: 2px solid black;
 		padding: 1.3rem 2rem 2rem 2rem;
 	}
+	:global(.content .header) {
+		margin-bottom: 60px;
+	}
+	:global(.content .header h1) {
+		margin-bottom: 0;
+	}
 	:global(.content .body p) {
 		max-width: 600px;
+	}
+	:global(.content .body a) {
+		font-weight: bold;
 	}
 	@media (max-width: 1200px) {
 		:global(.content) {

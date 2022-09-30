@@ -9,8 +9,8 @@
 		<a href="/" class="link-home"><img src={onas.logo} alt="logo-art-division" class="logo" /></a>
 		<img src={onas.thumbnail} alt="zespół" class="square" />
 		<p>{@html onas.body}</p>
-		<ContactPopup class="header-contact-button" />
 	</div>
+	<ContactPopup class="header-contact-button" />
 </header>
 
 <style>

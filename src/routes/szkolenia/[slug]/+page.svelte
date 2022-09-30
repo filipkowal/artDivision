@@ -58,7 +58,7 @@
 	}
 	footer {
 		border-top: 1px solid black;
-		margin-top: 5rem;
+		margin-top: 80px;
 	}
 	@media (max-width: 1200px) {
 		footer {

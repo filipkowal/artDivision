@@ -6,7 +6,7 @@
 
 <header>
 	<div><h2 class="header-title">{title}</h2></div>
-	<BackButton />
+	<a href="/"><div class="full-width"><BackButton /></div></a>
 </header>
 <SectionHeaderMobile {title} />
 
@@ -27,5 +27,8 @@
 		font-weight: 400;
 		font-size: 1.7rem;
 		margin-left: 0.4rem;
+	}
+	.full-width {
+		width: 100%;
 	}
 </style>

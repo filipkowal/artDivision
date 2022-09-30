@@ -13,7 +13,7 @@
 	<article class="column page-container column-2">
 		<SectionHeader title="Oferta" />
 		<div class="content">
-			<h1 class="title">{trailingOrphansToNewLine(title)}</h1>
+			<h1 class="header">{trailingOrphansToNewLine(title)}</h1>
 			<div class="body">{@html body}</div>
 			<footer>
 				<Prices {price} {priceReduced} />
@@ -31,7 +31,7 @@
 <style>
 	footer {
 		border-top: 1px solid black;
-		margin-top: 5rem;
+		margin-top: 80px;
 	}
 	@media (max-width: 1200px) {
 		footer {

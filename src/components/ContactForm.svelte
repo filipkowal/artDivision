@@ -22,4 +22,9 @@
 		text-align: left;
 		padding-left: 20px;
 	}
+	input,
+	textarea,
+	button {
+		font-size: 15px;
+	}
 </style>
