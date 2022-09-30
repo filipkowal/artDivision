@@ -7,7 +7,7 @@
 </script>
 
 <div class="column page-container">
-	<SectionHeader title="Szkolenia" />
+	<SectionHeader title="Szkolenia" href="/szkolenia" />
 	<section class="workshops">
 		{#each data.workshops as workshop}
 			<SimpleCardWorkshop

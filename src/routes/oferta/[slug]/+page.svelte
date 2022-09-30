@@ -11,7 +11,7 @@
 
 <PageTransition>
 	<article class="column page-container column-2">
-		<SectionHeader title="Oferta" />
+		<SectionHeader title="Oferta" href="/oferta" />
 		<div class="content">
 			<h1 class="header">{trailingOrphansToNewLine(title)}</h1>
 			<div class="body">{@html body}</div>

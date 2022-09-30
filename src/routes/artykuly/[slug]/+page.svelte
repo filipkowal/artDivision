@@ -11,7 +11,7 @@
 
 <PageTransition>
 	<article class="column page-container column-2">
-		<SectionHeader title="Artykuły" />
+		<SectionHeader title="Artykuły" href="/artykuly" />
 		<div class="article-content">
 			<div class="article-content-header">
 				<div class="header-row">

@@ -9,7 +9,7 @@
 
 <PageTransition>
 	<div class="page-container column">
-		<SectionHeader title="Oferta" />
+		<SectionHeader title="Oferta" href="/oferta" />
 		<section class="offers">
 			{#each data.offers as offer}
 				<SimpleCardOffer fileName={offer.fileName} title={offer.title} />

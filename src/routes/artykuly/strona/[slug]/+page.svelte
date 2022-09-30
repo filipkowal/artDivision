@@ -9,7 +9,7 @@
 
 <PageTransition>
 	<section class="page-container column">
-		<SectionHeader title="Artykuły" />
+		<SectionHeader title="Artykuły" href="/artykuly" />
 		<div class="articles">
 			{#each data.articles as article}
 				<div class="card">
