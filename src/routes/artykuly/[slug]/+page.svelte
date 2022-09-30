@@ -3,36 +3,40 @@
 	import SectionHeader from '../../../components/SectionHeader.svelte';
 	import MobileFooter from '../../../components/MobileFooter.svelte';
 	import { trailingOrphansToNewLine } from '../../../lib/utils';
+	import PageTransition from '../../../components/PageTransition.svelte';
+
 	export let data;
 	const { title, tags, date, author, body, onas } = data;
 </script>
 
-<article class="column page-container column-2">
-	<SectionHeader title="Artykuły" />
-	<div class="article-content">
-		<div class="article-content-header">
-			<div class="header-row">
-				<h1>{trailingOrphansToNewLine(title)}</h1>
-				<time datetime={date}>{date.slice(0, 10)}</time>
+<PageTransition>
+	<article class="column page-container column-2">
+		<SectionHeader title="Artykuły" />
+		<div class="article-content">
+			<div class="article-content-header">
+				<div class="header-row">
+					<h1>{trailingOrphansToNewLine(title)}</h1>
+					<time datetime={date}>{date.slice(0, 10)}</time>
+				</div>
+				<div class="header-row">
+					{#if tags.length}
+						<div class="tags">
+							{#each tags as tag}
+								<Tag {tag} />
+							{/each}
+						</div>
+					{/if}
+					<span class="author"><span class="author-title">Autor:&nbsp;</span> {author}</span>
+				</div>
 			</div>
-			<div class="header-row">
-				{#if tags.length}
-					<div class="tags">
-						{#each tags as tag}
-							<Tag {tag} />
-						{/each}
-					</div>
-				{/if}
-				<span class="author"><span class="author-title">Autor:&nbsp;</span> {author}</span>
-			</div>
+			<div class="article-content-body">{@html body}</div>
+			<footer>
+				<p>Jeśli masz jakieś pytania, zapraszamy do <b><a href="/kontakt">kontaktu</a></b>.</p>
+			</footer>
 		</div>
-		<div class="article-content-body">{@html body}</div>
-		<footer>
-			<p>Jeśli masz jakieś pytania, zapraszamy do <b><a href="/kontakt">kontaktu</a></b>.</p>
-		</footer>
-	</div>
-</article>
-<MobileFooter logo={onas.logo} />
+		<MobileFooter logo={onas.logo} />
+	</article>
+</PageTransition>
 
 <style>
 	.article-content {

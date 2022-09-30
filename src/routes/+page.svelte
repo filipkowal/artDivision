@@ -5,62 +5,65 @@
 	import MobileFooter from '../components/MobileFooter.svelte';
 	import SimpleCardOffer from '../components/SimpleCardOffer.svelte';
 	import SimpleCardWorkshop from '../components/SimpleCardWorkshop.svelte';
+	import PageTransition from '../components/PageTransition.svelte';
 
 	export let data;
 	const { articles, offers, workshops, onas, zespol } = data;
 </script>
 
-<div class="section-container">
-	<div class="hide-on-desktop" id="onas">
-		<Header {onas} />
+<PageTransition>
+	<div class="section-container">
+		<div class="hide-on-desktop" id="onas">
+			<Header {onas} />
+		</div>
+
+		<section class="articles column column-2">
+			<a href="/artykuly"><h1 class="section-title">Artykuły</h1></a>
+			<div class="cards-container">
+				{#each articles as article}
+					<ArticleCard
+						title={article.title}
+						thumbnail={article.thumbnail}
+						fileName={article.fileName}
+						tags={article.tags}
+					/>
+				{/each}
+				<div class="shadow" />
+			</div>
+			<a href="/artykuly"><button class="see-all-button">Zobacz wszystkie artykuły</button></a>
+		</section>
+		<section class="offer column column-3">
+			<a href="/oferta"><h1 class="section-title">Oferta</h1></a>
+			<div class="cards-container">
+				{#each offers as offer}
+					<SimpleCardOffer title={offer.title} fileName={offer.fileName} />
+				{/each}
+				<div class="shadow" />
+			</div>
+			<a href="/oferta"><button class="see-all-button">Zobacz wszystkie oferty</button></a>
+		</section>
+		<section class="workshops column column-4">
+			<a href="/szkolenia"><h1 class="section-title">Szkolenia</h1></a>
+			<div class="cards-container">
+				{#each workshops as workshop}
+					<SimpleCardWorkshop
+						title={workshop.title}
+						fileName={workshop.fileName}
+						level={workshop.level}
+					/>
+				{/each}
+				<div class="shadow" />
+			</div>
+			<a href="/szkolenia"><button class="see-all-button">Zobacz wszystkie szkolenia</button></a>
+		</section>
+
+		<div class="hide-on-desktop" id="zespol">
+			<Footer {zespol} />
+		</div>
+
+		<MobileFooter logo={onas.logo} />
 	</div>
-
-	<section class="articles column column-2">
-		<a href="/artykuly"><h1 class="section-title">Artykuły</h1></a>
-		<div class="cards-container">
-			{#each articles as article}
-				<ArticleCard
-					title={article.title}
-					thumbnail={article.thumbnail}
-					fileName={article.fileName}
-					tags={article.tags}
-				/>
-			{/each}
-			<div class="shadow" />
-		</div>
-		<a href="/artykuly"><button class="see-all-button">Zobacz wszystkie artykuły</button></a>
-	</section>
-	<section class="offer column column-3">
-		<a href="/oferta"><h1 class="section-title">Oferta</h1></a>
-		<div class="cards-container">
-			{#each offers as offer}
-				<SimpleCardOffer title={offer.title} fileName={offer.fileName} />
-			{/each}
-			<div class="shadow" />
-		</div>
-		<a href="/oferta"><button class="see-all-button">Zobacz wszystkie oferty</button></a>
-	</section>
-	<section class="workshops column column-4">
-		<a href="/szkolenia"><h1 class="section-title">Szkolenia</h1></a>
-		<div class="cards-container">
-			{#each workshops as workshop}
-				<SimpleCardWorkshop
-					title={workshop.title}
-					fileName={workshop.fileName}
-					level={workshop.level}
-				/>
-			{/each}
-			<div class="shadow" />
-		</div>
-		<a href="/szkolenia"><button class="see-all-button">Zobacz wszystkie szkolenia</button></a>
-	</section>
-
-	<div class="hide-on-desktop" id="zespol">
-		<Footer {zespol} />
-	</div>
-
-	<MobileFooter logo={onas.logo} />
-</div>
+</PageTransition>
 
 <style>
 	.see-all-button {

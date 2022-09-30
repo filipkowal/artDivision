@@ -1,5 +1,6 @@
 <script>
 	import ContactForm from '../../../components/ContactForm.svelte';
+	import PageTransition from '../../../components/PageTransition.svelte';
 	import Prices from '../../../components/Prices.svelte';
 	import SectionHeader from '../../../components/SectionHeader.svelte';
 	import { trailingOrphansToNewLine } from '../../../lib/utils';
@@ -8,25 +9,27 @@
 	const { title, body, price, priceReduced, level } = data;
 </script>
 
-<article class="column page-container column-2">
-	<SectionHeader title="Szkolenia" />
-	<div class="content">
-		<div class="header">
-			<h1 class="title">{trailingOrphansToNewLine(title)}</h1>
-			<span class="level">{level}</span>
+<PageTransition>
+	<article class="column page-container column-2">
+		<SectionHeader title="Szkolenia" />
+		<div class="content">
+			<div class="header">
+				<h1 class="title">{trailingOrphansToNewLine(title)}</h1>
+				<span class="level">{level}</span>
+			</div>
+			<div class="body">{@html body}</div>
+			<footer>
+				<Prices {price} {priceReduced} />
+				<p>
+					Zapisy i szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
+					<br />lub poprzez formularz poniżej.
+				</p>
+				<h2 class="contact">Formularz do zapisów</h2>
+				<ContactForm name={title} />
+			</footer>
 		</div>
-		<div class="body">{@html body}</div>
-		<footer>
-			<Prices {price} {priceReduced} />
-			<p>
-				Zapisy i szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
-				<br />lub poprzez formularz poniżej.
-			</p>
-			<h2 class="contact">Formularz do zapisów</h2>
-			<ContactForm name={title} />
-		</footer>
-	</div>
-</article>
+	</article>
+</PageTransition>
 
 <style>
 	.level {
