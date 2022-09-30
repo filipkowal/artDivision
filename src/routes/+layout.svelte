@@ -98,8 +98,8 @@
 	}
 	@media (max-width: 1200px) {
 		:global(.square) {
-			width: calc(100% + 3.1rem);
-			margin-left: -1.54rem;
+			width: calc(100% + 3.1rem + 1px);
+			margin-left: calc(-1.54rem - 1px);
 			max-width: none;
 		}
 	}
