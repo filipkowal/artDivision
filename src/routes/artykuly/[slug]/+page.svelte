@@ -4,11 +4,13 @@
 	import MobileFooter from '../../../components/MobileFooter.svelte';
 	import { trailingOrphansToNewLine } from '../../../lib/utils';
 	import PageTransition from '../../../components/PageTransition.svelte';
+	import Meta from '../../../components/Meta.svelte';
 
 	export let data;
-	const { title, tags, date, author, body, onas } = data;
+	const { title, tags, date, author, body, onas, metaDescription, path } = data;
 </script>
 
+<Meta {title} {date} {author} {metaDescription} {path} />
 <PageTransition>
 	<article class="column page-container column-2">
 		<SectionHeader title="Artykuły" href="/artykuly" />

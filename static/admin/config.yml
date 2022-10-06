@@ -12,6 +12,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Meta description", name: "metaDescription", widget: "string" }
+      - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }
       - { label: "Autor", name: "author", widget: "string" }
       - { label: "Obraz główny", name: "thumbnail", widget: "image" }
@@ -31,6 +33,9 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Meta description", name: "metaDescription", widget: "string" }
+      - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
+      - { label: "Data publikacji", name: "date", widget: "datetime" }
       - { label: "Tekst", name: "body", widget: "markdown" }
       - { label: "Cena regularna", name: "price", widget: "string" }
       - {
@@ -47,6 +52,9 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Meta description", name: "metaDescription", widget: "string" }
+      - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
+      - { label: "Data publikacji", name: "date", widget: "datetime" }
       - { label: "Poziom zaawansowania", name: "level", widget: "string" }
       - { label: "Tekst", name: "body", widget: "markdown" }
       - { label: "Cena regularna", name: "price", widget: "string" }

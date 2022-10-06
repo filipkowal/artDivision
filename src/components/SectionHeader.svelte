@@ -26,9 +26,6 @@
 			display: none;
 		}
 	}
-	/* header > * {
-		width: calc(50% - 1rem);
-	} */
 	.header-title {
 		margin-left: 0.4rem;
 		z-index: 2;

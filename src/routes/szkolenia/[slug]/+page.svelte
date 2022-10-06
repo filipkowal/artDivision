@@ -3,12 +3,14 @@
 	import PageTransition from '../../../components/PageTransition.svelte';
 	import Prices from '../../../components/Prices.svelte';
 	import SectionHeader from '../../../components/SectionHeader.svelte';
+	import Meta from '../../../components/Meta.svelte';
 	import { trailingOrphansToNewLine } from '../../../lib/utils';
 
 	export let data;
-	const { title, body, price, priceReduced, level } = data;
+	const { title, body, price, priceReduced, level, date, metaDescription, path } = data;
 </script>
 
+<Meta {title} {date} {metaDescription} {path} />
 <PageTransition>
 	<article class="column page-container column-2">
 		<SectionHeader title="Szkolenia" href="/szkolenia" />
