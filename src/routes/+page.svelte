@@ -6,11 +6,13 @@
 	import SimpleCardOffer from '../components/SimpleCardOffer.svelte';
 	import SimpleCardWorkshop from '../components/SimpleCardWorkshop.svelte';
 	import PageTransition from '../components/PageTransition.svelte';
+	import Meta from '../components/Meta.svelte';
 
 	export let data;
 	const { articles, offers, workshops, onas, zespol } = data;
 </script>
 
+<Meta />
 <PageTransition>
 	<div class="section-container">
 		<div class="hide-on-desktop" id="onas">

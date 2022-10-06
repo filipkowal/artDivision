@@ -3,10 +3,12 @@
 	import Pagination from '../../../../components/Pagination.svelte';
 	import SimpleCardOffer from '../../../../components/SimpleCardOffer.svelte';
 	import PageTransition from '../../../../components/PageTransition.svelte';
+	import Meta from '../../../../components/Meta.svelte';
 
 	export let data;
 </script>
 
+<Meta />
 <PageTransition>
 	<div class="page-container column">
 		<SectionHeader title="Oferta" href="/oferta" />

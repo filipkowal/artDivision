@@ -3,10 +3,12 @@
 	import SectionHeader from '../../components/SectionHeader.svelte';
 	import Pagination from '../../components/Pagination.svelte';
 	import PageTransition from '../../components/PageTransition.svelte';
+	import Meta from '../../components/Meta.svelte';
 
 	export let data;
 </script>
 
+<Meta />
 <PageTransition>
 	<section class="page-container column">
 		<SectionHeader title="Artykuły" />

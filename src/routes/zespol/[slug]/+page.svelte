@@ -1,9 +1,11 @@
 <script>
 	import SectionHeader from '../../../components/SectionHeader.svelte';
+	import Meta from '../../../components/Meta.svelte';
 
 	export let data;
 </script>
 
+<Meta title={data.title} path={data.path} />
 <article class="column column-2 page-container">
 	<SectionHeader title="Zespół" />
 	<div class="content">

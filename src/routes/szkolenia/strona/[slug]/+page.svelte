@@ -1,4 +1,5 @@
 <script>
+	import Meta from '../../../../components/Meta.svelte';
 	import Pagination from '../../../../components/Pagination.svelte';
 	import SectionHeader from '../../../../components/SectionHeader.svelte';
 	import SimpleCardWorkshop from '../../../../components/SimpleCardWorkshop.svelte';
@@ -6,6 +7,7 @@
 	export let data;
 </script>
 
+<Meta />
 <div class="column page-container">
 	<SectionHeader title="Szkolenia" href="/szkolenia" />
 	<section class="workshops">

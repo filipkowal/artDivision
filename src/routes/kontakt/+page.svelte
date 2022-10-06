@@ -1,10 +1,12 @@
 <script>
 	import ContactData from '../../components/ContactData.svelte';
 	import ContactForm from '../../components/ContactForm.svelte';
+	import Meta from '../../components/Meta.svelte';
 	import PageTransition from '../../components/PageTransition.svelte';
 	import SectionHeader from '../../components/SectionHeader.svelte';
 </script>
 
+<Meta path="kontakt" />
 <PageTransition>
 	<div class="page-container column">
 		<SectionHeader title="Kontakt" />

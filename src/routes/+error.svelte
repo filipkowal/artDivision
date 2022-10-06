@@ -1,8 +1,10 @@
 <script>
 	import PageTransition from '../components/PageTransition.svelte';
 	import SectionHeader from '../components/SectionHeader.svelte';
+	import Meta from '../components/Meta.svelte';
 </script>
 
+<Meta />
 <PageTransition>
 	<div class="page-container column">
 		<SectionHeader title="404" />

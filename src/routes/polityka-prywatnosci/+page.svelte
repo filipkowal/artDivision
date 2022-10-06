@@ -1,8 +1,10 @@
 <script>
+	import Meta from '../../components/Meta.svelte';
 	import PageTransition from '../../components/PageTransition.svelte';
 	import SectionHeader from '../../components/SectionHeader.svelte';
 </script>
 
+<Meta title="Polityka prywatności" path="polityka-prywatnosci" />
 <PageTransition>
 	<div class="page-container column">
 		<SectionHeader title="Polityka prywatności" />
