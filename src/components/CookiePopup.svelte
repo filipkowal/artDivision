@@ -1,19 +1,28 @@
 <script>
 	import { browser } from '$app/environment';
 
-	let showCookiePopup = browser ? window.sessionStorage.getItem('showCookiePopup') ?? true : false;
+	let isCookieAccepted = true;
 
-	const hideCookiePopup = () => browser && window.sessionStorage.setItem('showCookiePopup', false);
+	if (browser) {
+		isCookieAccepted = window.sessionStorage.getItem('isCookieAccepted');
+	}
+
+	const acceptCookie = () => {
+		if (browser) {
+			window.sessionStorage.setItem('isCookieAccepted', true);
+			isCookieAccepted = true;
+		}
+	};
 </script>
 
-{#if true}
+{#if !isCookieAccepted}
 	<div class="cookie-popup column column-3">
 		<p>Ciasteczka</p>
 		<p>
 			Ta strona wykorzystuje pliki cookies w celu usprawnienia jej przeglądania oraz prawidłowego
 			świadczenia usług, zgodnie z <a href="/polityka-prywatnosci">Polityką prywatności</a>.
 		</p>
-		<button on:click={hideCookiePopup}>Rozumiem</button>
+		<button on:click={acceptCookie}>Rozumiem</button>
 	</div>
 {/if}
 
