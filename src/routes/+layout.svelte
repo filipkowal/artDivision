@@ -1,4 +1,5 @@
 <script>
+	import CookiePopup from '../components/CookiePopup.svelte';
 	import Footer from '../components/Footer.svelte';
 	import Header from '../components/Header.svelte';
 	import MobileMenu from '../components/MobileMenu.svelte';
@@ -12,7 +13,10 @@
 		<Header {onas} />
 	</div>
 
-	<main><slot /></main>
+	<main>
+		<slot />
+		<CookiePopup />
+	</main>
 
 	<div class="hide-on-mobile">
 		<Footer {zespol} />
@@ -163,6 +167,7 @@
 	}
 	main {
 		border-right: 1px solid black;
+		min-height: 100vh;
 	}
 	@media (max-width: 1200px) {
 		main {
