@@ -36,6 +36,12 @@
 		color: #0000ff;
 		margin-left: 8.4px;
 		width: 300px;
+		z-index: 3;
+	}
+	@media (max-width: 1200px) {
+		.cookie-popup {
+			width: 87.5%;
+		}
 	}
 	.cookie-popup p:first-of-type {
 		margin-top: 0;
