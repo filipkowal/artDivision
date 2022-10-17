@@ -19,17 +19,17 @@
 					<br /><br />
 
 					Powyższa polityka prywatności dotyczy usług Fundacji świadczonych przez zorganizowaną
-					część przedsiębiorstwa …………………………. dane kontaktowe: numer telefonu ………………………………., adres
-					e-mail: …………………………………. realizowanych przez …………….. (imię i nazwisko Beneficjenta)
+					część przedsiębiorstwa Art Division/Advisory. dane kontaktowe: numer telefonu 509 257 008,
+					adres e-mail: j.sikorska@artdivision.pl realizowanych przez Joannę Sikorską.
 				</li>
 
 				<li>
 					Dlaczego przetwarzamy Państwa Dane?
 					<ol>
 						<li>
-							W związku z usługami świadczonymi za pośrednictwem …………………. polegającymi na ……………………..
-							Tj. w celu zawarcia lub wykonania umowy (art. 6 ust. 1 lit.b Rozporządzenia), Państwa
-							dane będą przechowywane do czasu wykonania umowy
+							W związku z usługami świadczonymi za pośrednictwem Art Division/Advisory polegającymi
+							na zkoleniach i usługach doradczych w celu zawarcia lub wykonania umowy (art. 6 ust. 1
+							lit.b Rozporządzenia), Państwa dane będą przechowywane do czasu wykonania umowy
 						</li>
 						<li>
 							W celach marketingowych i promocji produktów oferowanych przez Fundację Rozwoju
@@ -98,22 +98,6 @@
 							lub pocztową, podmioty nabywające wierzytelności - w razie niezapłacenia przez Państwa
 							naszych faktur w terminie),
 						</li>
-						<li>
-							Odbiorcy w państwie trzecim lub organizacji międzynarodowej, tj. …………………………. Podstawą
-							transferu Państwa danych jest/są
-							<ul>
-								<li>Wyrażona przez Państwa zgoda</li>
-								<li>Konieczność w celu wykonania umowy</li>
-								<li>Standardowe klauzule ochrony danych zatwierdzone przez Komisję Europejską</li>
-								<li>
-									Zatwierdzony mechanizmy certyfikacji w połączeniu z egzekwowalnymi zobowiązaniami
-									odbiorcy danych do odpowiednich zabezpieczeń
-								</li>
-								<li>
-									Decyzja Komisji Europejskiej o zapewnieniu odpowiedniego stopnia ochrony w Kraju
-								</li>
-							</ul>
-						</li>
 					</ol>
 				</li>
 				<li>
@@ -162,7 +146,7 @@
 							podstawie zgody – art. 7 ust. 3 Rozporządzenia. Cofnięcie zgody nie będzie wpływać na
 							zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej
 							wycofaniem. Cofnięcie zgody występuje poprzez wysłanie wiadomości mailowej na adres:
-							……………….(proszę o uzupełnienie)
+							j.sikorska@artdivision.pl.
 						</li>
 						<li>
 							Prawo do sprzeciwu - może Pan/Pani wnieść sprzeciw wobec przetwarzania Pana/Pani
@@ -185,6 +169,87 @@
 					chcecie skorzystać z przysługujących praw, prosimy o kontakt na adres e-mail: rodo@twojstartup.pl
 				</li>
 			</ol>
+
+			<h1>Polityka Cookies</h1>
+
+			Pliki cookies zwane po polsku Ciasteczkami stanowią pliki tekstowe. Powstają one w sposób
+			automatyczny za pomocą przeglądarek internetowych w momencie odwiedzania i korzystania ze
+			stron internetowych. Są one wysyłane przez stronę internetową i zapisywane na urządzeniu
+			użytkownika. Dane uzyskiwane za pomocą pliku cookies są odczytywane tylko za pomocą strony,
+			która stworzyła plik cookie, tj. www.artdivision.pl Strona internetowa nie ma dostępu do
+			plików cookies, których sama nie stworzyła i do których nie został udzielony dostęp.
+
+			<h2>Kto jest administratorem państwa danych?</h2>
+
+			Administratorem Pani/ Pana danych osobowych jest FUNDACJA ROZWOJU PRZEDSIĘBIORCZOŚCI „TWÓJ
+			STARTUP” z siedzibą w Warszawie (adres siedziby: ul. Żurawia 6/12, lok. 766, 00-503 Warszawa),
+			wpisana do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego przez Sąd Rejonowy dla m.st.
+			Warszawy w Warszawie, XII Wydział Gospodarczy KRS pod numerem 0000442857; NIP: 5213641211;
+			REGON: 146433467, dane kontaktowe: numer telefonu +48 509 257 008, adres e-mail:
+			j.sikorska@artdivision.pl w związku z realizowaną przez Joannę Sikorską zorganizowaną częścią
+			przedsiębiorstwa o nazwie Art Division/ Advisory
+
+			<h2>CEL COOKIES</h2>
+
+			Pliki cookies służą do ułatwienia korzystania ze strony internetowej przez użytkownika bądź
+			poprzez dostosowanie korzystnych dla użytkowania treści przez stronę internetową. W ramach
+			strony internetowej wykorzystywane są pliki cookies w celach Technicznych:
+			<ul>
+				<li>zapewniają prawidłowe działania strony internetowej;</li>
+				<li>zapamiętują czy została wyrażona zgoda na pobieranie ciasteczek;</li>
+				<li>
+					zapewniają odpowiednie wyświetlania strony w zależności od wykorzystywanego urządzenia;
+				</li>
+				<li>określają czy z danego urządzenia odwiedzano wcześniej naszą stronę internetową</li>
+				<li>
+					zapamiętują zawartość koszyka Analitycznych – umieszczane są w celu polepszenia
+					świadczonych usług i działania naszej strony internetowej, poprzez pozyskiwanie danych
+					analitycznych, na podstawie których tworzone są statystyki;
+				</li>
+				<li>
+					zbierają informacje dotyczące ruchu na stronie, źródła ruchu i sposobu korzystania ze
+					stron.
+				</li>
+			</ul>
+			Pozyskane informacje są dla nas anonimowe i nie pozwalają na identyfikacje użytkownika korzystającego
+			z strony. W celu dokonania analizy i sporządzenia statystyk korzystamy z usług : -Google, tj. Google
+			Analytics. Szerszy zakres informacji dotyczących sposobu działania usługodawcy znajduje się na
+			https://support.google.com/analytics/answer/6004245, -Hotjar, Szerszy zakres informacji dotyczących
+			sposobu działania usługodawcy znajduje się na https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information
+			Marketingowych - W celach marketingowych korzystamy z usług firmy Facebook (Facebook Piksel). Usługa
+			ta polega na kierowaniu reklamy do użytkowników, którzy już byli na naszej stronie internetowej,
+			a także na analizowaniu grupy docelowej naszych usług umożliwiając kierowanie naszych reklam do
+			naszych potencjalnych klientów. Dokładne informacje o sposobie działania Facebook Piksel można
+			znaleźć na poniższej stronie: https://pl-pl.facebook.com/business/help/742478679120153?helpref=page_content
+
+			<h2>Czas Przechowywania plików Cookies</h2>
+			Sesyjne - są przechowywane na użytkowanym urządzeniu do czasu opuszczenia strony, np. poprzez wyłączenie
+			przeglądarki internetowej Stałe - istnieją do czasu ich ręcznego usunięcia bądź upłynięcia określonego
+			w przeglądarce czasu
+
+			<h2>Rodzaj zbieranych danych</h2>
+			Zaliczamy do nich: - adres IP urządzenia z którego korzysta użytkownik - typ urządzenia - czas
+			przebywania na stronie - podjęte czynności na stronie - lokalizację z której dokonywane jest połączenie
+
+			<h2>Jakie dane wysyłamy innym podmiotom?</h2>
+			Firmy trzecie uzyskują od nas dane dotyczące: - adresu IP urządzenia z którego korzysta użytkownik
+			- typu urządzenia - czasu przebywania na stronie - czynności podjętych na stronie - lokalizację
+			z której dokonywane jest połączenie
+
+			<h2>Sposób wycofania zgody</h2>
+			Niektóre ciasteczka są pobierane przez przeglądarkę internetową w chwili wejścia na stronę internetową.
+			W celu zablokowania możliwości pobierania ciasteczek należy zastosować metodę istniejącą dla danej
+			przeglądarki internetowej: 1. Firefox 2. Chrome 3. Microsoft Edge 4. Safari Brak możliwości zapisywania/odczytywania
+			plików cookies może skutkować niepełnym i niepoprawnym działaniem strony internetowej, jednakże
+			korzystanie ze strony będzie nadal możliwe.
+
+			<h2>Pozostałe informacje związane z procesem przetwarzania danych</h2>
+
+			Wszelkie pytanie dotyczące naszych polityk można uzyskać za pomocą adresu e-mail:
+			rodo@twojstartup.pl W przypadku naruszenia przepisów o ochronie danych osobowych, masz prawo
+			do zgłoszenia skargi do Prezesa Urzędu Ochrony Danych Osobowych pod adresem&nbsp;<a
+				href="https://uodo.gov.pl/">https://uodo.gov.pl/</a
+			>
 		</div>
 	</div>
 </PageTransition>
