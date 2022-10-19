@@ -14,7 +14,7 @@ rynku dzieł sztuki. Dzięki temu uzyskałam realną możliwość wpływania na 
 jego kondycji. Studia obroniłam pracą: ,,Główne determinanty kształtujące młodych
 artystów na polskim rynku sztuki”.
 Pośredniczyłam i doradzałam między innymi przy zakupie dzieł takich artystów jak: Roman
-Opałka, Erna Rosenstein, Małgorzata Mirga- Tass, Natalia LL czy Ryszard Winiarski.
+Opałka, Erna Rosenstein, Małgorzata Mirga-Tass, Natalia LL czy Ryszard Winiarski.
 Oprócz klasyków awangardy specjalizuję się w sztuce młodego pokolenia, a wyszukiwanie
 artystów z potencjałem jest jedną z moich największych pasji.
 
