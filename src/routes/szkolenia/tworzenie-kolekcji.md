@@ -1,5 +1,5 @@
 ---
-title: "Indywidualny kurs: inwestowanie w dzieła sztuki "
+title: "INDYWIDUALNY KURS: INWESTOWANE W DZIEŁA SZTUKI"
 metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościowej
   kolekcji dzieł sztuki. "
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
