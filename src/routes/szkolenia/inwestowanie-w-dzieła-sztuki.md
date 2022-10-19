@@ -1,5 +1,5 @@
 ---
-title: "Świadome kolekcjonowanie-kurs stacjonarny "
+title: ŚWIADOME KOLEKCJONOWANIE-KURS STACJONARNY
 metaDescription: "Kurs z obszaru inwestowania w dzieła sztuki. Rozpocznij swoją
   przygodę z kolekcjonowaniem dzieł sztuki wyposażony w fachową wiedzę. "
 yoastKeyword: dzieła sztuki
