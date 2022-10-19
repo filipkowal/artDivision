@@ -1,7 +1,7 @@
 ---
-title: "Doradztwo inwestycje z zakresu rynku dzieł sztuki "
+title: " DORADZTWO INWESTYCYJNE Z ZAKRESU RYNKU DZIEŁ SZTUKI "
 metaDescription: "Oferujemy profesjonalną pomoc i mentoring dla osób które chcą
-  inwestować w dzieła sztuki. "
+  kolekcjonować w dzieła sztuki. "
 yoastKeyword: "rynek dzieł sztuki "
 date: 2022-10-19T14:06:01.189Z
 price: 15-8% prowizji od kupna lub sprzedaży – cena jest zależna od kwoty
