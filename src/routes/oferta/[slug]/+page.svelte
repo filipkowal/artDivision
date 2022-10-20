@@ -7,7 +7,7 @@
 	import { trailingOrphansToNewLine } from '../../../lib/utils';
 
 	export let data;
-	const { title, body, price, priceReduced, date, metaDescription, path } = data;
+	const { title, body, price, date, metaDescription, path } = data;
 </script>
 
 <Meta {title} {date} {metaDescription} {path} />
@@ -19,7 +19,7 @@
 			<h1 class="header">{trailingOrphansToNewLine(title)}</h1>
 			<div class="body">{@html body}</div>
 			<footer>
-				<Prices {price} {priceReduced} />
+				<Prices {price} />
 				<p>
 					Zapisy i szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
 					<br />lub poprzez formularz poniżej.

@@ -37,13 +37,7 @@ collections:
       - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }
       - { label: "Tekst", name: "body", widget: "markdown" }
-      - { label: "Cena regularna", name: "price", widget: "string" }
-      - {
-          label: "Cena przy wcześniejszym zapisie",
-          name: "priceReduced",
-          widget: "string",
-          required: false,
-        }
+      - { label: "Cena", name: "price", widget: "string" }
 
   - name: "szkolenia"
     label: "Szkolenia"
