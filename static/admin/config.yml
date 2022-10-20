@@ -67,7 +67,7 @@ collections:
     fields:
       - { label: "Imię i nazwisko", name: "title", widget: "string" }
       - { label: "Zdjęcie", name: "photo", widget: "image" }
-      - { label: "Opis", name: "body", widget: "text" }
+      - { label: "Opis", name: "body", widget: "markdown" }
 
   - name: "pages"
     label: "O nas"
