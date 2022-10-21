@@ -6,7 +6,9 @@
 
 <div class="prices">
 	{#if price}
-		<SimpleCard title="Cena regularna"><span class="price">{price}</span></SimpleCard>
+		<SimpleCard title={`Cena${priceReduced ? ' regularna' : ''}`}
+			><span class="price">{price}</span></SimpleCard
+		>
 	{/if}
 	{#if priceReduced}
 		<SimpleCard title="Cena przy wcześniejszym zapisie"
