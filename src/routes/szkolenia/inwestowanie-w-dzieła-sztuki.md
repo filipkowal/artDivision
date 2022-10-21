@@ -10,10 +10,7 @@ priceReduced: "MODUŁ I- 1100 pln+23% VAT (do 10.11.2022) MODUŁ II- 550 pln+23%
   VAT (do 10.11.2022) "
 ---
 Inwestowanie w dzieła sztuki jest coraz popularniejszą formą lokaty kapitału. Według raportu  An Art
-Bas
-
-Inwestowanie w dzieła sztuki jest coraz popularniejszą formą lokaty kapitału. Według raportu  An Art
-Basel &UBS  sprzedaż na globalnym rynku dzieł sztuki w 2018 roku wyniosła 67,4 mld USD i jest to
+Basel & UBS  sprzedaż na globalnym rynku dzieł sztuki w 2018 roku wyniosła 67,4 mld USD i jest to
 6% wzrost względem 2017 roku. 
 Polski rynek sztuki również dynamicznie się rozwija. Obroty na aukcjach dzieł sztuki w pierwszym
 kwartale tego roku są o 70% wyższe względem poprzedniego. Z roku na rok przybywa
@@ -26,7 +23,6 @@ Stanowi jedną z najbezpieczniejszych form długoterminowej lokaty kapitału. Je
 budowana świadomie, przy wsparciu merytorycznym pierwsze zyski możemy obserwować już po
 roku od zakupu dzieła sztuki.
 
-
 Jesteś zainteresowany poznaniem podstawowych mechanizmów rynku dzieł sztuki?
 Chcesz dowiedzieć się jak uniknąć nietrafionej inwestycji?
 Od czego zacząć budowanie kolekcji dzieł sztuki?
@@ -36,10 +32,10 @@ Program szkolenia:
 **Moduł I**
 
 * ŚWIATOWY  RYNEK SZTUKI Z ELEMENTAMI HISTORII SZTUKI 
-*  POLSKI RYNEK SZTUKI Z ELEMENATAMI HISTORII SZTUKI 
+* POLSKI RYNEK SZTUKI Z ELEMENATAMI HISTORII SZTUKI 
 * STRUKTURA RYNKU SZTUKI 
 * MODELE KOLEKCJI DZIEŁ SZTUKI - JAK ROBIĄ TO NAJLEPSI ?
-*  RYNEK PIERWOTNY, RYNEK WTÓRNY: CO, KIEDY I GDZIE KUPOWAĆ ? JAK SPRZEDAĆ?
+* RYNEK PIERWOTNY, RYNEK WTÓRNY: CO, KIEDY I GDZIE KUPOWAĆ ? JAK SPRZEDAĆ?
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 
   Kurs prowadzi **art advisorka Joanna Sikorska** 
