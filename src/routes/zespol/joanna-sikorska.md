@@ -1,23 +1,5 @@
 ---
-title: Joanna Sikorska
-photo: /images/uploads/ad_joanna.jpg
+title: "Amelia Krajewska "
+photo: /images/uploads/ad_amelia.jpg
 ---
-Art advisorka, założycielka agencji Art Division/Advisory. Specjalizuję się w doradztwie i
-edukacji z obszaru rynku dzieł sztuki współczesnej. Tworzę strategie kolekcjonowania dzieł
-sztuki dla klientów prywatnych i korporacyjnych. Jako art advisorka dbam o to, aby
-inwestowanie w dzieła sztuki było bezpieczne i przynosiło satysfakcję na polu
-emocjonalnym, estetycznym i inwestycyjnym.
-W 2013 roku ukończyłam Akademię Sztuk Pięknych we Wrocławiu. W 2017 roku
-rozpoczęłam studia na nowatorskim kierunku: Zarządzanie na Rynku Dzieł Sztuki UW,
-gdzie poszerzyłam wcześniej zdobytą wiedzę o znajomość polskiego i zagranicznego
-rynku dzieł sztuki. Dzięki temu uzyskałam realną możliwość wpływania na poprawę
-jego kondycji. Studia obroniłam pracą: ,,Główne determinanty kształtujące młodych
-artystów na polskim rynku sztuki”.
-Pośredniczyłam i doradzałam między innymi przy zakupie dzieł takich artystów jak: Roman
-Opałka, Erna Rosenstein, Małgorzata Mirga-Tass, Natalia LL czy Ryszard Winiarski.
-Oprócz klasyków awangardy specjalizuję się w sztuce młodego pokolenia, a wyszukiwanie
-artystów z potencjałem jest jedną z moich największych pasji.
-
-Występowałam jako ekspert w portalach : Puls Biznesu, Bankier TV , magazynie Business
-Woman&Life , RESTARTmag oraz jako prelegentka na Konferencji Blockchain i
-Finanse w Warszawie. Jestem autorką cyklu ABC rynku sztuki dla portalu BitHub.pl.
+Adwokatka, członkini Izby Adwokackiej w Warszawie. Specjalizuje się w doradztwie prawnym na rzecz podmiotów z rynku sztuki. Zajmuje się także rozwiązywaniem krajowych i międzynarodowych sporów arbitrażowych, w tym postępowań przed Centrum Arbitrażu i Mediacji Światowej Organizacji Własności Intelektualnej, Trybunałem Sprawiedliwości Unii Europejskiej, Europejskim Trybunałem Praw Człowieka. Doświadczenie zawodowe zdobywała w największych kancelariach międzynarodowych w Polsce (m.in. kancelarii Dentons) i Hiszpanii, a także w Komisji Europejskiej. Kształciła się prawniczo w Polsce, Hiszpanii oraz Szwajcarii. Ukończyła również podyplomowe studia z historii sztuki w PAN. Angażuje się w działalność społeczną poprzez wsparcie prawnicze organizacji społecznych. Jej misją jest wykorzystanie wiedzy i doświadczenia prawniczego dla dobra społecznego. W Art Division/ Advisory zajmuje się doradztwem prawnym na rzecz artystów, nabywców dzieł sztuki, galerii, domów aukcyjnych, antykwariuszy, muzeów, organizacji pozarządowych oraz prowadzeniem kursu z zakresu aspektów prawnych inwestowania w dzieła sztuki.

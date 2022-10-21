@@ -1,24 +1,24 @@
 ---
-title: ART BRANDING - WSPIERAMY BIZNES POPRZEZ SZTUKĘ
-metaDescription: "Tworzenie kolekcji firmowych i korporacyjnych. "
-yoastKeyword: "art branding "
+title: "  DORADZTWO INWESTYCYJNE Z ZAKRESU RYNKU DZIEŁ SZTUKI "
+metaDescription: " Oferujemy profesjonalną pomoc i mentoring dla osób które chcą
+  kolekcjonować w dzieła sztuki. "
+yoastKeyword: "rynek dzieł sztuki "
 date: 2022-10-19T14:20:37.137Z
-price: Cena usługi ustalana indywidualnie
+price: 15-8% prowizji od kupna lub sprzedaży – cena jest zależna od kwoty
+  przeznaczonej na budowanie kolekcji.
 priceReduced: ""
 ---
+\
+Opracowujemy strategię kolekcjonowania dla klientów indywidualnych i firm. Oferujemy:
 
-
-Z miłości do sztuki wspieramy społeczną odpowiedzialność biznesu i wysoką kulturę pracy.
-Wznosimy komunikację marki z klientem i pracownikiem na wyższy poziom.
-
-
-Oferujemy:
-
-* Opracowanie koncepcji CSR dla twojego biznesu.
-* Organizację szkoleń i eventów dla firm.
-* Aranżację kolekcji w przestrzeni biurowej.
-* Współpracę ze specjalistami z zakresu: PR, marketingu, UX/UI design, wideo, copywritingu.
-* Tworzenie strategii marketingowych spójnych z celem biznesowym oraz preferencjami.
-   klienta poprzez sztukę.
-*  Promocję kolekcji firmowych.
-*  Doradztwo prawne.
+* wspólne określenie charakteru kolekcji z klientem przy uwzględnieniu indywidualnych preferencji.
+* badanie i monitorowanie rynku dzieł sztuki ocenę wartości artystycznej i rynkowej prac
+* wyszukiwanie najlepiej rokujących ofert
+* negocjowanie najkorzystniejszych warunków kupna i sprzedaży dla klienta
+* wspólne odwiedzanie wystaw w galeriach i instytucjach sztuki
+* wizyty na targach i eventach związanych ze sztuką
+* pomoc w znalezieniu specjalistów z zakresu konserwacji dzieł sztuki
+* ocena autentyczności dzieł
+* ubezpieczenie kolekcji
+* aranżacja kolekcji we wnętrzu
+* kompleksowe zarządzanie kolekcją
