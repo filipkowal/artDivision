@@ -38,7 +38,7 @@ Program szkolenia:
 * RYNEK PIERWOTNY, RYNEK WTÓRNY: CO, KIEDY I GDZIE KUPOWAĆ ? JAK SPRZEDAĆ?
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 
-  Kurs prowadzi **art advisorka Joanna Sikorska** 
+  Kurs prowadzi **art advisor Joanna Sikorska** 
 
 Spotkania odbędą się przy ulicy Marszałkowskiej 18 w Warszawie 
 
