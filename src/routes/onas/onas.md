@@ -1,6 +1,6 @@
 ---
 logo: /images/uploads/ad_logo_desktop.svg
-thumbnail: /images/uploads/ad_team.jpg
+thumbnail: /images/uploads/ad._team.jpg
 ---
 **Art Division / Advisory**, to agencja doradztwa z zakresu rynku dzieł sztuki.\
 \
