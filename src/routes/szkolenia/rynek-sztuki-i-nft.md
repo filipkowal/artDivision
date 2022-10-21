@@ -1,5 +1,5 @@
 ---
-title: Rynek sztuki i NFT
+title: RYNEK SZTUKI I NFT
 metaDescription: Szkolenie dostarcza wiedzę  z zakresu najnowszych technologii w
   obszarze sztuki takich jak NFT, blockchain
 yoastKeyword: szkolenie z zakresu NFT
