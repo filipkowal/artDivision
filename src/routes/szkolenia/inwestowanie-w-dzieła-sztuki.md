@@ -28,9 +28,9 @@ Program szkolenia:
 
   Kurs prowadzi: **art advisor Joanna Sikorska** 
 
-Spotkania odbędą się przy ulicy Marszałkowskiej 18 w Warszawie 
+Spotkania odbędą się przy ulicy Marszałkowskiej 18 w Warszawie. 
 
-terminy spotkań: 15, 22, 29 listopada, 6 grudnia 2022 roku. W godzinach 18.00-20.00
+Terminy spotkań: 15, 22, 29 listopada, 6 grudnia 2022 roku. W godzinach 18.00-20.00
 
 \
 **Moduł II**
@@ -47,6 +47,6 @@ V. DZIAŁALNOŚĆ SPOŁECZNA INWESTORÓW I KOLEKCJONERÓW
 
 Prowadząca: **adwokat Amelia Krajewska**
 
-Spotkanie odbędą się przy ulicy Marszałkowskiej 18 w Warszawie
+Spotkanie odbędą się przy ulicy Marszałkowskiej 18 w Warszawie.
 
-termin spotkania: 28 listopada 2022 roku. W godzinach 18.00-21.00
+Termin spotkania: 28 listopada 2022 roku. W godzinach 18.00-21.00
