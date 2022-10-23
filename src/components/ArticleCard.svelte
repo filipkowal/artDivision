@@ -5,7 +5,7 @@
 	export let title, thumbnail, fileName, tags;
 </script>
 
-<a href={`/artykuly/${fileName}`}>
+<a href={`/${fileName}`}>
 	<div class="articleCard">
 		<div class="image-container">
 			<img src={thumbnail} alt={title} />

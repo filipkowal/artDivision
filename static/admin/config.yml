@@ -6,6 +6,7 @@ public_folder: "/images/uploads"
 collections:
   - name: "artykuly" # Used in routes, e.g., /admin/collections/artykuly
     label: "Artykuły" # Used in the UI
+    label_singular: "Artykuł"
     folder: "src/routes/artykuly" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}/{{month}}/{{day}}/{{slug}}" # Filename template, e.g., YYYY/MM/DD/title.md
@@ -30,7 +31,7 @@ collections:
     label: "Oferta"
     folder: "src/routes/oferta"
     create: true
-    slug: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Meta description", name: "metaDescription", widget: "string" }
@@ -41,9 +42,10 @@ collections:
 
   - name: "szkolenia"
     label: "Szkolenia"
+    label_singular: "Szkolenie"
     folder: "src/routes/szkolenia"
     create: true
-    slug: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Meta description", name: "metaDescription", widget: "string" }
@@ -61,6 +63,7 @@ collections:
 
   - name: "zespol"
     label: "Zespół"
+    label_singular: "Członek Zespołu"
     folder: "src/routes/zespol"
     create: true
     slug: "{{slug}}"

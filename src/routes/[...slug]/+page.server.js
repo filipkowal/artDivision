@@ -1,5 +1,6 @@
 export async function load({ params }) {
-	const { attributes, html: body } = await import(`../${params.slug}.md`);
+	let modules = import.meta.glob('/src/routes/2*/*/*/*.md');
+	const { attributes, html: body } = await modules[`/src/routes/${params.slug}.md`]();
 	const path = 'artykuly/' + params.slug;
 
 	return { ...attributes, body: addCaptionsToImages(body), path };

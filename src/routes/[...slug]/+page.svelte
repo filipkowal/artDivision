@@ -1,10 +1,10 @@
 <script>
-	import Tag from '../../../components/Tag.svelte';
-	import SectionHeader from '../../../components/SectionHeader.svelte';
-	import MobileFooter from '../../../components/MobileFooter.svelte';
-	import { trailingOrphansToNewLine } from '../../../lib/utils';
-	import PageTransition from '../../../components/PageTransition.svelte';
-	import Meta from '../../../components/Meta.svelte';
+	import Tag from '../../components/Tag.svelte';
+	import SectionHeader from '../../components/SectionHeader.svelte';
+	import MobileFooter from '../../components/MobileFooter.svelte';
+	import { trailingOrphansToNewLine } from '../../lib/utils';
+	import PageTransition from '../../components/PageTransition.svelte';
+	import Meta from '../../components/Meta.svelte';
 
 	export let data;
 	const { title, tags, date, author, body, onas, metaDescription, path } = data;
