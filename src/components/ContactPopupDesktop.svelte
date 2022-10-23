@@ -35,7 +35,7 @@
 		border: 2px solid #0000ff;
 		background-color: white;
 		padding: 1rem;
-		width: calc(100% - 2rem -2px);
+		width: calc(100% - 2rem - 2px);
 		color: #0000ff;
 	}
 	.contact-button {
