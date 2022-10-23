@@ -19,7 +19,7 @@
 			<h2><a href="/artykuly" on:click={() => setOpenMenu(null)}>Artykuły</a></h2>
 			<h2><a href="/oferta" on:click={() => setOpenMenu(null)}>Oferta</a></h2>
 			<h2><a href="/szkolenia" on:click={() => setOpenMenu(null)}>Szkolenia</a></h2>
-			<h2><a href="/#zespol" on:click={() => setOpenMenu(null)}>Zespoł</a></h2>
+			<h2><a href="/#zespol" on:click={() => setOpenMenu(null)}>Zespół</a></h2>
 			<div class="buttons">
 				<button on:click={() => setOpenMenu('contact')}>Kontakt</button>
 				<button class="close-button" on:click={() => setOpenMenu(null)}>Zamknij</button>
