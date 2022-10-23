@@ -1,6 +1,4 @@
-POLITYKA PRYWATNOŚCI Art Division/Advisory
-
-
+# POLITYKA PRYWATNOŚCI 
 
 1. Kto jest administratorem państwa danych?
 
