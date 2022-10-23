@@ -85,7 +85,11 @@ collections:
         file: "src/routes/kontakt.md"
         label: "Kontakt"
         fields:
-          - { label: "Dane kontaktowe", name: "body", widget: "markdown" }
+          - {
+              label: "Dane kontaktowe (shift + enter by przejść do nowej linii)",
+              name: "body",
+              widget: "markdown",
+            }
       - name: "polityka-prywatnosci"
         file: "src/routes/polityka-prywatnosci.md"
         label: "Polityka prywatności"
