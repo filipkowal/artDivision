@@ -7,7 +7,9 @@ collections:
   - name: "artykuly" # Used in routes, e.g., /admin/collections/artykuly
     label: "Artykuły" # Used in the UI
     label_singular: "Artykuł"
-    folder: "src/routes/2*" # The path to the folder where the documents are stored
+    folder: "src/routes/" # The path to the folder where the documents are stored
+    nested:
+      depth: 4
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}/{{month}}/{{day}}/{{slug}}" # Filename template, e.g., YYYY/MM/DD/title.md
     fields: # The fields for each document, usually in front matter
