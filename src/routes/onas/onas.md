@@ -1,6 +1,6 @@
 ---
 logo: /images/uploads/ad_logo_desktop.svg
-thumbnail: /images/uploads/ad_team.jpg
+thumbnail: /images/uploads/ad._team.jpg
 ---
 **Art Division / Advisory**, to agencja doradztwa z zakresu rynku dzieł sztuki.\
 \
@@ -13,7 +13,9 @@ Jesteśmy oczami i uszami naszych klientów. Łączymy wieloletnią pasję do sz
 **Dbamy o komfort i dyskrecję**\
 Zapewniamy kompleksową opiekę, tak by nabywanie dzieł sztuki było nie tylko przyjemnością ale i bezpieczną lokatą kapitału.\
 \
-Działamy w zgodzie z kodeksem etyki [**Association Of Proffessional Art Advisors**. ](https://www.artadvisors.org/association-of-professional-art-advisors-mission)\
+Działamy w zgodzie z kodeksem etyki [**Association Of Proffessional Art Advisors**. ](https://www.artadvisors.org/association-of-professional-art-advisors-mission)
+
+\
 **Art Division / Advisory** to również blog o kolekcjonowaniu dzieł sztuki. Przedstawiamy najważniejsze zjawiska, wydarzenia, sylwetki artystów oraz kolekcjonerów, a także liczne nieprawidłowości w obszarze rynku sztuki.\
 \
-*Świadome kolekcjonowanie dzieł sztuki daje możliwość obcowania z pięknem i tajemnicą. Art Division to twój przewodnik po labiryncie rynku sztuki.*
+*Świadome kolekcjonowanie dzieł sztuki daje możliwość obcowania z pięknem i tajemnicą. Art Division/Advisory to twój przewodnik po labiryncie rynku sztuki.*
