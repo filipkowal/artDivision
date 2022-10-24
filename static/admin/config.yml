@@ -9,13 +9,7 @@ collections:
     folder: "src/routes/artykuly" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    identifier_field: filename
     fields:
-      - {
-          label: "Nazwa pliku (nie używaj '/')",
-          name: "filename",
-          widget: "string",
-        }
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Meta description", name: "metaDescription", widget: "string" }
@@ -37,13 +31,7 @@ collections:
     folder: "src/routes/oferta"
     create: true
     slug: "{{slug}}"
-    identifier_field: filename
     fields:
-      - {
-          label: "Nazwa pliku (nie używaj '/')",
-          name: "filename",
-          widget: "string",
-        }
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Meta description", name: "metaDescription", widget: "string" }
       - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
@@ -56,13 +44,7 @@ collections:
     folder: "src/routes/szkolenia"
     create: true
     slug: "{{slug}}"
-    identifier_field: filename
     fields:
-      - {
-          label: "Nazwa pliku (nie używaj '/')",
-          name: "filename",
-          widget: "string",
-        }
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Meta description", name: "metaDescription", widget: "string" }
       - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
@@ -85,7 +67,7 @@ collections:
     identifier_field: filename
     fields:
       - {
-          label: "Nazwa pliku (nie używaj '/')",
+          label: "Nazwa pliku (nie używaj slasha '/')",
           name: "filename",
           widget: "string",
         }
