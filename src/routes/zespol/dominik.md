@@ -1,4 +1,5 @@
 ---
+filename: specjalista-nft
 title: Dominik Jałowiński
 photo: /images/uploads/2l6a8655.jpg
 ---
