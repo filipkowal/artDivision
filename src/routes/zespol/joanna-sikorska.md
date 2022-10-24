@@ -1,4 +1,5 @@
 ---
+filename: adwokatka-ameliakrajewska
 title: "Amelia Krajewska "
 photo: /images/uploads/akrajewska.jpg
 ---
