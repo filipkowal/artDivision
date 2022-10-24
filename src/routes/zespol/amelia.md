@@ -1,4 +1,5 @@
 ---
+filename: artadvisor-joannasikorska
 title: "Joanna  Sikorska "
 photo: /images/uploads/jsikorskjpg.jpg
 ---
