@@ -5,7 +5,7 @@ metaDescription: "Kurs z obszaru inwestowania w dzieła sztuki. Rozpocznij swoj�
 yoastKeyword: dzieła sztuki
 date: 2022-10-19T12:29:45.570Z
 level: podstawowe
-price: MODUŁ I 1500 pln +23% VAT, MODUŁ II 750 PLN
+price: MODUŁ I 1500 pln +23% VAT, MODUŁ II 750 PLN+23%VAT
 priceReduced: "MODUŁ I- 1100 pln+23% VAT (do 10.11.2022) MODUŁ II- 550 pln+23%
   VAT (do 10.11.2022) "
 ---
@@ -28,25 +28,21 @@ Program szkolenia:
 
   Kurs prowadzi: **art advisor Joanna Sikorska** 
 
-Spotkania odbędą się przy ulicy Marszałkowskiej 18 w Warszawie. 
+Spotkania odbędą w galerii Marszałkowska 18 w Warszawie. 
 
 Terminy spotkań: 15, 22, 29 listopada, 6 grudnia 2022 roku. W godzinach 18.00-20.00
 
 \
 **Moduł II**
 
-I. ZAKRES REGULACJI PRAWNYCH DOTYCZĄCYCH INWESTOWANIA W DZIEŁA SZTUKI
-
-II. UMOWY ZAWIERANE PRZEZ INWESTORÓW NA RYNKU SZTUKI
-
-III. RAMY PODATKOWE INWESTOWANIA W DZIEŁA SZTUKI
-
-IV. UBEZPIECZENIE, TRANSPORT I WYWÓZ DZIEŁ SZTUKI ZA GRANICĘ
-
-V. DZIAŁALNOŚĆ SPOŁECZNA INWESTORÓW I KOLEKCJONERÓW
+*  ZAKRES REGULACJI PRAWNYCH DOTYCZĄCYCH INWESTOWANIA W DZIEŁA SZTUKI
+*  UMOWY ZAWIERANE PRZEZ INWESTORÓW NA RYNKU SZTUKI
+*  RAMY PODATKOWE INWESTOWANIA W DZIEŁA SZTUKI
+* UBEZPIECZENIE, TRANSPORT I WYWÓZ DZIEŁ SZTUKI ZA GRANICĘ
+*  DZIAŁALNOŚĆ SPOŁECZNA INWESTORÓW I KOLEKCJONERÓW
 
 Prowadząca: **adwokat Amelia Krajewska**
 
-Spotkanie odbędą się przy ulicy Marszałkowskiej 18 w Warszawie.
+Spotkanie odbędzie się w galerii Marszałkowska 18 w Warszawie.
 
 Termin spotkania: 28 listopada 2022 roku. W godzinach 18.00-21.00
