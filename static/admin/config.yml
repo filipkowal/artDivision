@@ -67,11 +67,12 @@ collections:
     identifier_field: filename
     fields:
       - {
-          label: "Nazwa pliku (nie używaj slasha '/')",
+          label: "Nazwa pliku (nie używaj slasha '/', działa tylko przy tworzeniu nowego pliku)",
           name: "filename",
           widget: "string",
         }
       - { label: "Imię i nazwisko", name: "title", widget: "string" }
+      - { label: "Data publikacji", name: "date", widget: "datetime" }
       - { label: "Zdjęcie", name: "photo", widget: "image" }
       - { label: "Opis", name: "body", widget: "markdown" }
 
