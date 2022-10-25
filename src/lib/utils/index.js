@@ -21,9 +21,9 @@ export const fetchWorkshops = async () => {
 
 export const fetchTeam = async () => {
 	const allPostFiles = import.meta.glob('/src/routes/zespol/*.md');
-	const posts = getFilesContent(allPostFiles, 'zespol');
+	const posts = await getFilesContent(allPostFiles, 'zespol');
 
-	return posts;
+	return posts.sort((a, b) => new Date(a.date) - new Date(b.date));
 };
 
 export const fetchAbout = async () => {
