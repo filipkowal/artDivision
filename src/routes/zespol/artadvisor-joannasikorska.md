@@ -1,6 +1,7 @@
 ---
 filename: artadvisor-joannasikorska
 title: Joanna  Sikorska
+date: 2022-10-25T13:12:17.635Z
 photo: /images/uploads/jsikorskjpg.jpg
 ---
 Art advisorka, założycielka agencji Art Division/Advisory. Specjalizuję się w doradztwie i edukacji z obszaru rynku dzieł sztuki współczesnej. Tworzę strategie kolekcjonowania dzieł sztuki dla klientów prywatnych i korporacyjnych. Jako art advisorka dbam o to, aby inwestowanie w dzieła sztuki było bezpieczne i przynosiło satysfakcję na polu inwestycyjnym, estetycznym i emocjonalnym. 
