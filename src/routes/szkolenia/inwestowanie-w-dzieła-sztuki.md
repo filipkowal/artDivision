@@ -28,21 +28,21 @@ Program szkolenia:
 
   Kurs prowadzi: **art advisor Joanna Sikorska** 
 
-Spotkania odbędą w galerii Marszałkowska 18 w Warszawie. 
+Spotkania odbędą w galerii marszałkowska|18 przy ulicy Marszałkowska 18 w Warszawie 
 
 Terminy spotkań: 15, 22, 29 listopada, 6 grudnia 2022 roku. W godzinach 18.00-20.00
 
 \
 **Moduł II**
 
-*  ZAKRES REGULACJI PRAWNYCH DOTYCZĄCYCH INWESTOWANIA W DZIEŁA SZTUKI
-*  UMOWY ZAWIERANE PRZEZ INWESTORÓW NA RYNKU SZTUKI
-*  RAMY PODATKOWE INWESTOWANIA W DZIEŁA SZTUKI
+* ZAKRES REGULACJI PRAWNYCH DOTYCZĄCYCH INWESTOWANIA W DZIEŁA SZTUKI
+* UMOWY ZAWIERANE PRZEZ INWESTORÓW NA RYNKU SZTUKI
+* RAMY PODATKOWE INWESTOWANIA W DZIEŁA SZTUKI
 * UBEZPIECZENIE, TRANSPORT I WYWÓZ DZIEŁ SZTUKI ZA GRANICĘ
-*  DZIAŁALNOŚĆ SPOŁECZNA INWESTORÓW I KOLEKCJONERÓW
+* DZIAŁALNOŚĆ SPOŁECZNA INWESTORÓW I KOLEKCJONERÓW
 
 Prowadząca: **adwokat Amelia Krajewska**
 
-Spotkanie odbędzie się w galerii Marszałkowska 18 w Warszawie.
+Spotkanie odbędzie się w galerii marszałkowska|18 przy ulicy Marszałkowska 18 w Warszawie.
 
 Termin spotkania: 28 listopada 2022 roku. W godzinach 18.00-21.00
