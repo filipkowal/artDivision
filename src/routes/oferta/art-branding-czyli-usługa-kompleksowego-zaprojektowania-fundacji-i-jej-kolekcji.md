@@ -1,6 +1,6 @@
 ---
-title: RYNEK DZIEŁ SZTUKI DLA KOLEKCJONERÓW I ARTYSTÓW - DORADZTWO INWESTYCYJNE
-  Z ZAKRESU RYNKU DZIEŁ SZTUKI
+title: RYNEK DZIEŁ SZTUKI DLA KOLEKCJONERÓW I INWESTORÓW - DORADZTWO
+  INWESTYCYJNE Z ZAKRESU RYNKU DZIEŁ SZTUKI
 metaDescription: " Pomagamy i doradzamy inwestorom wkraczającym na rynek dzieł
   sztuki. Oferujemy profesjonalną pomoc i mentoring dla osób które chcą
   kolekcjonować dzieła sztuki. "
