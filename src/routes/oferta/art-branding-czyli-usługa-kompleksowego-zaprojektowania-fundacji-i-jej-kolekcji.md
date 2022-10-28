@@ -8,11 +8,11 @@ price: 15-8% prowizji od kupna lub sprzedaży – cena jest zależna od kwoty
   przeznaczonej na budowanie kolekcji dzieł sztuki.
 priceReduced: ""
 ---
-**[Art advisory ](https://artdivision.pl)czyli doradztwo na rynku sztuki.**
+### **[Art advisory ](https://artdivision.pl)czyli doradztwo na rynku sztuki.**
 
 Dzieła sztuki to wyjątkowe aktywa. Jako dobro kultury stanową katalizator myślenia, odczuwania i refleksji są czymś więcej niż dekoracją wnętrza. Nasze pierwsze spotkania ze światem sztuki mogą powodować uczucia zakłopotania i niepewności - nie wszystko wydaje się nam zrozumiałe. Możemy zadawać sobie pytania: Dlaczego prace namalowane jednym gestem pędzla mogą być aż tak drogie? Co takiego sprawia, że aby dostać oferty niektórych artystów trzeba odczekać swoje w kolejce? Gdzie i jak przechowywać prace? Co się stanie jeśli jako laik kupię [falsyfikat?](https://bithub.pl/inwestycje/sztuka/falszerstwa-na-rynku-dziel-sztuki/) Jest to naturalne, że wchodząc w nowy obszar mamy wiele wątpliwości, które wynikają z braku doświadczenia. Dlatego oferujemy naszą wiedze i  wsparcie przy tworzeniu Twojej kolekcji dzieł sztuki.
 
-### Oferta doradcza: 
+### Oferta doradcza:
 
 * **Profesjonalne doradztwo z zakresu sztuki współczesnej i najnowszej**. Specjalizujemy się w sztuce powstałej po 1945 roku. 
 * **Wspólne określenie charakteru kolekcji z klientem przy uwzględnieniu indywidualnych preferencji** - Sztuka, którą nabywasz ma być wyjątkowa i zgodna z Twoimi upodobaniami.
