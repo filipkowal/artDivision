@@ -1,8 +1,7 @@
 ---
 title: ŚWIADOME KOLEKCJONOWANIE DZIEŁ SZTUKI-KURS STACJONARNY
-metaDescription: " Rozpocznij swoją przygodę z kolekcjonowaniem dzieł sztuki
-  wyposażony w fachową wiedzę. Rozpocznij Inwestowanie w dzieła sztuki
-  świadomie. "
+metaDescription: Inwestowanie w dzieła sztuki jest coraz popularniejszą formą
+  lokaty kapitału ze względu na odporność na zawirowania gospodarcze i inflację
 yoastKeyword: inwestowanie w dzieła sztuki
 date: 2022-10-19T12:29:45.570Z
 level: podstawowe
