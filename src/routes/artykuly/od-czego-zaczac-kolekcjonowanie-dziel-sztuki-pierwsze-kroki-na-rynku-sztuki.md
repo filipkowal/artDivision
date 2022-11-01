@@ -7,8 +7,7 @@ yoastKeyword: Kolekcjonowanie dzieł sztuki
 date: 2022-11-01T19:52:50.475Z
 author: art advisor Joanna Sikorska
 thumbnail: /images/uploads/roberto-contreras-kyfajimq1-a-unsplash-3.jpg
-tags:
-  - "rynek sztuki "
+tags: []
 ---
  Kolekcjonowanie dzieł sztuki jest nie tylko sposobem na lokowanie kapitału to także piękna przygoda rozwijająca nas na wielu płaszczyznach. Dzieła sztuki dotykają tematów filozoficznych, duchowych, psychologicznych, społecznych, kulturowych. Obcując ze sztuką otwieramy się na informacje przekazywane przez artystów - wchodzimy, do ich świata.
 
