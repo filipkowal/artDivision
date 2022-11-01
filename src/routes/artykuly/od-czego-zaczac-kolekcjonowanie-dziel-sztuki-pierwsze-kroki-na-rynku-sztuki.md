@@ -12,8 +12,6 @@ tags:
 ---
  Kolekcjonowanie dzieł sztuki jest nie tylko sposobem na lokowanie kapitału to także piękna przygoda rozwijająca nas na wielu płaszczyznach. Dzieła sztuki dotykają tematów filozoficznych, duchowych, psychologicznych, społecznych, kulturowych. Obcując ze sztuką otwieramy się na informacje przekazywane przez artystów - wchodzimy, do ich świata.
 
-
-
 ![www.sothebys.com ](/images/uploads/n5w4kn5ti5lw3lil4pt4x3nd4e.webp "Mark Rothko z kolekcji Macklowe ")
 
 Dzieła sztuki są unikatowe. Kolekcje dzieł sztuki  również mają niepowtarzalny charakter- często oddają światopogląd i  wrażliwość kolekcjonera. Nie da się stworzyć dwóch takich samych zbiorów. W maju tego roku Sotheby’s sprzedało [kolekcje Macklowe ](https://www.sothebys.com/en/digital-catalogues/the-macklowe-collection-1)za rekordową kwotę. Małżeństwo podczas rozwodu nie mogło dojść do porozumienia w sprawie podziału dzieł sztuki, dlatego podjęło decyzje o sprzedaży. Zbiór Macklowe okazał się bardzo spójny, większość prac była niefiguratywna.
@@ -22,7 +20,7 @@ Dzieła sztuki są unikatowe. Kolekcje dzieł sztuki  również mają niepowtar
 
  Kolekcjonerzy upodobali sobie m.in. de Kooninga, Marka Rothko, Gerarda Richtera. Ekspresjonizm abstrakcyjny i minimal art to flagowe kierunki dla kolekcji Macklowe’. Określenie charaktery kolekcji na samym początku  nadaje jej  wyjątkowy charakter  i znacznie ułatwia budowanie zbioru. Kolejnym ważnym aspektem, bez którego lepiej nie zaczynać poważnych zakupów jest wiedza. Edukacja z zakresu historii sztuki pozwoli nam uniknąć wielu błędnych decyzji, pomoże w wyrobieniu sobie gustu.
 
-Śledzenie wystaw w publicznych i prywatnych instytucjach jest również konieczne jeśli stawiamy pierwsze kroki na rynku sztuki. 
+## Śledzenie wystaw w publicznych i prywatnych instytucjach jest również konieczne jeśli stawiamy pierwsze kroki na rynku sztuki. 
 
 ![Sotheby's ](/images/uploads/maclowe90.jpeg "Obraz Willema de Kooninga z kolekcji Macklowe")
 
