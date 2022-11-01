@@ -20,7 +20,7 @@ Dzieła sztuki są unikatowe. Kolekcje dzieł sztuki  również mają niepowtar
 
  Kolekcjonerzy upodobali sobie m.in. de Kooninga, Marka Rothko, Gerarda Richtera. Ekspresjonizm abstrakcyjny i minimal art to flagowe kierunki dla kolekcji Macklowe’. Określenie charaktery kolekcji na samym początku  nadaje jej  wyjątkowy charakter  i znacznie ułatwia budowanie zbioru. Kolejnym ważnym aspektem, bez którego lepiej nie zaczynać poważnych zakupów jest wiedza. Edukacja z zakresu historii sztuki pozwoli nam uniknąć wielu błędnych decyzji, pomoże w wyrobieniu sobie gustu.
 
-## Śledzenie wystaw w publicznych i prywatnych instytucjach jest również konieczne jeśli stawiamy pierwsze kroki na rynku sztuki. 
+> ### Śledzenie wystaw w publicznych i prywatnych instytucjach jest również konieczne jeśli stawiamy pierwsze kroki na rynku sztuki. 
 
 ![Sotheby's ](/images/uploads/maclowe90.jpeg "Obraz Willema de Kooninga z kolekcji Macklowe")
 
