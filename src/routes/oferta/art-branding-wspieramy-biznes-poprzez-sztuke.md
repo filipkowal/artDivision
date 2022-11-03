@@ -2,8 +2,8 @@
 title: ART BRANDING - WSPIERAMY BIZNES POPRZEZ SZTUKĘ
 metaDescription: "Tworzenie kolekcji firmowych i korporacyjnych. "
 yoastKeyword: art branding
-date: 2022-10-19T14:06:01.189Z
-price: " Cena usługi ustalana indywidualnie"
+date: 2022-10-29T13:19:14.603Z
+price: cena ustalana indywidualnie.
 ---
 Z miłości do sztuki wspieramy społeczną odpowiedzialność biznesu i wysoką kulturę pracy. Wznosimy komunikację marki z klientem i pracownikiem na wyższy poziom.
 
