@@ -2,7 +2,7 @@ export const fetchArticles = async () => {
 	const allPostFiles = import.meta.glob('/src/routes/artykuly/*.md');
 	const posts = await getFilesContent(allPostFiles, 'artykuly');
 
-	return posts;
+	return sortByDate(posts);
 };
 
 export const fetchOffers = async () => {
@@ -23,8 +23,12 @@ export const fetchTeam = async () => {
 	const allPostFiles = import.meta.glob('/src/routes/zespol/*.md');
 	const posts = await getFilesContent(allPostFiles, 'zespol');
 
-	return posts.sort((a, b) => new Date(a.date) - new Date(b.date));
+	return sortByDate(posts);
 };
+
+function sortByDate(posts) {
+	return posts.sort((a, b) => new Date(a.date) - new Date(b.date));
+}
 
 export const fetchAbout = async () => {
 	const postFile = await import('/src/routes/onas/onas.md');
