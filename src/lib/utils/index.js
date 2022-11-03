@@ -27,7 +27,7 @@ export const fetchTeam = async () => {
 };
 
 function sortByDate(posts) {
-	return posts.sort((a, b) => new Date(a.date) - new Date(b.date));
+	return posts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 }
 
 export const fetchAbout = async () => {
