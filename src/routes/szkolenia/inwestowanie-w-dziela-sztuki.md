@@ -3,7 +3,7 @@ title: ŚWIADOME KOLEKCJONOWANIE DZIEŁ SZTUKI-KURS STACJONARNY
 metaDescription: Inwestowanie w dzieła sztuki jest coraz popularniejszą formą
   lokaty kapitału ze względu na odporność na zawirowania gospodarcze i inflację
 yoastKeyword: inwestowanie w dzieła sztuki
-date: 2022-10-19T12:29:45.570Z
+date: 2022-10-19T21:29:45.570Z
 level: podstawowe
 price: MODUŁ I 1500 pln +23% VAT, MODUŁ II 750 PLN+23%VAT
 priceReduced: "MODUŁ I- 1100 pln+23% VAT (do 10.11.2022) MODUŁ II- 550 pln+23%
