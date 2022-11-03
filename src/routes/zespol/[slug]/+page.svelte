@@ -5,7 +5,7 @@
 	export let data;
 </script>
 
-<Meta title={data.title} path={data.path} />
+<Meta title={data.title} path={data.path} metaDescription={data.metaDescription} date={data.date} />
 <article class="column column-2 page-container">
 	<SectionHeader title="Zespół" />
 	<div class="content">

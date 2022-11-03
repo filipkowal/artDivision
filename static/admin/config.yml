@@ -75,6 +75,8 @@ collections:
           widget: "string",
         }
       - { label: "Imię i nazwisko", name: "title", widget: "string" }
+      - { label: "Meta description", name: "metaDescription", widget: "string" }
+      - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }
       - { label: "Zdjęcie", name: "photo", widget: "image" }
       - { label: "Opis", name: "body", widget: "markdown" }

@@ -71,6 +71,25 @@
 					}
 				})
 			);
+			CMS.registerPreviewTemplate(
+				'zespol',
+				createClass({
+					render: function () {
+						const entry = this.props.entry;
+						const title = entry.getIn(['data', 'title']) || '';
+
+						YOAST.setContent({
+							title: title,
+							description: entry.getIn(['data', 'metaDescription']) || '',
+							keyword: entry.getIn(['data', 'yoastKeyword']) || '',
+							text: entry.getIn(['data', 'body']) || '',
+							titleWidth: title.split('').length * 5 // 5px is an average width of each character ;)
+						});
+
+						return h('div', {}, this.props.widgetFor('body'), YOAST.getScoresAsHTML(h));
+					}
+				})
+			);
 		</script>
 	</body>
 </html>
