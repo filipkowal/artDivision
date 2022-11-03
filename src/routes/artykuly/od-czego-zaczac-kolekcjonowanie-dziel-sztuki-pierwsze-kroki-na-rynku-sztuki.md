@@ -13,7 +13,11 @@ tags: []
 
 ![www.sothebys.com ](/images/uploads/n5w4kn5ti5lw3lil4pt4x3nd4e.webp "Mark Rothko z kolekcji Macklowe ")
 
-Dzieła sztuki są unikatowe. Kolekcje dzieł sztuki  również mają niepowtarzalny charakter- często oddają światopogląd i wrażliwość kolekcjonera. Nie da się stworzyć dwóch takich samych zbiorów. W maju tego roku Sotheby’s sprzedało [kolekcje Macklowe ](https://www.sothebys.com/en/digital-catalogues/the-macklowe-collection-2021)za rekordową kwotę 676 mln dolarów. Małżeństwo podczas rozwodu nie mogło dojść do porozumienia w sprawie podziału dzieł sztuki, dlatego podjęło decyzje o sprzedaży. Zbiór Macklowe okazał się bardzo spójny, większość prac była niefiguratywna.
+# Dzieła sztuki są unikatowe. Kolekcje dzieł sztuki  również mają niepowtarzalny charakter- często oddają światopogląd i wrażliwość kolekcjonera. 
+
+
+
+Nie da się stworzyć dwóch takich samych zbiorów. W maju tego roku Sotheby’s sprzedało [kolekcje Macklowe ](https://www.sothebys.com/en/digital-catalogues/the-macklowe-collection-2021)za rekordową kwotę 676 mln dolarów. Małżeństwo podczas rozwodu nie mogło dojść do porozumienia w sprawie podziału dzieł sztuki, dlatego podjęło decyzje o sprzedaży. Zbiór Macklowe okazał się bardzo spójny, większość prac była niefiguratywna.
 
 ![www.sothebys.com ](/images/uploads/macklowe-90.webp "praca Jacksona Pollocka z kolekcji Maclowe, licytowanej Sotheby's ")
 
