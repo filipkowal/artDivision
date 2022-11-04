@@ -1,7 +1,7 @@
 ---
 filename: specjalista-nft-dominikjalowinski
 title: Dominik Jałowiński
-date: 2022-10-25T13:13:24.554Z
+date: 2022-10-23T13:13:24.554Z
 photo: /images/uploads/2l6a8655.jpg
 ---
 
