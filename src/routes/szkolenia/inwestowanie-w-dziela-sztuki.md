@@ -32,11 +32,3 @@ Zapraszam na kurs wprowadzający w zagadnienie rynku sztuki.
 **Termin: 27 listopada (niedziela)**
 
 **Czas : 11.00 - 18.00  (przewidywana godzinna przerwa)**
-
-
-
-Zapisy, szczegółowe informacje: 
-
-**j.sikorska@artdivision.pl** 
-
-**+48 509 257 008**
