@@ -23,7 +23,7 @@
 	<div class="contact-section">
 		<h2>Kontakt</h2>
 		<ContactData />
-		<img src={logo} alt="logo-art-division" class="logo" />
+		<img src={logo + '?nf_resize=fit&h=50'} alt="logo-art-division" class="logo" />
 	</div>
 </div>
 

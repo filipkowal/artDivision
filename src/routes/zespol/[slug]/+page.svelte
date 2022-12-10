@@ -11,7 +11,7 @@
 	<div class="content">
 		<h1>{data.title}</h1>
 		<div class="team-body">{@html data.body}</div>
-		<img src={data.photo} alt={data.title} />
+		<img src={data.photo + '?nf_resize=fit&w=300'} alt={data.title} />
 	</div>
 </article>
 

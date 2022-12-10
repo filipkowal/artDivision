@@ -9,7 +9,11 @@
 			<div>
 				<a href="/zespol/{osoba.fileName}">
 					<h3>{osoba.title}</h3>
-					<img src={osoba.photo} alt={osoba.title} class="square" />
+					<img
+						src={osoba.photo + '?nf_resize=smartcrop&w=350&h=350'}
+						alt={osoba.title}
+						class="square"
+					/>
 				</a>
 				<p>{@html osoba.body}</p>
 			</div>

@@ -6,8 +6,10 @@
 
 <header class="column">
 	<div class="column-content">
-		<a href="/" class="link-home"><img src={onas.logo} alt="logo-art-division" class="logo" /></a>
-		<img src={onas.thumbnail} alt="zespół" class="square" />
+		<a href="/" class="link-home"
+			><img src={onas.logo + '?nf_resize=fit&h=34'} alt="logo-art-division" class="logo" /></a
+		>
+		<img src={onas.thumbnail + '?nf_resize=smartcrop&w=350&h=350'} alt="zespół" class="square" />
 		<p>{@html onas.body}</p>
 	</div>
 	<ContactPopup class="header-contact-button" />

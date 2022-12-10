@@ -8,7 +8,7 @@
 <a href={`/artykuly/${fileName}`}>
 	<div class="articleCard">
 		<div class="image-container">
-			<img src={thumbnail} alt={title} />
+			<img src={thumbnail + '?nf_resize=smartcrop&w=160&h=200'} alt={title} />
 		</div>
 		<h2>{trailingOrphansToNewLine(title)}</h2>
 		{#each tags as tag}
