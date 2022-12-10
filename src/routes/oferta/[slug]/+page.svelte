@@ -21,10 +21,10 @@
 			<footer>
 				<Prices {price} />
 				<p>
-					Zapisy i szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
+					Szczegółowe informacje: <br />j.sikorska@artdivision.pl <br />tel. 509 257 008
 					<br />lub poprzez formularz poniżej.
 				</p>
-				<h2>Formularz do zapisów</h2>
+				<h2>Formularz do kontaktu</h2>
 				<ContactForm name={title} />
 			</footer>
 		</div>
