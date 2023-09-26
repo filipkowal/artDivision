@@ -9,14 +9,22 @@ price: 15-8% prowizji od kupna lub sprzedaży – cena jest zależna od kwoty
 ---
 ### **[Art advisory ](https://artdivision.pl)czyli doradztwo na rynku sztuki.**
 
-Dzieła sztuki to wyjątkowe aktywa. Jako dobro kultury stanową katalizator myślenia, odczuwania i refleksji są czymś więcej niż dekoracją wnętrza. Nasze pierwsze spotkania ze światem sztuki mogą powodować uczucia zakłopotania i niepewności - nie wszystko wydaje się nam zrozumiałe. Możemy zadawać sobie pytania: Dlaczego prace namalowane jednym gestem pędzla mogą być aż tak drogie? Co takiego sprawia, że aby dostać oferty niektórych artystów trzeba odczekać swoje w kolejce? Gdzie i jak przechowywać prace? Co się stanie jeśli jako laik kupię [falsyfikat?](https://bithub.pl/inwestycje/sztuka/falszerstwa-na-rynku-dziel-sztuki/) Jest to naturalne, że wchodząc w nowy obszar mamy wiele wątpliwości, które wynikają z braku doświadczenia. Dlatego oferujemy naszą wiedze i  wsparcie przy tworzeniu Twojej kolekcji dzieł sztuki.
+Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętrza, niosą ze sobą wartość kulturową i są zapisem naszych czasów: myślenia, estetyki, wartości. Będą reprezentować nasz świat następnym pokoleniom. Są materialną refleksją i subiektywnym odczuciem tego co dookoła, pozwalają skierować nasze myśli na inny, nieznany wcześniej tor. 
+
+  Sztuka może onieśmielać – czasami trudno od razu ją zrozumieć. Jeszcze trudniej pojąć zależność od tego co widzimy np. na obrazie, a jego ceną. Jak jedno wpływa na drugie? Wartość rynkowa niektórych, wydawałoby się – niepozornych dzieł, może zaskakiwać. Skąd wiedzieć, którego młodego artysty prace zyskają z czasem na wartości? Dlaczego na prace niektórych artystów trzeba czekać w kolejce? Jak nie nabrać się na falsyfikat? 
+
+  Kiedyś marszandami sztuki byli doprawdy nieliczni. Teraz, kolekcjonerem może zostać każdy z nas, kto szybko zorientuje się, że to jeden z najlepszych sposóbów na budowanie swojego kapitału materialnego, ale również symbolicznego.
+
+   Z naszą wiedzą i wsparciem dokonasz przyszłościowej inwestycji w najlepsze dzieła sztuki dostępne na rynku. Zaufaj ekspertom sztuki współczesnej i już teraz zbuduj własną kolekcję.
+
+
 
 ### Oferta doradcza:
 
 * **Profesjonalne doradztwo z zakresu sztuki współczesnej i najnowszej**. Specjalizujemy się w sztuce powstałej po 1945 roku. 
 * **Wspólne określenie charakteru kolekcji z klientem przy uwzględnieniu indywidualnych preferencji** - Sztuka, którą nabywasz ma być wyjątkowa i zgodna z Twoimi upodobaniami.
-* **Badanie i monitorowanie rynku dzieł sztuki** - Dla Ciebie sprawdzamy wyniki aukcyjne,   zbieramy informacje o nadchodzących wystawach, śledzimy trendy, analizujemy bio artystów.
-* **Ocenę wartości artystycznej i rynkowej prac** - Wartość artystyczna jest nadrzędna w określaniu potencjału inwestycyjnego, dlatego dbamy o jakość oferowanych obiektów.
+* **Badanie i monitorowanie rynku dzieł sztuki** - Dla Ciebie sprawdzamy wyniki aukcyjne,   zbieramy informacje o nadchodzących wystawach, śledzimy trendy, analizujemy dokonania artystów.
+* **Ocena wartości artystycznej i rynkowej prac** - Wartość artystyczna jest nadrzędna w określaniu potencjału inwestycyjnego, dlatego dbamy o jakość oferowanych obiektów.
 * **Wyszukiwanie najlepiej rokujących ofert na rynku dzieł sztuki**. Jesteśmy na bieżąco - odwiedzamy preview wystaw, targi i pracownie artystów. Szybko reagujemy na prace z potencjałem. 
 * **Negocjowanie najkorzystniejszych warunków kupna i sprzedaży dla klienta.** Dzięki  naszym wypracowanym relacjom w galeriach możesz liczyć na zniżki. 
 * **Wspólne odwiedzanie wystaw w galeriach i instytucjach sztuki**- Dbamy o [edukacje ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)naszych klientów, organizujemy oprowadzania po wystawach w galeriach. Tworzymy relacje oparte na dialogu o sztuce. 
@@ -27,4 +35,3 @@ Dzieła sztuki to wyjątkowe aktywa. Jako dobro kultury stanową katalizator my�
 * **Ocenę autentyczności dzieł**- Dokładnie badamy proweniencje dzieł. 
 * **Ubezpieczenie kolekcji** - Zorganizujemy ubezpiecznie Twoich zbiorów.
 * **Aranżację kolekcji we wnętrzu** - Dzieło sztuki często wymaga przemyślanej ekspozycji w przestrzeni, pomożemy wybrać odpowiednie miejsce dla Twoich prac.
-* **Kompleksowe zarządzanie kolekcją.**
