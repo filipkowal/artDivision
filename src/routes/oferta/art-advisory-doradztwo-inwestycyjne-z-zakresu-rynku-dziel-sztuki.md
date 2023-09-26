@@ -27,9 +27,9 @@ Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętr
 * **Ocena wartości artystycznej i rynkowej prac** - Wartość artystyczna jest nadrzędna w określaniu potencjału inwestycyjnego, dlatego dbamy o jakość oferowanych obiektów.
 * **Wyszukiwanie najlepiej rokujących ofert na rynku dzieł sztuki**. Jesteśmy na bieżąco - odwiedzamy preview wystaw, targi i pracownie artystów. Szybko reagujemy na prace z potencjałem. 
 * **Negocjowanie najkorzystniejszych warunków kupna i sprzedaży dla klienta.** Dzięki  naszym wypracowanym relacjom w galeriach możesz liczyć na zniżki. 
-* **Wspólne odwiedzanie wystaw w galeriach i instytucjach sztuki**- Dbamy o [edukacje ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)naszych klientów, organizujemy oprowadzania po wystawach w galeriach. Tworzymy relacje oparte na dialogu o sztuce. 
+* **Wspólne odwiedzanie wystaw w galeriach i instytucjach sztuki**- Dbamy o [edukację ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)naszych klientów, organizujemy oprowadzania po wystawach w galeriach. Tworzymy relacje oparte na dialogu o sztuce. 
 * **Wizyty na targach i eventach związanych ze sztuką**. Dzięki nam nic Cię nie ominie, zadbamy o zaproszenia na nawjażniejsze wydarzenia. 
-* **Pomoc w znalezieniu specjalistów z zakresu konserwacji dzieł sztuki**. Współpracujemy z profesjonalnymi konswerwatorami, którzy poradzą sobie z każdym medium.
+* **Pomoc w znalezieniu specjalistów z zakresu konserwacji dzieł sztuki**. Współpracujemy z profesjonalnymi konserwatorami, którzy poradzą sobie z każdym medium.
 * **Pakowanie** - Znamy osoby, które przygotują dla Ciebie skrzynie, postument a nawet specjalne regały do domowego magazynu. 
 * **Transport** - Dzieła sztuki wymagają szczególnego traktowania i odpowiednio wyposażonego samochodu, współpracujemy tylko z zaufanymi i profesjonalnymi przewoźnikami.
 * **Ocenę autentyczności dzieł**- Dokładnie badamy proweniencje dzieł. 
