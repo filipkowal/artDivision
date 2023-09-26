@@ -2,7 +2,7 @@
 title: "  ART ADVISORY - DORADZTWO INWESTYCYJNE Z ZAKRESU RYNKU DZIEŁ SZTUKI"
 metaDescription: Oferujemy opracowanie strategii kolekcjonowania dzieł sztuki.
   Znajdziemy dla Ciebie dzieła sztuki z potencjałem inwestycyjnym.
-yoastKeyword: dzieła sztuki
+yoastKeyword: inwestycje dzieła sztuki
 date: 2022-10-29T13:09:28.011Z
 price: 15-8% prowizji od kupna lub sprzedaży – cena jest zależna od kwoty
   przeznaczonej na budowanie kolekcji dzieł sztuki.
