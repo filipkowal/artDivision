@@ -3,7 +3,7 @@ title: "INDYWIDUALNY KURS: INWESTOWANIE W DZIEŁA SZTUKI"
 metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościowej
   kolekcji dzieł sztuki. "
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
-date: 2022-10-19T14:53:39.923Z
+date: 2023-09-27T09:22:21.988Z
 level: zaawansowany
 price: 3000 pln+23%VAT
 priceReduced: ""
