@@ -28,4 +28,4 @@ W 2007 roku Damien Hirst pokazał prace ,,For the love of God” w galerii White
 \
 Czaszka jako symbol śmierci, wpisuje się w typowy dla Hirtst’a motyw przemijania. Strach przed śmiercią okazuje się silniejszą emocją niż miłość czy pożądanie. Inspiruje Hirst’a od momentu, gdy jako młody chłopak znalazł pracę w kostnicy…\
 \
-Jeśli chcesz poznać mechanizmy rynku sztuki sprawdź ofertę kursu rozszerzonego lub podstawowego. Kursy odbywają się aktualnie w formie online.
+Jeśli chcesz poznać mechanizmy rynku sztuki sprawdź ofertę kursu rozszerzonego lub podstawowego. Kursy odbywają się aktualnie w formie online
