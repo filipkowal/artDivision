@@ -26,7 +26,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"netlify-cms-yoast-seo": "^1.0.5",
 		"svelte-device-detector": "^0.2.2"
 	}
 }
