@@ -1,14 +1,13 @@
 ---
-title: "INDYWIDUALNY KURS: INWESTOWANE W DZIEŁA SZTUKI"
+title: "INDYWIDUALNY KURS: INWESTOWANIE W DZIEŁA SZTUKI"
 metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościowej
   kolekcji dzieł sztuki. "
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
-date: 2022-10-19T14:53:39.923Z
+date: 2023-09-27T09:22:21.988Z
 level: zaawansowany
 price: 3000 pln+23%VAT
 priceReduced: ""
 ---
-
 Polski rynek sztuki dynamicznie się rozwija. Obrót na aukcjach w 2014 roku wyniósł 77 mln złotych, a
 w roku ubiegłym 380 mln zł. W 2020 roku padł aukcyjny rekord: czyli 7000000 zł za pracę Wojciecha
 Fangora , którego płótna w latach 90’tych można było nabyć za kilka tysięcy dolarów. 
@@ -21,14 +20,14 @@ Jak wybierać artystów, którzy mają szansę zrobić dużą karierę?
 Jak uniknąć licznych zagrożeń, szybko nauczyć się podstaw historii sztuki
 współczesnej i zrozumieć język sztuki?
 Ten kurs jest skierowany do Ciebie.
-Kurs prowadzi art advisor Joanna Sikorska
+Kurs prowadzi [art advisor Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)
 
 Część teoretyczna kursu indywidualnego jest prowadzone w formie online. Część
 praktyczna obejmuje wizyty w instytucjach sztuki w moim towarzystwie.
 
-Program 
+Program:
 
-* Wprowadzenie : Korzyści inwestowania w dzieła sztuki współczesnej.
+* Wprowadzenie: Korzyści inwestowania w dzieła sztuki współczesnej.
 * Historia światowej sztuki współczesnej z elementami rynku sztuki  
 * Historia polskiej sztuki współczesnej z elementami rynku sztuki
 * Analiza dzieła sztuki
@@ -42,7 +41,7 @@ Program
 * Mechanizmy i struktura polskiego rynku sztuki w kontekście inwestowania
 * Sztuka młodych – gdzie i jak szukać?
 
-Indywidualny kurs online trwa około 18 -20 godzin zegarowych. Jest podzielony na 4 sesje po 4
+Indywidualny kurs online trwa około 18 godzin zegarowych. Jest podzielony na 4 sesje po 4
 godziny, lub 8 sesji po 2 godziny. Terminy do uzgodnienia. Kurs odbywa się przy pomocy prostej w
 obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji na żywo. Po
 zakończeniu części teoretycznej wraz z kursantem odwiedzamy wspólnie wybrane galerie i instytucje
