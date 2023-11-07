@@ -1,6 +1,9 @@
 ---
 layout: blog
-title: Dlaczego warto inwestować w dzieła sztuki? Na co zwracać uwagę?
+title: Dlaczego warto inwestować w dzieła sztuki? Na co zwracać uwagę przy
+  zakupie prac?
+metaDescription: "Dowiedz się jak prawidłowo poruszać się po rynku sztuki "
+yoastKeyword: "inwestycje w dzieła sztuki "
 date: 2022-09-05T16:15:50.314Z
 author: Joanna Sikorska
 thumbnail: /images/uploads/ad_test-article2.jpg
