@@ -15,7 +15,7 @@ Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętr
 
   Kiedyś marszandami sztuki byli doprawdy nieliczni. Teraz, kolekcjonerem może zostać każdy z nas, kto szybko zorientuje się, że to jeden z najlepszych sposóbów na budowanie swojego kapitału materialnego, ale również symbolicznego.
 
-  Z naszą wiedzą i wsparciem dokonasz przyszłościowej inwestycji w najlepsze dzieła sztuki dostępne na rynku. Zaufaj ekspertom sztuki współczesnej i już teraz zbuduj własną kolekcję.
+  Oferujemy naszą wiedze i wsparcie przy tworzeniu Twojej kolekcji dzieł sztuki. 
 
 ### Oferta doradcza:
 
