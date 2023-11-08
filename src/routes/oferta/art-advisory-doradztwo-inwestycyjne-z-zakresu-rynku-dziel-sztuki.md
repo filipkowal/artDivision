@@ -32,4 +32,4 @@ Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętr
 * **Transport** - Dzieła sztuki wymagają szczególnego traktowania i odpowiednio wyposażonego samochodu, współpracujemy tylko z zaufanymi i profesjonalnymi przewoźnikami.
 * **Ocenę autentyczności dzieł**- Dokładnie badamy proweniencje dzieł. 
 * **Ubezpieczenie kolekcji** - Zorganizujemy ubezpiecznie Twoich zbiorów.
-* **Aranżację kolekcji we wnętrzu** - Dzieło sztuki często wymaga przemyślanej ekspozycji w przestrzeni, pomożemy wybrać odpowiednie miejsce dla Twoich prac.
+* **Aranżację kolekcji we wnętrzu** - Dzieła sztuki często wymagają przemyślanej ekspozycji w przestrzeni, pomożemy wybrać odpowiednie miejsce dla Twoich prac.
