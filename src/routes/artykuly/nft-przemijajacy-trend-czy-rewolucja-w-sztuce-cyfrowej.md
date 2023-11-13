@@ -8,7 +8,7 @@ author: "Dominik Jalowinski "
 thumbnail: /images/uploads/dall-e-2023-11-06-22.58.48-create-a-collage-that-showcases-the-evolution-and-influence-of-nfts-in-art-and-culture.-top-left_-cartoon-like-monkeys-and-turtles-as-profile-picture-.png
 tags: []
 ---
-# Rynek Non-Fungible Tokens (NFT) - Przełom czy Spekulacja?
+## Rynek Non-Fungible Tokens (NFT) - Przełom czy Spekulacja?
 
 W ostatnich latach rynek Non-Fungible Tokens (NFT) przeszedł niezwykłą transformację. Od
 spekulacyjnego szaleństwa w 2021 roku, zdominowanego przez tokeny profilowe (PFP) - przez kolorowe obrazki ze „znudzonymi małpami” po spekulacyjne żółwie - do etapu refleksji w 2022 i dalszej konsolidacji w 2023. Większość z tych projektów, nie posiadających głębszej a czasami nawet żadnej wartości artystycznej, doświadczyło szybkiej utraty wartości, co postawiło pod znakiem zapytania ich trwałość w cyfrowej kulturze i w istotny sposób wpłynęło na negatywną percepcję technologii, widoczną najlepiej w tytułach artykułów takich jak: „[Obrazki z małpą” bezwartościowe](https://wyborcza.biz/biznes/7,177150,30217610,rynek-nft-wlasciwie-przestal-istniec-obrazki-z-malpa-sa-bezwartosciowe.html?disableRedirects=true). Rynek NFT właściwie przestał istnieć”, czy [„Były warte miliony dolarów, teraz wypalają oczy.Niebezpieczne małpy NFT”](https://www.komputerswiat.pl/aktualnosci/wydarzenia/byly-warte-miliony-dolarow-teraz-wypalaja-oczy-niebezpieczne-malpy-nft/e19smez)
@@ -24,7 +24,7 @@ W kontraście do świata spekulacji, świat sztuki w ostatnich latach zaczął g
 Sztuka generatywna, będąca na przecięciu twórczości i kodowania, zyskała wsparcie dzięki
 platformie[ ](https://www.fxhash.xyz)[,](https://www.fxhash.xyz) która zyskując[ 5 milionów dolarów](https://xtz.news/nft/generative-art-platform-fxhash-secures-5m-in-seed-funding-round-led-by-1kx/) w rundzie finansowania. Jest to punktem zwrotnym w integracji sztuki generatywnej z technologią blockchain. NFT stały się także idealnymmedium dla artystów różnych dziedzin szukających transparentności i autentyczności, czego przykładem są różnorodne platformy umożliwiające sprzedaż dzieł bezpośrednio od twórców.
 
-### NFT i ich Rola w Popkulturze
+# NFT i ich Rola w Popkulturze
 
 Wpływ NFT na popkulturę jest niezaprzeczalny, co pokazuje włączenie ich w repertuar jednego z ostatnich odcinków kultowego serialu [The Simpsons](https://www.coindesk.com/markets/2023/11/06/the-simpsons-take-a-dig-at-nfts-crypto-in-treehouse-of-horror-episode/). W momencie, gdy nawet mieszkańcy Springfield bawią się ideą NFT, staje się jasne, że technologia ta ma wpływ na masową świadomość.
 
