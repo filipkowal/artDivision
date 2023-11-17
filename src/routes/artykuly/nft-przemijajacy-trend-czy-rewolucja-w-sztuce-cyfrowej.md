@@ -22,7 +22,7 @@ W kontraście do świata spekulacji, świat sztuki w ostatnich latach zaczął g
 ### Sztuka Generatywna i NFT - Nowa Ewolucja
 
 Sztuka generatywna, będąca na przecięciu twórczości i kodowania, zyskała wsparcie dzięki
-platformie[ ](https://www.fxhash.xyz)**fxhash.xyz**[,](https://www.fxhash.xyz) która zyskując[ **5 milionów dolarów**](https://xtz.news/nft/generative-art-platform-fxhash-secures-5m-in-seed-funding-round-led-by-1kx/) w rundzie finansowania. Jest to punktem zwrotnym w integracji sztuki generatywnej z technologią blockchain. NFT stały się także idealnym medium dla artystów różnych dziedzin szukających transparentności i autentyczności, czego przykładem są różnorodne platformy umożliwiające sprzedaż dzieł bezpośrednio od twórców.
+platformie[ ](https://www.fxhash.xyz)**[fxhash.xyz](https://www.fxhash.xyz)**[,](https://www.fxhash.xyz) która zyskując[ **5 milionów dolarów**](https://xtz.news/nft/generative-art-platform-fxhash-secures-5m-in-seed-funding-round-led-by-1kx/) w rundzie finansowania. Jest to punktem zwrotnym w integracji sztuki generatywnej z technologią blockchain. NFT stały się także idealnym medium dla artystów różnych dziedzin szukających transparentności i autentyczności, czego przykładem są różnorodne platformy umożliwiające sprzedaż dzieł bezpośrednio od twórców.
 
 # NFT i ich Rola w Popkulturze
 
