@@ -34,7 +34,7 @@ Samouczek: Przewodnik krok po kroku dotyczący konfigurowania portfeli cyfrowych
 **Minting własnych NFT: Demonstracja na żywo:**
 
 Demonstracja krok po kroku: Instruktor wybija NFT na żywo, wyjaśniając każdy krok od przesłania grafiki do potwierdzenia blockchain.
-Interaktywna sesja wybijania: Uczestnicy próbują wybić swój własny NFT ze wskazówkami w czasie rzeczywistym.
+Interaktywna sesja wybijania: Uczestnicy wybijają swój własny NFT ze wskazówkami w czasie rzeczywistym.
 
 Prowadzący:
 
