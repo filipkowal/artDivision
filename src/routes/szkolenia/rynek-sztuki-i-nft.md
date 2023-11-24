@@ -8,7 +8,7 @@ level: zaawansowany
 price: 600 PLN +23% VAT
 priceReduced: ""
 ---
-Podczas jednodniowych warsztatów poznasz praktyczne podejście do świata tokenów niezamiennych, gdzie każdy artysta – bez względu na poziom zaawansowania – nauczy się, jak cyfryzować swoje dzieła, wdrażać je na platformach NFT i zrozumieć ekonomiczne aspekty tworzenia wirtualnych kolekcji. Przygotuj się na intensywny dzień pełen inspiracji, nauki i kreatywnego tworzenia, który wyposaży Cię w narzędzia niezbędne do wkroczenia na cyfrowy rynek sztuki.
+Podczas jednodniowych warsztatów poznasz praktyczne podejście do świata tokenów niezamiennych, gdzie każdy artysta – bez względu na poziom zaawansowania – nauczysz się, jak cyfryzować swoje dzieła, wdrażać je na platformach NFT i zrozumiesz ekonomiczne aspekty tworzenia wirtualnych kolekcji. Przygotuj się na intensywny dzień pełen inspiracji, nauki i kreatywnego tworzenia, który wyposaży Cię w narzędzia niezbędne do wkroczenia na cyfrowy rynek sztuki.
 
 Program:
 
@@ -28,6 +28,8 @@ przesyłać i sprzedawać swoje prace.
 Sesja praktyczna: Uczestnicy badają platformy za pomocą działań z przewodnikiem.
 
 **Konfiguracja i korzystanie z portfeli cyfrowych:**
+
+
 Samouczek: Przewodnik krok po kroku dotyczący konfigurowania portfeli cyfrowych odpowiednich do transakcji NFT.
 Ćwiczenia praktyczne: Uczestnicy tworzą własne portfele przy wsparciu instruktora.
 
