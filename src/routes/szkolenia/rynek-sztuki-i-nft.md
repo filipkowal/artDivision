@@ -1,27 +1,47 @@
 ---
-title: RYNEK SZTUKI I NFT
+title: "NFT Dla Twórców "
 metaDescription: Szkolenie dostarcza wiedzę  z zakresu najnowszych technologii w
   obszarze sztuki takich jak NFT, blockchain
 yoastKeyword: szkolenie z zakresu NFT
 date: 2022-10-19T15:16:31.148Z
 level: zaawansowany
-price: 1500 PLN +23% VAT
+price: 600 PLN +23% VAT
 priceReduced: ""
 ---
-Program kursu:
+Podczas jednodniowych warsztatów poznasz praktyczne podejście do świata tokenów niezamiennych, gdzie każdy artysta – bez względu na poziom zaawansowania – nauczy się, jak cyfryzować swoje dzieła, wdrażać je na platformach NFT i zrozumieć ekonomiczne aspekty tworzenia wirtualnych kolekcji. Przygotuj się na intensywny dzień pełen inspiracji, nauki i kreatywnego tworzenia, który wyposaży Cię w narzędzia niezbędne do wkroczenia na cyfrowy rynek sztuki.
 
-* NFT, kryptowaluty, blockchain, metaverse – zasady działania i wzajemne relacje najnowszych trendów i technologii w światowych rynkach kolekcjonowania sztuki.
-* Zasady działania i wzajemne relacje najnowszych trendów i technologii w światowych rynkach kolekcjonowania sztuki.
-* Przykłady zastosowania NFT czyli nowe możliwości interakcji pomiędzy użytkownikami sieci internet za pomocą tokenizacji dowolnych aktywów cyfrowych bądź fizycznych i co to ma wspólnego
-  ze sztuką.
-* Różne formy NFT w kontekście kolekcjonowania sztuki i nie tylko, czyli czym różni się PFP od programowalnej sztuki generatywnej, sztuka „na łańcuchu” od sztuki „poza łańcuchem” oraz na czym właściwie polega tokenizacja sztuki?
-* Najpopularniejsze platformy i giełdy NFT służące do tworzenia, prezentacji i obrotu dziełami sztuki
-  oraz innymi tokenami kolekcjonerskimi.
-* Podstawowe aspekty techniczne bezpiecznego tworzenia i przechowywania kolekcji NFT
+Program:
 
-Prowadzący: Dominik Jałowiński
+**Wprowadzenie do NFT i Blockchain:**
 
-Szkolenie trwa od godziny 11.00 do 18.00 z godzinną przerwą.
-Maksymalna ilość uczestników: Termin najbliższego szkolenia zostanie wkrótce podany. 
-Kurs odbędzie się za pomocą łatwej w obsłudze platformy webinarowej, która daje możliwość
-swobodnej komunikacji na żywo.
+Wprowadzenie do technologii blockchain, omówienie jej historii, sposobu działania i znaczenia. Wyjaśnienie NFT, czym różnią się od kryptowalut i ich znaczenie w sztuce cyfrowej.
+
+**NFT dla artystów: Możliwości i wyzwania:**
+
+Badanie implikacji NFT dla artystów, w tym praw autorskich, tantiem i własności cyfrowej.
+Prezentacja udanych projektów NFT stworzonych przez artystów.
+
+**Platformy do tworzenia i handlu NFT:**
+
+ Demonstracja na żywo różnych platform NFT, pokazująca w jaki sposób artyści mogą
+przesyłać i sprzedawać swoje prace.
+Sesja praktyczna: Uczestnicy badają platformy za pomocą działań z przewodnikiem.
+
+**Konfiguracja i korzystanie z portfeli cyfrowych:**
+Samouczek: Przewodnik krok po kroku dotyczący konfigurowania portfeli cyfrowych odpowiednich do transakcji NFT.
+Ćwiczenia praktyczne: Uczestnicy tworzą własne portfele przy wsparciu instruktora.
+
+**Minting własnych NFT: Demonstracja na żywo:**
+
+Demonstracja krok po kroku: Instruktor wybija NFT na żywo, wyjaśniając każdy krok od przesłania grafiki do potwierdzenia blockchain.
+Interaktywna sesja wybijania: Uczestnicy próbują wybić swój własny NFT ze wskazówkami w czasie rzeczywistym.
+
+Prowadzący:
+
+**[Dominik Jałowiński ](https://artdivision.pl/zespol/specjalista-nft-dominikjalowinski)**
+
+Czas: 9.00-17.00
+
+Miejsce: Warszawa (szczegółowe informacje dotyczące sali szkoleniowej podamy wkrótce)
+
+Termin: 20.01.2024
