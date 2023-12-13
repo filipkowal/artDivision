@@ -5,8 +5,8 @@ metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościo
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
 date: 2023-09-27T09:22:21.988Z
 level: zaawansowany
-price: 3000 pln+23%VAT
-priceReduced: ""
+price: 3500 pln +23%VAT
+priceReduced: 3000 pln + 23%VAT
 ---
 Polski rynek sztuki dynamicznie się rozwija. Obrót na aukcjach w 2014 roku wyniósł 77 mln złotych, a
 w roku ubiegłym 380 mln zł. W 2020 roku padł aukcyjny rekord: czyli 7000000 zł za pracę Wojciecha
@@ -46,3 +46,5 @@ godziny, lub 8 sesji po 2 godziny. Terminy do uzgodnienia. Kurs odbywa się przy
 obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji na żywo. Po
 zakończeniu części teoretycznej wraz z kursantem odwiedzamy wspólnie wybrane galerie i instytucje
 sztuki współczesnej w Warszawie – czas około 5 godzin.
+
+Cena przy zapisie do 30 stycznia 2024 roku : 3000 pln + 23 %VAT
