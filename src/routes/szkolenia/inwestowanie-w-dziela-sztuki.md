@@ -5,8 +5,8 @@ metaDescription: Inwestowanie w dzieła sztuki jest coraz popularniejszą formą
 yoastKeyword: inwestowanie w dzieła sztuki
 date: 2022-10-19T21:29:45.570Z
 level: podstawowe
-price: "1250 PLN +23%VAT "
-priceReduced: ""
+price: "1500 PLN +23%VAT "
+priceReduced: 1250 PLN +23% VAT
 ---
  Inwestowanie w dzieła sztuki jest coraz popularniejszą formą lokaty kapitału. Według raportu  [Art Basel & UBS](https://www.artbasel.com/news/art-market-report) sprzedaż na globalnym rynku dzieł sztuki w 2021 roku wyniosła 65,1 mld USD i jest to prawie 30% wzrost względem 2020 roku. Polski rynek sztuki również dynamicznie się rozwija. Obroty na aukcjach dzieł sztuki w 2021 roku wyniosły 634 mln złotych. W roku w poprzednim 380 mln złotych. Na przestrzeni lat przybywa również spektakularnych wyników aukcyjnych. Wystarczy przyjrzeć się Fangorowi- jego praca M39 w 2018 roku osiągnęła na aukcji 4 mln zł a obraz M22 aż 7 mln zł w 2020 roku. Duże wzrosty zaobserwować można też na pracach Magdaleny Abakanowicz, Romana Opałki, Ryszarda Winiarskiego czy Jana Dobkowskiego. Rynek dzieł sztuki jest odporny na zawirowania gospodarcze, zwłaszcza na rynkach kapitałowych. Stanowi jedną z najbezpieczniejszych form długoterminowej lokaty kapitału. Jeżeli kolekcja jest budowana świadomie, przy wsparciu merytorycznym, pierwsze zyski możemy obserwować już po roku od zakupu dzieła sztuki.
 
@@ -27,6 +27,10 @@ Zapraszam na kurs wprowadzający w zagadnienie rynku sztuki.
 
   Kurs prowadzi: [**art advisor Joanna Sikorska** ](https://artdivision.pl/zespol/artadvisor-joannasikorska)
 
-**Termin: styczeń 2023 (więcej informacji wkrótce)**
+**Termin: sobota, 25 marca 2024**
 
-**Miejsce: Warszawa**
+**Czas: 10.00 -17.30**  
+
+**Cena przy zapisie do 30 stycznia: 1250 PLN+23% VAT**
+
+**Miejsce: Warszawa - miejsce sali szkoleniowej zostanie podane wkrótce.**
