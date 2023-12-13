@@ -29,7 +29,6 @@ Sesja praktyczna: Uczestnicy badają platformy za pomocą działań z przewodnik
 
 **Konfiguracja i korzystanie z portfeli cyfrowych:**
 
-
 Samouczek: Przewodnik krok po kroku dotyczący konfigurowania portfeli cyfrowych odpowiednich do transakcji NFT.
 Ćwiczenia praktyczne: Uczestnicy tworzą własne portfele przy wsparciu instruktora.
 
@@ -46,4 +45,4 @@ Czas: 9.00-17.00
 
 Miejsce: Warszawa (szczegółowe informacje dotyczące sali szkoleniowej podamy wkrótce)
 
-Termin: 20.01.2024
+Termin: 17.02.2024
