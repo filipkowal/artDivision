@@ -4,7 +4,7 @@ metaDescription: Szkolenie dostarcza wiedzę  z zakresu najnowszych technologii 
   obszarze sztuki takich jak NFT, blockchain
 yoastKeyword: szkolenie z zakresu NFT
 date: 2022-10-19T15:16:31.148Z
-level: zaawansowany
+level: podstawowy
 price: 600 PLN +23% VAT
 priceReduced: ""
 ---
@@ -46,3 +46,5 @@ Czas: 9.00-17.00
 Miejsce: Warszawa (szczegółowe informacje dotyczące sali szkoleniowej podamy wkrótce)
 
 Termin: 17.02.2024
+
+Zapisy do 15 stycznia
