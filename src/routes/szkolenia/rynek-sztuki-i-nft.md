@@ -47,4 +47,4 @@ Miejsce: Warszawa (szczegółowe informacje dotyczące sali szkoleniowej podamy 
 
 Termin: 17.02.2024
 
-Zapisy do 15 stycznia
+Zapisy do 20 stycznia
