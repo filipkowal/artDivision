@@ -41,4 +41,4 @@ Zapraszam na kurs wprowadzający w zagadnienie rynku sztuki.
 
 **Cena przy zapisie do 10 marca: 1250 PLN+23% VAT**
 
-Miesjca w któtych odbędą się szkolenia podamy wkrótce.
+Miesjca w któtych odbędą się szkolenia podamy wkrótce :)
