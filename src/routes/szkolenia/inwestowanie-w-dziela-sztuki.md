@@ -32,12 +32,16 @@ Kurs prowadzi: [**art advisor Joanna Sikorska** ](https://artdivision.pl/zespol/
 
 Czas: 11.00 -18.00  
 
-Cena przy zapisie do 10 lutego: 1250 PLN+23% VAT
+Cena przy zapisie do 10 lutego: 
+
+1250 PLN+23% VAT
 
 **Termin Kraków:  niedziela, 21 kwietnia 2024** 
 
 Czas: 11.00 -18.00  
 
-Cena przy zapisie do 10 marca: 1250 PLN+23% VAT
+Cena przy zapisie do 10 marca: 
+
+1250 PLN+23% VAT
 
 \*Miejsca w któtych odbędą się szkolenia podamy wkrótce :)
