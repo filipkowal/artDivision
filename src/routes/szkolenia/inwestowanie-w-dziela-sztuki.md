@@ -24,23 +24,20 @@ Zapraszam na kurs wprowadzający w zagadnienie rynku sztuki.
 * MODELE KOLEKCJI DZIEŁ SZTUKI - JAK ROBIĄ TO NAJLEPSI ?
 * RYNEK PIERWOTNY, RYNEK WTÓRNY: CO, KIEDY I GDZIE KUPIĆ? JAK SPRZEDAĆ?
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
+* PODSUMOWANIE- PYTANIA I ODPOWIEDZI
 
-  Kurs prowadzi: [**art advisor Joanna Sikorska** ](https://artdivision.pl/zespol/artadvisor-joannasikorska)
+Kurs prowadzi: [**art advisor Joanna Sikorska** ](https://artdivision.pl/zespol/artadvisor-joannasikorska)
 
 **Termin Waszawa: sobota, 16 marca 2024**
 
-**Czas: 10.00 -17.30**  
+Czas: 11.00 -18.00  
 
-**Cena przy zapisie do 10 lutego: 1250 PLN+23% VAT**
-
-
-
-
+Cena przy zapisie do 10 lutego: 1250 PLN+23% VAT
 
 **Termin Kraków:  niedziela, 21 kwietnia 2024** 
 
-**Czas: 10.00 -17.30**  
+Czas: 11.00 -18.00  
 
-**Cena przy zapisie do 10 marca: 1250 PLN+23% VAT**
+Cena przy zapisie do 10 marca: 1250 PLN+23% VAT
 
-Miesjca w któtych odbędą się szkolenia podamy wkrótce :)
+\*Miejsca w któtych odbędą się szkolenia podamy wkrótce :)
