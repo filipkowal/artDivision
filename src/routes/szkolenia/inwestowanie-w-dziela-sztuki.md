@@ -1,5 +1,5 @@
 ---
-title: ŚWIADOME KOLEKCJONOWANIE DZIEŁ SZTUKI-KURS STACJONARNY
+title: ŚWIADOME INWESTOWANIE W DZIEŁA SZTUKI-KURS STACJONARNY
 metaDescription: Inwestowanie w dzieła sztuki jest coraz popularniejszą formą
   lokaty kapitału ze względu na odporność na zawirowania gospodarcze i inflację
 yoastKeyword: inwestowanie w dzieła sztuki
@@ -27,10 +27,16 @@ Zapraszam na kurs wprowadzający w zagadnienie rynku sztuki.
 
   Kurs prowadzi: [**art advisor Joanna Sikorska** ](https://artdivision.pl/zespol/artadvisor-joannasikorska)
 
-**Termin: sobota, 25 marca 2024**
+**Termin Waszawa: sobota, 16 marca 2024**
 
 **Czas: 10.00 -17.30**  
 
-**Cena przy zapisie do 30 stycznia: 1250 PLN+23% VAT**
+**Cena przy zapisie do 10 lutego: 1250 PLN+23% VAT**
 
-**Miejsce: Warszawa - miejsce sali szkoleniowej zostanie podane wkrótce.**
+
+
+**Termin Kraków:  niedziela, 21 kwietnia 2024** 
+
+**Czas: 10.00 -17.30**  
+
+**Cena przy zapisie do 10 marca: 1250 PLN+23% VAT**
