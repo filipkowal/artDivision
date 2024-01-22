@@ -20,6 +20,8 @@ Jak wybierać artystów, którzy mają szansę zrobić dużą karierę?
 Jak uniknąć licznych zagrożeń, szybko nauczyć się podstaw historii sztuki
 współczesnej i zrozumieć język sztuki?
 Ten kurs jest skierowany do Ciebie.
+
+
 Kurs prowadzi [art advisor Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)
 
 Część teoretyczna kursu indywidualnego jest prowadzone w formie online. Część
@@ -47,4 +49,4 @@ obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji 
 zakończeniu części teoretycznej wraz z kursantem odwiedzamy wspólnie wybrane galerie i instytucje
 sztuki współczesnej w Warszawie – czas około 5 godzin.
 
-Cena przy zapisie do 30 stycznia 2024 roku : 3000 pln + 23 %VAT
+Cena przy zapisie do 15 lutego 2024 roku : 3000 pln + 23 %VAT
