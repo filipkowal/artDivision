@@ -16,4 +16,4 @@ Występowałam jako ekspertka w portalach: Puls Biznesu, Bankier TV, magazyn B
 
 Jestem autorką cyklu ABC rynku sztuki dla portalu BitHub.pl.
 
-Prowadzę podcast : Wszystko o rynku sztuki - zapraszam na[ YouTube](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) i [Spotify. ](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)
+Prowadzę podcast : Wszystko o rynku sztuki - zapraszam na[ **YouTube**](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) i **[Spotify. ](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)**
