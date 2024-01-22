@@ -9,23 +9,23 @@ price: 3500 pln +23%VAT
 priceReduced: 3000 pln + 23%VAT
 ---
 Polski rynek sztuki dynamicznie się rozwija. Obrót na aukcjach w 2014 roku wyniósł 77 mln złotych, a
-w roku ubiegłym 380 mln zł. W 2020 roku padł aukcyjny rekord: czyli 7000000 zł za pracę Wojciecha
+w roku 2021 roku 630 mln zł. W 2020 roku padł aukcyjny rekord: czyli 7 mln złotych za pracę Wojciecha
 Fangora , którego płótna w latach 90’tych można było nabyć za kilka tysięcy dolarów. 
 Kolejny spektakularny wynik należy do Ewy Juszkiewicz, jej prace na zagranicznych aukcjach osiągają
 ceny rzędu dwóch, trzech milionów złotych – kilka lat temu można było nabyć prace artystki za 50 tys
-zł. na rynku pierwotnym.
-Chcesz świadomie zainwestować swój kapitał na rynku odpornym na zawirowania gospodarcze?
-Jesteś zainteresowany jak działa mechanizm rynku dzieł sztuki?
-Jak wybierać artystów, którzy mają szansę zrobić dużą karierę?
-Jak uniknąć licznych zagrożeń, szybko nauczyć się podstaw historii sztuki
-współczesnej i zrozumieć język sztuki?
-Ten kurs jest skierowany do Ciebie.
+zł. na rynku pierwotnym. 
+
+Jesteś ciekawy jak działa rynek sztuki?
+
+Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. Świadomie zainwestuj kapitał na rynku odpornym na zawirowania gospodarcze. Dowiedz się, czym różni się rynek pierwotny od rynku pierwotnego.
+Jak określić potencjał rynkowy dzieła i co robić, aby uniknąć nietrafionej inwestycji 
+Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj tajniki najlepszych kolekcjonerów.
 
 
 Kurs prowadzi [art advisor Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)
 
 Część teoretyczna kursu indywidualnego jest prowadzone w formie online. Część
-praktyczna obejmuje wizyty w instytucjach sztuki w moim towarzystwie.
+praktyczna obejmuje wizyty w instytucjach sztuki w towarzystwie art advisorki Joanny Sikorskiej.
 
 Program:
 
@@ -39,7 +39,7 @@ Program:
 * Rynek wtórny – aukcje dzieł sztuki
 * Zagrożenia na rynku dzieł sztuki – abecadło bezpiecznej inwestycji
 * Targi sztuki, wydarzenia branżowe
-* Co wpływa na cenę dzieła sztuki? Czy cena może spaść?
+* Co wpływa na cenę dzieła sztuki? Kiedy cena może spaść?
 * Mechanizmy i struktura polskiego rynku sztuki w kontekście inwestowania
 * Sztuka młodych – gdzie i jak szukać?
 
