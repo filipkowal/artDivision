@@ -15,10 +15,10 @@ Kolejny spektakularny wynik należy do Ewy Juszkiewicz, jej prace na zagraniczny
 ceny rzędu dwóch, trzech milionów złotych – kilka lat temu można było nabyć prace artystki za 50 tys
 zł. na rynku pierwotnym. 
 
-Jesteś ciekawy jak działa rynek sztuki?
+**Jesteś ciekawy jak działa rynek sztuki?**
 
 Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. Świadomie zainwestuj kapitał na rynku odpornym na zawirowania gospodarcze. Dowiedz się, czym różni się rynek pierwotny od rynku pierwotnego.
-Jak określić potencjał rynkowy dzieła i co robić, aby uniknąć nietrafionej inwestycji 
+Jak określić potencjał rynkowy dzieła i co robić, aby uniknąć nietrafionej inwestycji.
 Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj tajniki najlepszych kolekcjonerów.
 
 
