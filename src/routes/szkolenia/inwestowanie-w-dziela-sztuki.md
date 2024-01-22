@@ -35,6 +35,8 @@ Zapraszam na kurs wprowadzający w zagadnienie rynku sztuki.
 
 
 
+
+
 **Termin Kraków:  niedziela, 21 kwietnia 2024** 
 
 **Czas: 10.00 -17.30**  
