@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Mity rynku sztuki "
+title: "Poznaj mity rynku sztuki "
 metaDescription: "Najczęściej popełniane błędy przez początkujących kolekcjonerów. "
 yoastKeyword: "sztuka "
 date: 2022-09-05T16:13:58.395Z
