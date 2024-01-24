@@ -11,7 +11,7 @@ tags:
 ---
 ### Jakie tajemnice skrywa historia rynku sztuki?
 
-Rynek sztuki ma niezwykle długą historię i wiele tajemnic, najstarsze muzeum sztuki powstało w mieście Ur - zostało założone przez kapłankę i córkę babilońskiego Króla. Pierwsze transakcje odnotowano w Starożytnej Grecji, dowodem jest... filiżanka na której widnieje wizerunek sprzedaży wazonu. 
+Rynek sztuki ma niezwykle długą historię i wiele tajemnic, a pierwsze wzmianki sięgają czasów starożytnych. Najstarsze i ponadto prywatne muzeum sztuki powstało w mieście Ur - zostało założone przez kapłankę i córkę babilońskiego Króla. Pierwsze transakcje odnotowano w Starożytnej Grecji, dowodem jest... filiżanka na której widnieje wizerunek sprzedaży wazonu. 
 
 Sztuka jest stałym elementem niemal we wszystkich nam znanych epokach w historii - w średniowieczu była narzędziem w rękach kościoła i artysta nie miał w tym okresie autonomii twórczej. Później sztuka weszła na królewskie dwory i powoli zaczynała być dostępna dla zamożnych kolekcjonerów. Największymi nabywcami sztuki w renesansowej Europie byli Medyceusze i Sforzowie, wspierali Michała Anioła (który nawet mieszkał z rodziną Medyceuszy), Leonarda Da Vinci i Botticellego.To dzięki ich miłości do sztuki powstały dzieła takie jak Primavera czy Dama z Gronostajem, która to w 1788 roku trafiła do jedynej znaczącej polskiej kolekcji należącej do Izabeli Czartoryskiej
 
