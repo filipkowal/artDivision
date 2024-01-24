@@ -18,15 +18,13 @@ Zapraszam do wzięcia udziału w stacjonarnym kursie wprowadzającym w zagadnien
 
 * ŚWIATOWY  RYNEK SZTUKI Z ELEMENTAMI HISTORII SZTUKI.
 * POLSKI RYNEK SZTUKI Z ELEMENTAMI HISTORII SZTUKI 
-* STRUKTURA RYNKU SZTUKI 
+* STRUKTURA RYNKU SZTUKI
 * MODELE KOLEKCJI DZIEŁ SZTUKI - JAK ROBIĄ TO NAJLEPSI ?
 * RYNEK PIERWOTNY, RYNEK WTÓRNY: CO, KIEDY I GDZIE KUPIĆ? JAK SPRZEDAĆ?
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 * PODSUMOWANIE- PYTANIA I ODPOWIEDZI
 
-Kurs prowadzi: art advisor Joanna Sikorska 
-
-https://artdivision.pl/zespol/artadvisor-joannasikorska
+Kurs prowadzi: **[art advisor Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 **Termin Waszawa: sobota, 16 marca 2024**
 
