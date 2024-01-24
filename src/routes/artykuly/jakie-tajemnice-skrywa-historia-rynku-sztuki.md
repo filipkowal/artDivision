@@ -17,4 +17,4 @@ Sztuka jest stałym elementem niemal we wszystkich nam znanych epokach w histori
 
 Jeśli chcesz, dowiedzieć się więcej na temat kształtowania się rynku sztuki na przestrzeni lat zapraszam Cię do wysłuchania pierwszego odcinka podcastu Wszystko o Rynku Sztuki: ,,Poznaj Historię rynku sztuki'' na **[Spotify](https://open.spotify.com/episode/0PzmBtd8fRIcH3XnR4TA9s?si=rRkIJEiQSRWUbi36QAvm6Q&fbclid=IwAR3up6yoS5Ugors868oFrmNXtUczbheZzBOfVEO2nEx7xsgAfRBCwoBQsBk&nd=1&dlsi=3d10d4f95f4a4fa0)** lub **[YouTube](https://www.youtube.com/watch?v=cf3h1DqMFR0)**
 
-![](/images/uploads/black-and-white-man-portraits-arts-culture-podcast-cover.jpg)
+![Spotify ](/images/uploads/black-and-white-man-portraits-arts-culture-podcast-cover.jpg "ArtDivision/ Podcast ")
