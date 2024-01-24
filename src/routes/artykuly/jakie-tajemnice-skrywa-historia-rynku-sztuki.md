@@ -9,7 +9,7 @@ thumbnail: /images/uploads/dama-z-gronostajem_1384991.webp
 tags:
   - podcast
 ---
-# Jakie tajemnice skrywa historia rynku sztuki?
+### Jakie tajemnice skrywa historia rynku sztuki?
 
 Rynek sztuki ma niezwykle długą historię i wiele tajemnic, najstarsze muzeum sztuki powstało w mieście Ur - zostało założone przez kapłankę i córkę babilońskiego Króla. Pierwsze transakcje odnotowano w Starożytnej Grecji, dowodem jest... filiżanka na której widnieje wizerunek sprzedaży wazonu. 
 
