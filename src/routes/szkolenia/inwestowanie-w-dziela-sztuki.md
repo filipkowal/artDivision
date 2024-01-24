@@ -24,7 +24,9 @@ Zapraszam do wzięcia udziału w stacjonarnym kursie wprowadzającym w zagadnien
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 * PODSUMOWANIE- PYTANIA I ODPOWIEDZI
 
-Kurs prowadzi: **[art advisor Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+Kurs prowadzi: art advisor Joanna Sikorska 
+
+https://artdivision.pl/zespol/artadvisor-joannasikorska
 
 **Termin Waszawa: sobota, 16 marca 2024**
 
