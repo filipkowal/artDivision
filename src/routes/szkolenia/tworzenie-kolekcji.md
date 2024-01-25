@@ -8,10 +8,10 @@ level: zaawansowany
 price: 3500 pln +23%VAT
 priceReduced: 3000 pln + 23%VAT
 ---
- Jesteś, ciekawy jak działa rynek sztuki? Zastanawia Cię, gdzie tkwi haczyk sprawiający, że jedne prace są coraz droższe, a inne idą w zapomnienie? Dlaczego akurat prace Fangora i Abakanowicz biją aukcyjne rekordy? Chcesz dowiedzieć się gdzie szukać artystów z potencjałem? Jak określić wartość rynkową dzieła i co robić, aby uniknąć nietrafionej inwestycji? Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. 
+Jesteś, ciekawy jak działa rynek sztuki? Zastanawia Cię, gdzie tkwi haczyk sprawiający, że jedne prace są coraz droższe, a inne idą w zapomnienie? Dlaczego akurat prace Fangora i Abakanowicz biją aukcyjne rekordy? Chcesz dowiedzieć się gdzie szukać artystów z potencjałem? Jak określić wartość rynkową dzieła i co robić, aby uniknąć nietrafionej inwestycji? Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. 
 Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj tajniki najlepszych kolekcjonerów.
 
-Kurs prowadzi [art advisor Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)
+Kurs prowadzi** [art advisor Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 Część teoretyczna kursu indywidualnego jest prowadzone w formie  online- na żywo. Część
 praktyczna obejmuje wizyty w instytucjach sztuki w towarzystwie art advisorki Joanny Sikorskiej. Całość kursu trwa około 23 godzin.
