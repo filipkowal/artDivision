@@ -3,10 +3,10 @@ layout: blog
 title: Damien Hirst – jeden z najdroższych artystów na świecie
 metaDescription: damien hirst
 yoastKeyword: damien hirst
+date: 2022-09-05T16:17:20.966Z
 author: Joanna Sikorska
 thumbnail: /images/uploads/ad_test-article3.jpg
 intro: ""
-date: 2022-09-05T16:17:20.966Z
 tags:
   - Rynek sztuki
 ---
@@ -26,6 +26,4 @@ W 1995 roku Damien Hirst został laureatem prestiżowej Nagrody Turnera. Po tym 
 \
 W 2007 roku Damien Hirst pokazał prace ,,For the love of God” w galerii White Cube w Londynie. Praca składa się z 8 601 diamentów. Inkrustowanych platyną umieszczonych na ludzkiej czaszce z połowy XVIII wieku. Koszt wykonania pracy wyniósł 28 mln dolarów. Rzeźba gdy trafiła na rynek wtórny osiągnęła zawrotną kwote 100 mln dolarów !\
 \
-Czaszka jako symbol śmierci, wpisuje się w typowy dla Hirtst’a motyw przemijania. Strach przed śmiercią okazuje się silniejszą emocją niż miłość czy pożądanie. Inspiruje Hirst’a od momentu, gdy jako młody chłopak znalazł pracę w kostnicy…\
-\
-Jeśli chcesz poznać mechanizmy rynku sztuki sprawdź ofertę kursu rozszerzonego lub podstawowego. Kursy odbywają się aktualnie w formie online
+Czaszka jako symbol śmierci, wpisuje się w typowy dla Hirtst’a motyw przemijania. Strach przed śmiercią okazuje się silniejszą emocją niż miłość czy pożądanie. Inspiruje Hirst’a od momentu, gdy jako młody chłopak znalazł pracę w kostnicy…
