@@ -13,9 +13,7 @@ tags: []
 
 ![www.sothebys.com ](/images/uploads/n5w4kn5ti5lw3lil4pt4x3nd4e.webp "Mark Rothko z kolekcji Macklowe ")
 
-# Dzieła sztuki są unikatowe. Kolekcje dzieł sztuki  również mają niepowtarzalny charakter- często oddają światopogląd i wrażliwość kolekcjonera. 
-
-
+# Dzieła sztuki są unikatowe. Kolekcje dzieł sztuki  również mają niepowtarzalny charakter- często oddają światopogląd i wrażliwość kolekcjonera.
 
 Nie da się stworzyć dwóch takich samych zbiorów. W maju tego roku Sotheby’s sprzedało [kolekcje Macklowe ](https://www.sothebys.com/en/digital-catalogues/the-macklowe-collection-2021)za rekordową kwotę 676 mln dolarów. Małżeństwo podczas rozwodu nie mogło dojść do porozumienia w sprawie podziału dzieł sztuki, dlatego podjęło decyzje o sprzedaży. Zbiór Macklowe okazał się bardzo spójny, większość prac była niefiguratywna.
 
@@ -29,4 +27,4 @@ Nie da się stworzyć dwóch takich samych zbiorów. W maju tego roku Sotheby’
 
 Dzieła sztuki jako aktywa inwestycyjne niejednokrotnie okazały się być doskonałym zabezpieczeniem dla kapitału[ **w czasie kryzysu**](https://www.artsgain.com/wp-content/uploads/2022/04/Art-Market-during-Crisis-Periods-vApril-2022.pdf). Dlatego poznanie mechanizmów tego rynku w trakcie aktualnych zawirowań gospodarczych, może być nieocenione. 
 
-Jeśli chcesz dowiedzieć się więcej na temat inwestycji w dzieła sztuki zapoznaj się z **[szkoleniem](https://artdivision.pl/szkolenia/inwestowanie-w-dziela-sztuki)**, które przygotwała[ **art advisorka Joanna Sikorska** ](https://artdivision.pl/zespol/artadvisor-joannasikorska)i **[adwokatka Amelia Krajewska](https://artdivision.pl/zespol/adwokatka-ameliakrajewska)**, lub[ **ofertą doradczą**](https://artdivision.pl/oferta/art-advisory-doradztwo-inwestycyjne-z-zakresu-rynku-dziel-sztuki)**.**
+Jeśli chcesz dowiedzieć się więcej na temat inwestycji w dzieła sztuki zapoznaj się z  naszą [ofertą doradczą](https://artdivision.pl/oferta) i [szkoleniową ](https://artdivision.pl/szkolenia)
