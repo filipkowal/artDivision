@@ -12,7 +12,7 @@ W 2013 roku ukończyłam Akademię Sztuk Pięknych we Wrocławiu. Jako uczestnic
 
  Pośredniczyłam i doradzałam między innymi przy zakupie dzieł takich artystów jak: Roman Opałka, Wojciech Fangor, Erna Rosenstein, Małgorzata Mirga-Tas, Karolina Jabłońska, Natalia LL czy Ryszard Winiarski. 
 
-Występowałam jako ekspertka w: Puls Biznesu, Bankier TV, magazyn Business Woman&Life, **[RESTARTmag](https://restartmag.art/autor/13822/)**. Byłam prelegentką na Konferencji Blockchain i Finanse w Warszawie oraz na XVI Europejskim Forum Gospodarczym w Łodzi. 
+Występowałam jako ekspertka w portalach: Puls Biznesu, Bankier TV, magazyn Business Woman&Life, **[RESTARTmag](https://restartmag.art/autor/13822/)**. Byłam prelegentką na Konferencji Blockchain i Finanse w Warszawie oraz na XVI Europejskim Forum Gospodarczym w Łodzi. 
 
 Jestem autorką cyklu[ **ABC rynku sztuki** ](https://bithub.pl/inwestycje/sztuka/niezla-sztuka-1-czy-sztuka-moze-przyniesc-ci-miliony/)dla portalu BitHub.pl.
 
