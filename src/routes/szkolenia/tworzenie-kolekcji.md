@@ -14,7 +14,7 @@ Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj 
 Kurs prowadzi** [art advisor Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 Część teoretyczna kursu indywidualnego jest prowadzone w formie  online- na żywo. Część
-praktyczna obejmuje wizyty w instytucjach sztuki w towarzystwie art advisorki Joanny Sikorskiej. Całość kursu trwa około 23 godzin.
+praktyczna obejmuje wizyty w instytucjach sztuki w towarzystwie art advisorki Joanny Sikorskiej. Cały kurs trwa około 23 godzin.
 
 Program:
 
