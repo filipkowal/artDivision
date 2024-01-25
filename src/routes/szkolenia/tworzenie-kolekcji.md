@@ -31,7 +31,7 @@ Program:
 * Co wpływa na cenę dzieła sztuki? Kiedy cena może spaść?
 * Mechanizmy i struktura polskiego rynku sztuki w kontekście inwestowania
 * Sztuka młodych – gdzie i jak szukać?
-* Wizyta w wspólnie wybranych galeriach i instytucjach kultury
+* Wizyta w wspólnie wybranych galeriach i instytucjach kultury w Warszawie lub Krakowie
 
 Indywidualny kurs online trwa około 18 godzin zegarowych. Jest podzielony na 4 sesje po 4
 godziny, lub 8 sesji po 2 godziny. Terminy do uzgodnienia. Kurs odbywa się przy pomocy prostej w
