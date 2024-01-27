@@ -30,6 +30,7 @@ Program:
 * Targi sztuki, wydarzenia branżowe
 * Co wpływa na cenę dzieła sztuki? Kiedy cena może spaść?
 * Mechanizmy i struktura polskiego rynku sztuki w kontekście inwestowania
+* Wyjście z inwestycji -  określenie najlepszego czasu i miejsca sprzedaży
 * Sztuka młodych – gdzie i jak szukać?
 * Wizyta w wspólnie wybranych galeriach i instytucjach kultury w Warszawie lub Krakowie
 
