@@ -13,7 +13,7 @@ Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj 
 
 Kurs prowadzi** [art advisor Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
-Część teoretyczna kursu indywidualnego jest prowadzone w formie  online- na żywo. Część
+Część teoretyczna kursu indywidualnego jest prowadzona w formie  online- na żywo. Część
 praktyczna obejmuje wizyty w instytucjach sztuki w towarzystwie art advisorki Joanny Sikorskiej. Cały kurs trwa około 23 godzin.
 
 Program:
@@ -33,10 +33,6 @@ Program:
 * Sztuka młodych – gdzie i jak szukać?
 * Wizyta w wspólnie wybranych galeriach i instytucjach kultury w Warszawie lub Krakowie
 
-Indywidualny kurs online trwa około 18 godzin zegarowych. Jest podzielony na 4 sesje po 4
-godziny, lub 8 sesji po 2 godziny. Terminy do uzgodnienia. Kurs odbywa się przy pomocy prostej w
-obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji na żywo. Po
-zakończeniu części teoretycznej wraz z kursantem odwiedzamy wspólnie wybrane galerie i instytucje
-sztuki współczesnej w Warszawie – czas około 5 godzin.
+Indywidualny kurs online trwa około 18 godzin zegarowych. Terminy i czas spotkań ustalane na bieżąco z kursantem. Szkolenie odbywa się przy pomocy prostej w obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji na żywo. Po zakończeniu części teoretycznej odwiedzamy wspólnie wybrane galerie i instytucje sztuki współczesnej w Warszawie lub Krakowie – czas około 5 godzin.
 
 Cena przy zapisie do 15 lutego 2024 roku : 2900 pln + 23 %VAT
