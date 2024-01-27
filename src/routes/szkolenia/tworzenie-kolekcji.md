@@ -5,8 +5,8 @@ metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościo
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
 date: 2023-09-27T09:22:21.988Z
 level: zaawansowany
-price: 3500 pln +23%VAT
-priceReduced: 3000 pln + 23%VAT
+price: 3200 pln +23%VAT
+priceReduced: 2900 pln + 23%VAT
 ---
 Jesteś, ciekawy jak działa rynek sztuki? Zastanawia Cię, gdzie tkwi haczyk sprawiający, że jedne prace są coraz droższe, a inne idą w zapomnienie? Dlaczego akurat prace Fangora i Abakanowicz biją aukcyjne rekordy? Chcesz dowiedzieć się gdzie szukać artystów z potencjałem? Jak określić wartość rynkową dzieła i co robić, aby uniknąć nietrafionej inwestycji? Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. 
 Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj tajniki najlepszych kolekcjonerów.
