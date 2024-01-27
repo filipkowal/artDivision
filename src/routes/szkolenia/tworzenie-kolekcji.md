@@ -39,4 +39,4 @@ obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji 
 zakończeniu części teoretycznej wraz z kursantem odwiedzamy wspólnie wybrane galerie i instytucje
 sztuki współczesnej w Warszawie – czas około 5 godzin.
 
-Cena przy zapisie do 15 lutego 2024 roku : 3000 pln + 23 %VAT
+Cena przy zapisie do 15 lutego 2024 roku : 2900 pln + 23 %VAT
