@@ -31,7 +31,7 @@ Program:
 * Co wpływa na cenę dzieła sztuki? Kiedy cena może spaść?
 * Mechanizmy i struktura polskiego rynku sztuki w kontekście inwestowania
 * Wyjście z inwestycji -  określenie najlepszego czasu i miejsca sprzedaży
-* Sztuka młodych – gdzie i jak szukać?
+* Sztuka młodych – gdzie i jak szukać, czyją prace kupić?
 * Wizyta w wspólnie wybranych galeriach i instytucjach kultury w Warszawie lub Krakowie
 
 Część teoretyczna indywidulanego kursu online trwa około 18 godzin zegarowych. Terminy i czas spotkań są ustalane na bieżąco z kursantem. Szkolenie odbywa się przy pomocy prostej w obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji na żywo. Po zakończeniu części teoretycznej odwiedzamy wspólnie wybrane galerie i instytucje sztuki współczesnej w Warszawie lub Krakowie – czas około 5 godzin.
