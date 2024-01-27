@@ -33,8 +33,6 @@ Czas: 10.30 -18.00 (z godzinną przerwą)
 
 Miejsce: platforma webinarowa, dająca możliwość swobodnej komunikacji na żywo 
 
-Cena: 1000 PLN+23% VAT
-
 Ilosć uczestników: do 5 osób 
 
 Zapisy do 4 marca 2024
