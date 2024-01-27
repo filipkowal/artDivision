@@ -35,4 +35,6 @@ Miejsce: platforma webinarowa, dająca możliwość swobodnej komunikacji na ży
 
 Cena: 1000 PLN+23% VAT
 
-Liczba uczestników: do 5 osób
+Ilosć uczestników: do 5 osób 
+
+Zapisy do 4 marca 2024
