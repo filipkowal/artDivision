@@ -35,6 +35,6 @@ Miejsce: platforma webinarowa, dająca możliwość swobodnej komunikacji na ży
 
 Cena przy zapisie do 15 lutego: 
 
-1100 PLN+23% VAT
+1000 PLN+23% VAT
 
 Jeśli masz pytania zapraszam do kontaktu: j.sikorska@artdivision.pl / +48 509 257 008
