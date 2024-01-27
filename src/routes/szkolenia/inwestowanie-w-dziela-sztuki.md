@@ -35,6 +35,4 @@ Miejsce: platforma webinarowa, dająca możliwość swobodnej komunikacji na ży
 
 Cena: 1000 PLN+23% VAT
 
-Ilosć uczestników: do 5 osób 
-
-Jeśli masz pytania zapraszam do kontaktu: j.sikorska@artdivision.pl / +48 509 257 008
+Liczba uczestników: do 5 osób
