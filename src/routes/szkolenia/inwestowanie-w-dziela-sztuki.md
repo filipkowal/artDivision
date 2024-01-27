@@ -1,18 +1,19 @@
 ---
-title: ŚWIADOME INWESTOWANIE W DZIEŁA SZTUKI-KURS STACJONARNY
-metaDescription: Inwestowanie w dzieła sztuki jest coraz popularniejszą formą
-  lokaty kapitału ze względu na odporność na zawirowania gospodarcze i inflację
+title: "INWESTOWANIE W DZIEŁA SZTUKI- jednodniowe szkolenie online "
+metaDescription: Szkolenie wprowadzające w zagadnienia rynku sztuki.
 yoastKeyword: inwestowanie w dzieła sztuki
 date: 2022-10-19T21:29:45.570Z
 level: podstawowe
-price: "1500 PLN +23%VAT "
-priceReduced: 1250 PLN +23% VAT
+price: "1250 PLN +23%VAT "
+priceReduced: 1000 PLN +23% VAT
 ---
 Na polskim rynku sztuki przybywa spektakularnych wyników aukcyjnych. Wystarczy przyjrzeć się Fangorowi- jego praca M39 w 2018 roku osiągnęła na aukcji 4 mln zł a obraz M22 aż 7 mln zł w 2020 roku. Duże wzrosty cen zaobserwować można na pracach Magdaleny Abakanowicz, Romana Opałki, Ryszarda Winiarskiego czy Jana Dobkowskiego. Rynek dzieł sztuki jest odporny na zawirowania gospodarcze, zwłaszcza na rynkach kapitałowych. Stanowi jedną z najbezpieczniejszych form długoterminowej lokaty kapitału. 
 
 **Poznaj podstawowe mechanizmy rynku dzieł sztuki i dowiedz się, jak uniknąć nietrafionej inwestycji**
 
-Zapraszam do wzięcia udziału w stacjonarnym kursie wprowadzającym w zagadnienie rynku sztuki.
+Zapraszam do wzięcia udziału w kursie wprowadzającym w zagadnienie rynku sztuki od podstaw.
+
+Kurs prowadzony jest online na platformie webinarowej
 
 ### **Program:**
 
@@ -26,20 +27,14 @@ Zapraszam do wzięcia udziału w stacjonarnym kursie wprowadzającym w zagadnien
 
 Kurs prowadzi: **[art advisor Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
-**Termin Waszawa: sobota, 16 marca 2024**
+**Termin: niedziela, 17 marca 2024**
 
-Czas: 11.00 -18.00  
+Czas: 10.30 -18.00 (z godzinną przerwą)
 
-Cena przy zapisie do 10 lutego: 
+Miejsce: platforma webinarowa, dająca możliwość swobodnej komunikacji na żywo 
 
-1250 PLN+23% VAT
+Cena przy zapisie do 15 lutego: 
 
-**Termin Kraków: kwiecień 2024** 
+1100 PLN+23% VAT
 
-Czas: 11.00 -18.00  
-
-Cena przy zapisie do 10 marca: 
-
-1250 PLN+23% VAT
-
-\*Miejsca w któtych odbędą się szkolenia podamy wkrótce :)
+Jeśli masz pytania zapraszam do kontaktu: j.sikorska@artdivision.pl / +48 509 257 008
