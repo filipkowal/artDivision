@@ -7,8 +7,6 @@ level: zaawansowane
 price: 750 pln +23%VAT
 priceReduced: ""
 ---
-
-
 * ZAKRES REGULACJI PRAWNYCH DOTYCZĄCYCH INWESTOWANIA W
   DZIEŁA SZTUKI
 * UMOWY ZAWIERANE PRZEZ INWESTORÓW NA RYNKU SZTUKI
@@ -20,6 +18,6 @@ priceReduced: ""
 
 Szkolenie trwa od godziny 11.00 do 18.00 z godzinną przerwą.
 Maksymalna ilość uczestników to 5 osób
-Termin najbliższego szkolenia: szczegóły wkrotce
+Termin najbliższego szkolenia: 
 Kurs online odbędzie się za pomocą łatwej w obsłudze platformy webinarowej, która daje możliwość
 swobodnej komunikacji na żywo.
