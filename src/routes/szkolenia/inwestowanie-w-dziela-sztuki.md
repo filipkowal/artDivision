@@ -27,10 +27,10 @@ Kurs prowadzony jest online na platformie webinarowej
 
 Kurs prowadzi: **[art advisor Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
-**Termin: niedziela, kwietnia 2024** 
+**Termin: niedziela 14 kwietnia 2024** 
 
 Czas: 10.30 -18.00 (z godzinną przerwą)
 
 Miejsce: platforma webinarowa, dająca możliwość swobodnej komunikacji na żywo 
 
-Przy zapisie do 2 kwietnia przysuguje Ci 20% rabat
+Rabat przy zapisie do 2 kwietnia
