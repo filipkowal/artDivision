@@ -6,6 +6,8 @@ yoastKeyword: "rynek sztuki "
 date: 2024-04-04T15:45:45.672Z
 author: Joanna Sikorska
 thumbnail: /images/uploads/willem-de-kooning-interchange.jpeg
+tags:
+  - "podcast "
 ---
 Rynek sztuki to rynkek niezależny - jest w umiarkowanym stopniu podatny na zewnętrzne wpływy takie jak zawirowania na rynkach kapitałowych. W momentach gospodarczo trudnych aktywa, takie jak dzieła sztuki uważa się za chroniące kapitał przed inflacją. 
 
