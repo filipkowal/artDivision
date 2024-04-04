@@ -21,4 +21,6 @@ Rynek sztuki oparty jest na przewidywalnych mechanizmach i czynnikami, które mo
 
 **[Jak działa rynek sztuki?](https://www.youtube.com/watch?v=qL6bTFaE8HQ)**- to tytuł drugiego odcnika podcastu ,,Wszystko o rynku sztuki'' w którym przedstawiam podstawowe mechanizmy rynku sztuki. Wyjaśniam co wpływa na cenę dzieła sztuki, jakie jest  największe zagrożenie przy zakupie prac przez niedoświadcznego kolekcjonera. Przedstawiam również historie sprzedażowe najdroższych dzieł w Polsce i na świecie :)
 
+Zapraszam na[ YouTube](https://www.youtube.com/@joanna.sikorska) i [Spotify ](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)
+
 ![](/images/uploads/grey-bright-orange-black-clean-cutout-news-and-politics-podcast-cover.jpg "Podcast Wszystko o rynku sztuki ")
