@@ -13,14 +13,12 @@ Rynek sztuki to rynkek niezależny - jest w umiarkowanym stopniu podatny na zewn
 
 [W pierwszym odcinku](https://www.youtube.com/watch?v=cf3h1DqMFR0&t=10s) wszystko o Rynku sztuki mówiłam o historii rynku sztuki - prześledzenie rozwoju kolekcjonerstwa jest istotne w kontekście rozwoju rynku sztuki w Polsce, który cały czas jest w fazie rozwoju i jeszcze musi upłynąć trochę czasu, żeby ceny polskich artystów dorównały tym, które są na zagranicznych rynkach standardem. 
 
-## Rynek sztuki w Polsce jest cały czas niedoszacowany. 
+# Rynek sztuki w Polsce jest cały czas niedoszacowany.
 
 Wielu artystów szczególnie nieżyjących jest jeszcze niedostatecznie zauważona, co jest dobrą informacją dla obecnych i nowych kolekcjonerów. 
 
 Rynek sztuki oparty jest na przewidywalnych mechanizmach i czynnikami, które mogą, wskazywać na potencjał inwestycyjny dzieła są na przykład: biogram artysty, obecność w instytucjach, technika wykonania czy ilość dostępnych dzieł na rynku. 
 
 [Jak działa rynek sztuki?](https://www.youtube.com/watch?v=qL6bTFaE8HQ)- to tytuł drugiego odcnika podcastu ,,Wszystko o rynku sztuki'' w którym przedstawiam podstawowe mechanizmy rynku sztuki. Wyjaśniam co wpływa na cenę dzieła sztuki, Jakie jest  największe zagrożenie przy zakupie prac przez niedoświadcznego kolekcjonera. Przedstawiam również historie sprzedażowe najdroższych dzieł w Polsce i na świecie :)
-
-
 
 ![](/images/uploads/grey-bright-orange-black-clean-cutout-news-and-politics-podcast-cover.jpg "Podcast Wszystko o rynku sztuki ")
