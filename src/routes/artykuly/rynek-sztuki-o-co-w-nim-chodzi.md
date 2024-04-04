@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Rynek sztuki - o co w nim chodzi?
-metaDescription: "Poznaj mechanizmy rynku sztuki, "
+metaDescription: Poznaj mechanizmy rynku sztuki.
 yoastKeyword: "rynek sztuki "
 date: 2024-04-04T15:45:45.672Z
 author: Joanna Sikorska
@@ -13,7 +13,7 @@ Rynek sztuki to rynkek niezależny - jest w umiarkowanym stopniu podatny na zewn
 
 [W pierwszym odcinku](https://www.youtube.com/watch?v=cf3h1DqMFR0&t=10s) wszystko o Rynku sztuki mówiłam o historii rynku sztuki - prześledzenie rozwoju kolekcjonerstwa jest istotne w kontekście rozwoju rynku sztuki w Polsce, który cały czas jest w fazie rozwoju i jeszcze musi upłynąć trochę czasu, żeby ceny polskich artystów dorównały tym, które są na zagranicznych rynkach standardem. 
 
-# Rynek sztuki w Polsce jest cały czas niedoszacowany.
+### Rynek sztuki w Polsce jest cały czas niedoszacowany.
 
 Wielu artystów szczególnie nieżyjących jest jeszcze niedostatecznie zauważona, co jest dobrą informacją dla obecnych i nowych kolekcjonerów. 
 
