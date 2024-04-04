@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Jakie tajemnice skrywa historia rynku sztuki ?
-metaDescription: historia rynku sztuki
-yoastKeyword: "podcast Wszystko o Rynku Sztuki "
+metaDescription: "podcast Wszystko o Rynku Sztuki "
+yoastKeyword: "historia rynku sztuki "
 date: 2024-01-24T22:17:33.109Z
 author: Joanna Sikorska
 thumbnail: /images/uploads/dama-z-gronostajem_1384991.webp
