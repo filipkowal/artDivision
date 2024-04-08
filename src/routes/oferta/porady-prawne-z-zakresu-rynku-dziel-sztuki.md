@@ -7,7 +7,7 @@ price: Cena ustalana indywidualnie.
 ---
 Dla bezpieczeństwa i wygody naszych klientów oferujemy doradztwo prawne w zakresie:
 
-* Nabywania i sprzedaży dzieł sztuki,,
+* Nabywania i sprzedaży dzieł sztuki.
 * Umów w obrocie dziełami sztuki.
 * Sprzedaży internetowej dzieł sztuki.
 * Regulaminów aukcji.
