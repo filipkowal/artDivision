@@ -8,21 +8,19 @@ level: zaawansowany
 price: 3200 PLN + 23% VAT
 priceReduced: ""
 ---
-Kurs Inwestowanie w dzieła sztuki to szkolenie dające niezbędną wiedze, która umożliwi Ci samodzielne poruszanie się po rynku sztuki. Dzięki szkoleniu stworzysz wartościową kolekcję sztuki. Nie musisz mieć wiedzy z zakresu sztuki żeby wziąć udział w szkoleniu - wszystkiego dowiesz się na kursie. Szkolenie jest indywidualne - dostowsowane do Twoich preferencji, które ustalamy na początku szkolenia. 
+**Kurs Inwestowanie w dzieła sztuki** to szkolenie dające niezbędną wiedze, która umożliwi Ci samodzielne poruszanie się po rynku sztuki. Dzięki szkoleniu stworzysz wartościową kolekcję sztuki. Nie musisz mieć wiedzy z zakresu sztuki żeby wziąć udział w szkoleniu - wszystkiego dowiesz się na kursie. Szkolenie jest indywidualne - dostowsowane do Twoich preferencji, które ustalamy na początku szkolenia. 
 
 Jeśli ciekawi Cię działa rynek sztuki? Zastanawia Cię, gdzie tkwi haczyk sprawiający, że jedne prace są coraz droższe, a inne idą w zapomnienie? Dlaczego akurat prace Fangora i Abakanowicz biją aukcyjne rekordy? Chcesz dowiedzieć się gdzie szukać artystów z potencjałem? Jak określić wartość rynkową dzieła i co robić, aby uniknąć nietrafionej inwestycji? Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. 
 Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj tajniki najlepszych kolekcjonerów.
 
-Kurs prowadzi:
-
-Art advisorka, ekspertka rynku sztuki i twórczyni podcastu Wszystko o Rynku Sztuki : **[Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+Kurs prowadzi: art advisorka, ekspertka rynku sztuki i twórczyni podcastu Wszystko o Rynku Sztuki : **[Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 Podcast dostępny jest na **[YouTube](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA)** i **[Spotify ](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)**
 
 Część teoretyczna kursu indywidualnego jest prowadzona w formie  online- na żywo. Część
 praktyczna obejmuje wizyty w instytucjach sztuki w towarzystwie art advisorki Joanny Sikorskiej. Cały kurs trwa około 25 godzin.
 
-Program:
+**Program:**
 
 * Wprowadzenie: Charakterystyka rynku sztuki współczesnej.
 * Historia światowej sztuki współczesnej z elementami rynku sztuki  
