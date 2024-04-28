@@ -25,7 +25,7 @@ Kurs prowadzony jest online na platformie webinarowej
 
 Kurs prowadzi: art advisor i twórczyni podcastu Wszystko o Rynku Szuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
-**Termin: wrzesień 2024** 
+**Termin: czerwiec 2024**
 
 Ilość miejsc: 5 
 
