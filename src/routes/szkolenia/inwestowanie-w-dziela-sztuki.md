@@ -1,15 +1,15 @@
 ---
-title: "INWESTOWANIE W DZIEŁA SZTUKI- jednodniowe szkolenie online "
+title: "Kolekcjonowanie dzieł sztuki - jednodniowe szkolenie online "
 metaDescription: Szkolenie wprowadzające w zagadnienia rynku sztuki.
-yoastKeyword: inwestowanie w dzieła sztuki
+yoastKeyword: "kolekcjonowanie dzieł sztuki "
 date: 2022-10-19T21:29:45.570Z
 level: podstawowe
 price: "1250 PLN +23%VAT "
 priceReduced: 1000 PLN+23%VAT
 ---
-Na polskim rynku sztuki przybywa spektakularnych wyników aukcyjnych. Wystarczy przyjrzeć się Fangorowi- jego praca M39 w 2018 roku osiągnęła na aukcji 4 mln zł a obraz M22 aż 7 mln zł w 2020 roku. Duże wzrosty cen zaobserwować można na pracach Magdaleny Abakanowicz, Romana Opałki, Ryszarda Winiarskiego czy Jana Dobkowskiego. Rynek dzieł sztuki jest odporny na zawirowania gospodarcze, zwłaszcza na rynkach kapitałowych. Stanowi jedną z najbezpieczniejszych form długoterminowej lokaty kapitału. 
+Kolekcjonowanie dzieł sztuki cieszy się coraz większym zainteresowaniem. Na polskim rynku sztuki przybywa spektakularnych wyników aukcyjnych. Wystarczy przyjrzeć się Fangorowi- jego praca M39 w 2018 roku osiągnęła na aukcji 4 mln zł a obraz M22 aż 7 mln zł w 2020 roku. Duże wzrosty cen zaobserwować można na pracach Magdaleny Abakanowicz, Romana Opałki, Ryszarda Winiarskiego czy Jana Dobkowskiego. Rynek dzieł sztuki jest odporny na zawirowania gospodarcze, zwłaszcza na rynkach kapitałowych. Stanowi jedną z najbezpieczniejszych form długoterminowej lokaty kapitału. 
 
-**Poznaj podstawowe mechanizmy rynku dzieł sztuki i dowiedz się, jak uniknąć nietrafionej inwestycji**
+**Poznaj podstawowe mechanizmy rynku dzieł sztuki i dowiedz się, kolekcjonować dzieła sztuki świadomie**
 
 Zapraszam do wzięcia udziału w kursie wprowadzającym w zagadnienie rynku sztuki od podstaw.
 
