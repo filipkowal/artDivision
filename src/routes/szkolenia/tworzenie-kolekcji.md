@@ -13,7 +13,7 @@ priceReduced: ""
 Jeśli ciekawi Cię, jak działa rynek sztuki? Zastanawia Cię, gdzie tkwi haczyk sprawiający, że jedne prace są coraz droższe, a inne idą w zapomnienie? Dlaczego akurat prace Fangora i Abakanowicz biją aukcyjne rekordy? Chcesz dowiedzieć się gdzie szukać artystów z potencjałem? Jak określić wartość rynkową dzieła i co robić, aby uniknąć nietrafionej inwestycji? Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. 
 Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj tajniki najlepszych kolekcjonerów.
 
-Kurs prowadzi: art advisorka, ekspertka rynku sztuki i twórczyni podcastu: Wszystko o Rynku Sztuki : **[Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+Kurs prowadzi: art advisorka, ekspertka rynku sztuki i twórczyni podcastu: Wszystko o Rynku Sztuki - **[Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 Podcast dostępny jest na **[YouTube](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA)** i **[Spotify ](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)**
 
