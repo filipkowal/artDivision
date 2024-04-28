@@ -1,5 +1,5 @@
 ---
-title: "Kolekcjonowanie dzieł sztuki - jednodniowe szkolenie online "
+title: "KOLEKCJONOWANIE DZIEŁ SZTUKI- jednodniowe szkolenie online "
 metaDescription: Szkolenie wprowadzające w zagadnienia rynku sztuki.
 yoastKeyword: "kolekcjonowanie dzieł sztuki "
 date: 2022-10-19T21:29:45.570Z
