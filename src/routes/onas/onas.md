@@ -16,6 +16,6 @@ Zapewniamy kompleksową opiekę, tak by nabywanie dzieł sztuki było nie tylko 
 Działamy w zgodzie z kodeksem etyki [**Association Of Proffessional Art Advisors**. ](https://www.artadvisors.org/association-of-professional-art-advisors-mission)
 
 \
-**Art Division / Advisory** to również źródło inforacji o kolekcjonowaniu dzieł sztuki. Prowadzimy podcast [Wszystko o Rynku Sztuki](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn) w którym przedstawiamy najważniejsze zjawiska, wydarzenia, sylwetki artystów oraz kolekcjonerów, a także liczne nieprawidłowości w obszarze rynku sztuki.\
+**Art Division / Advisory** to również źródło informacji o kolekcjonowaniu dzieł sztuki. Prowadzimy podcast [Wszystko o Rynku Sztuki](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn) w którym przedstawiamy najważniejsze zjawiska, wydarzenia, sylwetki artystów oraz kolekcjonerów, a także liczne nieprawidłowości w obszarze rynku sztuki.\
 \
 *Świadome kolekcjonowanie dzieł sztuki daje możliwość obcowania z pięknem i tajemnicą. Art Division/Advisory to twój przewodnik po labiryncie rynku sztuki.*
