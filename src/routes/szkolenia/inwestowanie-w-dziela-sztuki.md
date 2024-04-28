@@ -11,7 +11,7 @@ Kolekcjonowanie dzieł sztuki cieszy się coraz większym zainteresowaniem. Na p
 
 **Poznaj podstawowe mechanizmy rynku dzieł sztuki i dowiedz się, kolekcjonować dzieła sztuki świadomie**
 
-Kurs prowadzony jest online na platformie webinarowej
+Kurs prowadzi: art advisor i twórczyni podcastu Wszystko o Rynku Sztuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 ### **Program:**
 
@@ -22,8 +22,6 @@ Kurs prowadzony jest online na platformie webinarowej
 * RYNEK PIERWOTNY, RYNEK WTÓRNY: CO, KIEDY I GDZIE KUPIĆ? JAK SPRZEDAĆ?
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 * PODSUMOWANIE- PYTANIA I ODPOWIEDZI
-
-Kurs prowadzi: art advisor i twórczyni podcastu Wszystko o Rynku Szuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 **Termin: czerwiec 2024**
 
