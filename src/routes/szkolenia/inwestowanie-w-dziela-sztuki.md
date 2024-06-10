@@ -13,13 +13,13 @@ Chciałbyś  kupować dzieła sztuki, ale nie wiesz od czego zacząć? Dołącz
 
 **Co zyskasz?**
 
-Wiedzę z zakresu historii sztuki współczesnej 
+Wiedzę z zakresu historii sztuki współczesnej. 
 
-Nauczysz się jak ocenić potencjał inwestycyjny dzieła sztuki 
+Nauczysz się jak ocenić potencjał inwestycyjny dzieła sztuki. 
 
-Poznasz tajniki najlepszych kolekcjonerów 
+Poznasz tajniki najlepszych kolekcjonerów.
 
-Dowiesz się w jakie pułapki może wpaść niedoświadczony kolekcjoner 
+Dowiesz się w jakie pułapki może wpaść niedoświadczony kolekcjoner. 
 
 Kurs prowadzi: art advisor i twórczyni  podcastu Wszystko o Rynku Sztuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
