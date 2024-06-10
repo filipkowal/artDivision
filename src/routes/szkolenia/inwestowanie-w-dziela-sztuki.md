@@ -39,7 +39,7 @@ Kurs prowadzi: art advisor i twórczyni  podcastu Wszystko o Rynku Sztuki -** [J
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 * PODSUMOWANIE- PYTANIA I ODPOWIEDZI
 
-**Termin: czerwiec 2024**
+**Termin: 16 czerwca 2024**
 
 Ilość miejsc: 5 
 
