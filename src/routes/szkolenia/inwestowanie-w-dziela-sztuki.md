@@ -7,7 +7,7 @@ level: podstawowe
 price: "1250 PLN +23%VAT "
 priceReduced: ""
 ---
-####  Szkolenie ,,Kolekcjonowanie dzieł sztuki''- Inwestuj w dzieła sztuki z głową!
+#  Szkolenie ,,Kolekcjonowanie dzieł sztuki''- Inwestuj w dzieła sztuki z głową!
 
 Chciałbyś  kupować dzieła sztuki, ale nie wiesz od czego zacząć? Dołącz do szkolenia i poznaj podstawowe mechanizmy rynku sztuki i zacznij kolekcjonowac dzieła sztuki świadomie. 
 
