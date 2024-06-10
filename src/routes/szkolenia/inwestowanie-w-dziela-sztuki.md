@@ -7,7 +7,7 @@ level: podstawowe
 price: "1250 PLN +23%VAT "
 priceReduced: ""
 ---
-####  Szkolenie ,,Kolekcjonowanie dzieł sztuki’’ - inwestuj w dzieła sztuki z głową!
+###  Szkolenie ,,Kolekcjonowanie dzieł sztuki’’ - inwestuj w dzieła sztuki z głową!
 
 Chciałbyś  kupować dzieła sztuki, ale nie wiesz od czego zacząć? Dołącz do szkolenia i poznaj podstawowe mechanizmy rynku sztuki i zacznij kolekcjonowac dzieła sztuki świadomie. 
 
@@ -20,8 +20,6 @@ Nauczysz się jak ocenić potencjał inwestycyjny dzieła sztuki 
 Poznasz tajniki najlepszych kolekcjonerów 
 
 Dowiesz się w jakie pułapki może wpaść niedoświadczony kolekcjoner 
-
-
 
 Kurs prowadzi: art advisor i twórczyni  podcastu Wszystko o Rynku Sztuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
