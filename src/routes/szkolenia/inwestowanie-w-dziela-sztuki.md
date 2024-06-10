@@ -7,11 +7,27 @@ level: podstawowe
 price: "1250 PLN +23%VAT "
 priceReduced: ""
 ---
-Kolekcjonowanie dzieł sztuki cieszy się coraz większym zainteresowaniem. Na polskim rynku sztuki przybywa spektakularnych wyników aukcyjnych. Wystarczy przyjrzeć się Fangorowi- jego praca M39 w 2018 roku osiągnęła na aukcji 4 mln zł a obraz M22 aż 7 mln zł w 2020 roku. Duże wzrosty cen zaobserwować można na pracach Magdaleny Abakanowicz, Romana Opałki, Ryszarda Winiarskiego czy Jana Dobkowskiego. Rynek dzieł sztuki jest odporny na zawirowania gospodarcze, zwłaszcza na rynkach kapitałowych. 
 
-**Poznaj podstawowe mechanizmy rynku dzieł sztuki i dowiedz się, kolekcjonować dzieła sztuki świadomie**
 
-Kurs prowadzi: art advisor i twórczyni podcastu Wszystko o Rynku Sztuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+
+
+####  Szkolenie ,,Kolekcjonowanie dzieł sztuki’’ - inwestuj w dzieła sztuki z głową!
+
+Chciałbyś  kupować dzieła sztuki, ale nie wiesz od czego zacząć? Dołącz do szkolenia i poznaj podstawowe mechanizmy rynku sztuki i zacznij kolekcjonowac dzieła sztuki świadomie. 
+
+**Co zyskasz?**
+
+Wiedzę z zakresu historii sztuki współczesnej 
+
+Nauczysz się jak ocenić potencjał inwestycyjny dzieła sztuki 
+
+Poznasz tajniki najlepszych kolekcjonerów 
+
+Dowiesz się w jakie pułapki może wpaść niedoświadczony kolekcjoner 
+
+
+
+Kurs prowadzi: art advisor i twórczyni  podcastu Wszystko o Rynku Sztuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 ### **Program:**
 
