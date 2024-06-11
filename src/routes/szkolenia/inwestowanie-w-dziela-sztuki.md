@@ -15,13 +15,17 @@ Chciałbyś  kupować dzieła sztuki, ale nie wiesz od czego zacząć? Dołącz
 
 Wiedzę z zakresu historii sztuki współczesnej. 
 
-Nauczysz się jak ocenić potencjał inwestycyjny dzieła sztuki. 
+Nauczysz się jak ocenić potencjał inwestycyjny dzieł sztuki. 
 
 Poznasz tajniki najlepszych kolekcjonerów.
 
 Dowiesz się w jakie pułapki może wpaść niedoświadczony kolekcjoner. 
 
-Kurs prowadzi: art advisor i twórczyni  podcastu Wszystko o Rynku Sztuki -** [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+Prowadząca:
+
+**[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+
+Art advisor, doradczyni z zakresu rynku sztuki i twórczyni podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka Zarządzania na Rynku Dzieł Sztuki UW. Od pięciu lat zajmuje się edukacją z zakresu inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
 
 ### **Program:**
 
