@@ -7,25 +7,25 @@ level: podstawowe
 price: "1250 PLN +23%VAT "
 priceReduced: ""
 ---
-###  Szkolenie ,,Kolekcjonowanie dzieł sztuki''- Inwestuj w dzieła sztuki z głową!
+###  Szkolenie ,,Kolekcjonowanie dzieł sztuki''- Inwestuj w dzieła sztuki z  Pewnością !
 
-Chciałbyś  kupować dzieła sztuki, ale nie wiesz od czego zacząć? Dołącz do szkolenia i poznaj podstawowe mechanizmy rynku sztuki i zacznij kolekcjonowac dzieła sztuki świadomie. 
+Planujesz inwestować w  dzieła sztuki, ale nie wiesz od czego zacząć? Dołącz do szkolenia i poznaj podstawowe mechanizmy rynku sztuki i zacznij kolekcjonowac dzieła sztuki w sposób profesjonalny i świadomy. 
 
 **Co zyskasz?**
 
-Wiedzę z zakresu historii sztuki współczesnej. 
+Wiedzę o sztuce współczesnej: Zdobędziesz solidne podstawy z zakresu historii sztuki współczesnej. 
 
-Nauczysz się jak ocenić potencjał inwestycyjny dzieł sztuki. 
+Nauczysz się, jak ocenić potencjał inwestycyjny dzieł sztuki. 
 
-Poznasz tajniki najlepszych kolekcjonerów.
+Poznasz tajniki strategii najlepszych kolekcjonerów.
 
-Dowiesz się w jakie pułapki może wpaść niedoświadczony kolekcjoner. 
+Dowiesz się, jak unikać błędów i  pułapek typowych dla początkującego kolekcjonera. 
 
 Prowadząca:
 
 **[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
-Art advisor, doradczyni z zakresu rynku sztuki i twórczyni podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka Zarządzania na Rynku Dzieł Sztuki UW. Od pięciu lat zajmuje się edukacją z zakresu inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
+Art advisor, doradczyni z zakresu rynku sztuki i twórczyni podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka Zarządzania na Rynku Dzieł Sztuki UW. Od pięciu lat specjalizuje się w edukacji  dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka  prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
 
 ### **Program:**
 
@@ -37,7 +37,7 @@ Art advisor, doradczyni z zakresu rynku sztuki i twórczyni podcastu [**Wszystko
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 * PODSUMOWANIE- PYTANIA I ODPOWIEDZI
 
-**Termin: 16 czerwca 2024**
+**Termin: 27 października**
 
 Ilość miejsc: 5 
 
