@@ -11,7 +11,6 @@
 	function removeHoverEffect(event) {
 		event.currentTarget.classList.remove('hovered');
 	}
-
 </script>
 
 <a href={`/artykuly/${fileName}`} on:touchstart={addHoverEffect} on:touchend={removeHoverEffect}>
@@ -28,8 +27,10 @@
 
 <style>
 	.articleCard {
+		position: relative;
 		margin-bottom: 3.57rem;
 	}
+
 	h2 {
 		font-family: 'NewsPlantinItalic';
 		font-weight: 400;
@@ -37,31 +38,50 @@
 		line-height: 2.1rem;
 		font-style: italic;
 	}
+
 	.image-container {
 		width: 160px;
 		height: 200px;
 		margin-left: auto;
 		margin-right: auto;
+		position: relative;
+		overflow: hidden;
 	}
+
+	.image-container::before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: #0000ff;
+		opacity: 0;
+		transition: opacity 0.1s ease-in-out;
+	}
+
 	img {
 		width: 100%;
 		height: 100%;
 		object-fit: cover;
+		transition: filter 0.1s ease-in-out;
 	}
 
-		a:hover img {
-			mix-blend-mode: screen;
-			-webkit-filter: grayscale(100%);
-			filter: grayscale(100%);
-		}
-		a:hover .image-container {
-			background: #0000ff;
-		}
-	
-	.articleCard.hovered .image-container {
-		background: #0000ff;
+	a:hover .image-container::before {
+		opacity: 1;
 	}
-	
+
+	a:hover img {
+		mix-blend-mode: screen;
+		-webkit-filter: grayscale(100%);
+		filter: grayscale(100%);
+	}
+
+	/* Mobile touch effect */
+	.articleCard.hovered .image-container::before {
+		opacity: 1;
+	}
+
 	.articleCard.hovered img {
 		mix-blend-mode: screen;
 		-webkit-filter: grayscale(100%);
