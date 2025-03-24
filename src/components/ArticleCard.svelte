@@ -4,14 +4,17 @@
 
 	export let title, thumbnail, fileName, tags;
 
-	function enableHoverEffect(event) {
-		const target = event.currentTarget;
-		target.classList.add('hover-active');
-		setTimeout(() => target.classList.remove('hover-active'), 1000);
+	function addHoverEffect(event) {
+		event.currentTarget.classList.add('hovered');
 	}
+
+	function removeHoverEffect(event) {
+		event.currentTarget.classList.remove('hovered');
+	}
+
 </script>
 
-<a href={`/artykuly/${fileName}`} on:touchstart={enableHoverEffect}>
+<a href={`/artykuly/${fileName}`} on:touchstart={addHoverEffect} on:touchend={removeHoverEffect}>
 	<div class="articleCard">
 		<div class="image-container">
 			<img src={thumbnail + '?nf_resize=smartcrop&w=160&h=200'} alt={title} />
@@ -46,7 +49,6 @@
 		object-fit: cover;
 	}
 
-	@media (hover: hover) {
 		a:hover img {
 			mix-blend-mode: screen;
 			-webkit-filter: grayscale(100%);
@@ -55,12 +57,12 @@
 		a:hover .image-container {
 			background: #0000ff;
 		}
-	}
-
-	.hover-active .image-container {
+	
+	.articleCard.hovered .image-container {
 		background: #0000ff;
 	}
-	.hover-active img {
+	
+	.articleCard.hovered img {
 		mix-blend-mode: screen;
 		-webkit-filter: grayscale(100%);
 		filter: grayscale(100%);
