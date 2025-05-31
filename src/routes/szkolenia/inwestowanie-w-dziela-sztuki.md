@@ -4,7 +4,7 @@ metaDescription: Szkolenie wprowadzające w zagadnienia rynku sztuki.
 yoastKeyword: "kolekcjonowanie dzieł sztuki "
 date: 2022-10-19T21:29:45.570Z
 level: podstawowe
-price: "1250 PLN +23%VAT "
+price: " 1700 PLN +23%VAT "
 priceReduced: ""
 ---
 ###  Szkolenie ,,Kolekcjonowanie dzieł sztuki''- Inwestuj w dzieła sztuki z  Pewnością !
@@ -32,7 +32,7 @@ Art advisor, doradczyni z zakresu rynku sztuki i twórczyni podcastu [**Wszystko
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI
 * PODSUMOWANIE- PYTANIA I ODPOWIEDZI
 
-**Termin: 27 października**
+**Najbliższy termin: październik 2025** 
 
 Ilość miejsc: 5 
 
