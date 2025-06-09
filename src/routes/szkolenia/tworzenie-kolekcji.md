@@ -5,7 +5,7 @@ metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościo
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
 date: 2023-09-27T09:22:21.988Z
 level: zaawansowany
-price: 5300  PLN + 23% VAT
+price: 5300  PLN  *cena zawiera VAT 23%
 priceReduced: ""
 ---
 **Kurs inwestowanie w dzieła sztuki -**  to szkolenie wysposaży Cię wiedzę, która umożliwi Ci świadome poruszanie się po rynku sztuki. Dzięki szkoleniu stworzysz wartościową kolekcję sztuki. Nie musisz mieć wiedzy z zakresu sztuki żeby wziąć udział w szkoleniu - wszystkiego dowiesz się na kursie. Szkolenie jest indywidualne - dostowsowane do Twoich preferencji, które ustalamy na początku szkolenia. 
