@@ -22,4 +22,4 @@ Kurs online odbędzie się za pomocą łatwej w obsłudze platformy webinarowej,
 
 
 
-,,Szkolenie ma charakter edukacyjny i informacyjny. Nie stanowi porady prawnej ani podatkowej ani interpretacji przepisów''
+,,Szkolenie ma charakter edukacyjny i informacyjny. Nie stanowi porady prawnej ani podatkowej''
