@@ -14,7 +14,7 @@ Indywidualne szkolenie łączące spotkania online z osobistą wizytą w muzeum.
   **Co zyskasz?**
 
 * Wiedzę o sztuce współczesnej. Zdobędziesz solidne podstawy z historii sztuki XX i XXI wieku przedstawione w jasny i przystępny sposób.
-* Umiejętność analizy dzieła sztuki: nauczysz się interpretować prace krok po kroku i rozpoznawać te o wysokiej wartości artystycznej. 
+* Umiejętność analizy dzieła sztuki: nauczysz się interpretować prace krok po kroku i rozpoznasz te o wysokiej wartości artystycznej. 
 * Znajomość języka symboli, archetypów i znaków którym posługują się  współcześni artyści. 
 * Zrozumienie kierunków i idei, które ukształtowały współczesną scenę artystyczną
 * Historie z życia artystów: poznasz biograficzne wątki i życiowe doświaczenia, które  wpłynęły na twórczość znanych artystów. 
