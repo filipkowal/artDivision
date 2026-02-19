@@ -17,7 +17,7 @@ Indywidualne szkolenie łączące spotkania online z osobistą wizytą w muzeum.
 * Umiejętność analizy dzieła sztuki: nauczysz się interpretować prace krok po kroku i rozpoznawać te o wysokiej wartości artystycznej. 
 * Znajomość języka symboli, archetypów i znaków którym posługują się  współcześni artyści. 
 * Zrozumienie kierunków i idei, które ukształtowały współczesną scenę artystyczną
-* Historie z życia artystów: poznasz biograficzne wątki i życiowe doświaczenia, które  wpłynęły na twórczość znanych artystów 
+* Historie z życia artystów: poznasz biograficzne wątki i życiowe doświaczenia, które  wpłynęły na twórczość znanych artystów. 
 
 Prowadząca: \
 **[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**\
