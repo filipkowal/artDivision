@@ -1,5 +1,5 @@
 ---
-title: Sztuka współczesna - jak interpretować dzieło sztuki ?
+title: Sztuka współczesna - jak interpretować dzieła sztuki ?
 metaDescription: "Szkolenie wprowadzające do historii sztuki współczesnej "
 yoastKeyword: sztuka współczesna
 date: 2022-10-19T21:29:45.570Z
@@ -7,7 +7,7 @@ level: "zaawansowane "
 price: "3000 PLN "
 priceReduced: ""
 ---
-###  Sztuka współczesna - jak interpretować dzieło sztuki?
+###  Sztuka współczesna - jak interpretować dzieła sztuki?
 
 Indywidualne szkolenie łączące spotkania online z osobistą wizytą w muzeum. Podczas zajęć online omawiamy kluczowe kierunki sztuki współczesnej, analizujemy wybrane dzieła w kontekście historycznym, kulturowym, znaczeniowym i formalnym. Poznasz historie z życia artystów i dowiesz się co ukształtowało ich twórczość .
 
