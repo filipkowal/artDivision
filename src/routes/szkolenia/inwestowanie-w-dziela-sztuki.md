@@ -3,17 +3,17 @@ title: Sztuka współczesna - jak interpretować dzieło sztuki ?
 metaDescription: "Szkolenie wprowadzające do historii sztuki współczesnej "
 yoastKeyword: sztuka współczesna
 date: 2022-10-19T21:29:45.570Z
-level: podstawowe
+level: "zaawansowane "
 price: "3000 PLN "
 priceReduced: ""
 ---
-###  Sztuka współczesna - jak interpretować dzieło sztuki 
+###  Sztuka współczesna - jak interpretować dzieło sztuki?
 
-Indywidualne szkolenie łączące spotkania online z osobistą wizytą w muzeum. Podczas zajęć online omawiamy kluczowe kierunki sztuki współczesnej, analizujemy wybrane dzieła w kontekście historycznym, kulturowym, znaczeniowym i formalnym. Poznasz historie z życia artystów i dowiesz się co ukształotowało ich twórczość .
+Indywidualne szkolenie łączące spotkania online z osobistą wizytą w muzeum. Podczas zajęć online omawiamy kluczowe kierunki sztuki współczesnej, analizujemy wybrane dzieła w kontekście historycznym, kulturowym, znaczeniowym i formalnym. Poznasz historie z życia artystów i dowiesz się co ukształtowało ich twórczość .
 
   **Co zyskasz?**
 
-* Wiedzę o sztuce współczesnej Zdobędziesz solidne podstawy z historii sztuki XX i XXI wieku przedstawione w jasny i przystępny sposób.
+* Wiedzę o sztuce współczesnej. Zdobędziesz solidne podstawy z historii sztuki XX i XXI wieku przedstawione w jasny i przystępny sposób.
 * Umiejętność analizy dzieła sztuki: nauczysz się interpretować prace krok po kroku i rozpoznawać te o wysokiej wartości artystycznej. 
 * Znajomość języka symboli, archetypów i znaków którym posługują się  współcześni artyści. 
 * Zrozumienie kierunków i idei, które ukształtowały współczesną scenę artystyczną
@@ -31,7 +31,5 @@ Art advisor, doradczyni z zakresu rynku sztuki i autorkai podcastu [**Wszystko o
 * POLSKA SZTUKA WSPÓŁCZESNA
 * ANALIZA DZIEŁA SZTUKI WEDŁUG METODY ERWINA PANOFSKY'EGO 
 * WIZYTA W MUZEUM SZTUKI WSPÓŁCZESNEJ W WARSZAWIE LUB KRAKOWIE
-
-
 
 Szkolenie trwa 12 godzin, jest podzielone na dwie części. Część teoretyczna obejmuje 10 godzin wykładów online, a część praktyczna - 2 godzinną wizytę w muzeum sztuki współczesnej. Terminy i godziny spotkań ustalam indywidualnie z uczestnikiem. Zajęcia online odbywają się na prostej w obsłudze platformie webinarowej.
