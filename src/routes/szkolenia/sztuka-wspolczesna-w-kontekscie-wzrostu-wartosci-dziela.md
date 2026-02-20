@@ -1,5 +1,5 @@
 ---
-title: "RAMY FORMALNO- PRAWNE RYNKU SZTUKI "
+title: "Ramy formalno prawne na rynku sztuki "
 metaDescription: Szkolenie dedykowane kolekcjonerom i inwestorom na rynku dzieł sztuki.
 yoastKeyword: "regulacje na rynku sztuki "
 date: 2022-10-19T15:24:24.547Z
