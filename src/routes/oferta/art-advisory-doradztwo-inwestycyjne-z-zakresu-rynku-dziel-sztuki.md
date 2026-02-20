@@ -1,5 +1,5 @@
 ---
-title: "  ART ADVISORY - DORADZTWO INWESTYCYJNE Z ZAKRESU RYNKU DZIEŁ SZTUKI"
+title: "  ART ADVISORY - doradztwo na rynku sztuki "
 metaDescription: Oferujemy opracowanie strategii kolekcjonowania dzieł sztuki.
   Znajdziemy dla Ciebie dzieła sztuki z potencjałem inwestycyjnym.
 yoastKeyword: " dzieła sztuki"
