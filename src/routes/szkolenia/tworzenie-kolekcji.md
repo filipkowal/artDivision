@@ -1,5 +1,5 @@
 ---
-title: "Świadome kolekcjonowanie - Sztuka współczesna i mechanizmy rynku sztuki "
+title: "Świadome kolekcjonowanie - sztuka współczesna i mechanizmy rynku sztuki "
 metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościowej
   kolekcji dzieł sztuki. "
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
