@@ -1,5 +1,5 @@
 ---
-title: BUDOWANIE KOLEKCJI FIRMOWYCH I KORPORACYJNYCH- WSPIERAMY BIZNES POPRZEZ SZTUKĘ
+title: Budowanie kolekcji firmowych i korporacyjnych - wspieramy biznes poprzez sztukę
 metaDescription: "Tworzenie kolekcji firmowych i korporacyjnych. "
 yoastKeyword: art branding
 date: 2022-10-29T13:19:14.603Z
