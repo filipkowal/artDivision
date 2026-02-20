@@ -1,11 +1,11 @@
 ---
-title: "KURS INWESTOWANIE W DZIEŁA SZTUKI - indywidualne szkolenie "
+title: "Świadome kolekcjonowanie - Sztuka współczesna i mechanizmy rynku sztuki "
 metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościowej
   kolekcji dzieł sztuki. "
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
 date: 2023-09-27T09:22:21.988Z
 level: zaawansowany
-price: 5300  PLN  +23%VAT
+price: 5500  PLN  +23%VAT
 priceReduced: ""
 ---
 **Kurs inwestowanie w dzieła sztuki -**  to szkolenie wysposaży Cię wiedzę, która umożliwi Ci świadome poruszanie się po rynku sztuki. Dzięki szkoleniu stworzysz wartościową kolekcję sztuki. Nie musisz mieć wiedzy z zakresu sztuki żeby wziąć udział w szkoleniu - wszystkiego dowiesz się na kursie. Szkolenie jest indywidualne - dostowsowane do Twoich preferencji, które ustalamy na początku szkolenia. 
