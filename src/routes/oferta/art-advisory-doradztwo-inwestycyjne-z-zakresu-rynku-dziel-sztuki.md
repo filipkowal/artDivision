@@ -4,8 +4,7 @@ metaDescription: Oferujemy opracowanie strategii kolekcjonowania dzieł sztuki.
   Znajdziemy dla Ciebie dzieła sztuki z potencjałem inwestycyjnym.
 yoastKeyword: " dzieła sztuki"
 date: 2023-09-27T09:16:54.443Z
-price: 15-8% prowizji od kupna lub sprzedaży – cena jest zależna od kwoty
-  przeznaczonej na budowanie kolekcji dzieł sztuki.
+price: " Cena jest zależna od kwoty przeznaczonej na budowanie kolekcji dzieł sztuki."
 ---
 ### **[Art advisory ](https://artdivision.pl)czyli doradztwo na rynku sztuki.**
 
