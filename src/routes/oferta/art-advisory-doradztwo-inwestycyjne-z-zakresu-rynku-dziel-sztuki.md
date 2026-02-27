@@ -34,4 +34,4 @@ Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętr
 * **Ubezpieczenie kolekcji** - Zorganizujemy ubezpiecznie Twoich zbiorów.
 * **Aranżację kolekcji we wnętrzu** - Dzieła sztuki często wymagają przemyślanej ekspozycji w przestrzeni, pomożemy wybrać odpowiednie miejsce dla Twoich prac.
 
-   **Jeśli chcesz dowiedzieć się więcej, zapraszam na rozmowę zapoznawczą. W trakcie spotkania  opowiem o moim doświadczeniu, sposobie pracy oraz wybranych track recordach**                                                                                                                   [Joanna   Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)| Art Advisor
+   **Jeśli chcesz dowiedzieć się więcej, zapraszam na rozmowę zapoznawczą. W trakcie spotkania  opowiem o moim doświadczeniu, sposobie pracy oraz wybranych track recordach.**                                                                                                                                        [Joanna   Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)| Art Advisor
