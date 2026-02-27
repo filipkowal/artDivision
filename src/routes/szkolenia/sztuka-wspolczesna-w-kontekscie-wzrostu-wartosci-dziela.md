@@ -4,7 +4,7 @@ metaDescription: Szkolenie dedykowane kolekcjonerom i inwestorom na rynku dzieł
 yoastKeyword: "regulacje na rynku sztuki "
 date: 2022-10-19T15:24:24.547Z
 level: zaawansowane
-price: 2000  PLN +23%VAT
+price: 2000 PLN +23%VAT
 priceReduced: ""
 ---
 * PRZEGLĄD REGULACJI PRAWNYCH DOTYCZĄCYCH INWESTOWANIA W
