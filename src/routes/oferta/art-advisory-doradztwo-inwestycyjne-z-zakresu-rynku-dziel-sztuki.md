@@ -7,13 +7,13 @@ yoastKeyword: "Art Advisory Doradztwo na Rynku Sztuki "
 date: 2023-09-27T09:16:54.443Z
 price: " Cena jest zależna od kwoty przeznaczonej na budowanie kolekcji dzieł sztuki."
 ---
-### **[Art advisory ](https://artdivision.pl),czyli Doradztwo na Rynku Sztuki.**
+### **[Art Advisory](https://artdivision.pl) - czyli Doradztwo na Rynku Sztuki.**
 
 Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętrza, niosą ze sobą wartość kulturową i są zapisem naszych czasów: myślenia, estetyki, wartości. Będą reprezentować nasz świat następnym pokoleniom. Są materialną refleksją i subiektywnym odczuciem tego co dookoła, pozwalają skierować nasze myśli na inny, nieznany wcześniej tor. 
 
   Sztuka może onieśmielać – czasami trudno od razu ją zrozumieć. Jeszcze trudniej pojąć zależność od tego co widzimy np. na obrazie, a jego ceną. Jak jedno wpływa na drugie? Wartość rynkowa niektórych, wydawałoby się – niepozornych dzieł, może zaskakiwać. Skąd wiedzieć, którego młodego artysty prace zyskają z czasem na wartości? Dlaczego na prace niektórych artystów trzeba czekać w kolejce? Jak nie nabrać się na falsyfikat? 
 
-  Kiedyś marszandami sztuki byli doprawdy nieliczni. Teraz, kolekcjonerem może zostać każdy z nas, kto szybko zorientuje się, że to jeden z najlepszych sposóbów na budowanie swojego kapitału materialnego, ale również symbolicznego.
+ Kiedyś marszandami sztuki byli doprawdy nieliczni. Teraz, kolekcjonerem może zostać każdy z nas, kto szybko zorientuje się, że to jeden z najlepszych sposobów na budowanie swojego kapitału materialnego, ale również symbolicznego.
 
   Oferujemy naszą wiedze i wsparcie przy tworzeniu Twojej kolekcji dzieł sztuki. 
 
@@ -28,8 +28,14 @@ Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętr
 * **Wspólne odwiedzanie wystaw w galeriach i instytucjach sztuki**- Dbamy o [edukację ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)naszych klientów, organizujemy oprowadzania po wystawach w galeriach. Tworzymy relacje oparte na dialogu o sztuce. 
 * **Wizyty na targach i eventach związanych ze sztuką**. Dzięki nam nic Cię nie ominie, zadbamy o zaproszenia na najważnieszje wydarzenia. 
 * **Pomoc w znalezieniu specjalistów z zakresu konserwacji dzieł sztuki**. Współpracujemy z profesjonalnymi konserwatorami, którzy poradzą sobie z każdym medium.
-* **Pakowanie** - Znamy osoby, które przygotują dla Ciebie skrzynie, postument a nawet specjalne regały do domowego magazynu. 
+* **Pakowanie** - Znamy specjalistów, którzy przygotują dla Ciebie skrzynie, postument a nawet specjalne regały do domowego magazynu. 
 * **Transport** - Dzieła sztuki wymagają szczególnego traktowania i odpowiednio wyposażonego samochodu, współpracujemy tylko z zaufanymi i profesjonalnymi przewoźnikami.
 * **Ocenę autentyczności dzieł**- Dokładnie badamy proweniencje dzieł. 
 * **Ubezpieczenie kolekcji** - Zorganizujemy ubezpiecznie Twoich zbiorów.
 * **Aranżację kolekcji we wnętrzu** - Dzieła sztuki często wymagają przemyślanej ekspozycji w przestrzeni, pomożemy wybrać odpowiednie miejsce dla Twoich prac.
+
+  Jeśli chcesz dowiedzieć się więcej, zapraszam na rozmowę zapoznawczą. W trakcie spotkania opowiem o moim doświadczeniu, sposobie pracy oraz wybranych track recordach.
+
+  \    Joanna Sikorska |Art Advisor  
+
+  \
