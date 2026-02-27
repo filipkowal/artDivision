@@ -36,4 +36,4 @@ Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętr
 
    **Jeśli chcesz dowiedzieć się więcej, zapraszam na rozmowę zapoznawczą. W trakcie spotkania  opowiem o moim doświadczeniu, sposobie pracy oraz wybranych track recordach.**                                                                                                                         
 
-  [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska) art advisor
+  [Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska) | Art advisor
