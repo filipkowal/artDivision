@@ -1,12 +1,13 @@
 ---
-title: "  ART ADVISORY  doradztwo na rynku sztuki "
-metaDescription: Oferujemy opracowanie strategii kolekcjonowania dzieł sztuki.
-  Znajdziemy dla Ciebie dzieła sztuki z potencjałem inwestycyjnym.
-yoastKeyword: " dzieła sztuki"
+title: "  Art Advisory - Doradztwo na Rynku Sztuki "
+metaDescription: "Profesjonalne doradztwo na rynku sztuki. Art Advisory dla
+  kolekcjonerów: budowanie i rozwój kolekcji, analiza rynku i rekomendacje
+  zakupowe"
+yoastKeyword: "Art Advisory Doradztwo na Rynku Sztuki "
 date: 2023-09-27T09:16:54.443Z
 price: " Cena jest zależna od kwoty przeznaczonej na budowanie kolekcji dzieł sztuki."
 ---
-### **[Art advisory ](https://artdivision.pl)czyli doradztwo na rynku sztuki.**
+### **[Art advisory ](https://artdivision.pl),czyli Doradztwo na Rynku Sztuki.**
 
 Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętrza, niosą ze sobą wartość kulturową i są zapisem naszych czasów: myślenia, estetyki, wartości. Będą reprezentować nasz świat następnym pokoleniom. Są materialną refleksją i subiektywnym odczuciem tego co dookoła, pozwalają skierować nasze myśli na inny, nieznany wcześniej tor. 
 
