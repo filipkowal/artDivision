@@ -8,7 +8,7 @@ level: zaawansowany
 price: "5500  PLN "
 priceReduced: ""
 ---
-**Świadome kolekcjonowanie- sztuka współczesna i mechanizmy rynku sztuki**. 
+**Jak wygląda kurs o kolekcjonowaniu sztuki?**
 
 Indywidualne szkolenie łączy wprowadzenie do sztuki współczesnej z analizą  kluczowych mechanizmów rynku sztuki. Poznasz najważniejsze kierunki XX i XXI wieku, nauczysz się  oraz narzędzia pozwalające na samodzielną interpretację i ocenę wartości artystycznej dzieł. Równolegle omawiana jest  struktura rynku pierwotnego i wtórnego, modele kolekcjonowania oraz czynniki i sygnały rynkowe wpływające na wzrost wartości prac. Całość uzupełniają spotkania w galeriach i instytucjach sztuki, dzięki którym wiedza teoretyczna przekłada się na realne i świadome decyzje kolekcjonerskie.
 
@@ -20,7 +20,7 @@ Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o
 **Program:**
 
 * WPROWADZENIE: CHARAKTERYSTYKA RYNKU SZTUKI WSPÓŁCZESNEJ 
-*  HISTORIA SZTUKI: OD AKADEMIZMU DO WSPÓŁCZESNOŚCI 
+* HISTORIA SZTUKI: OD AKADEMIZMU DO WSPÓŁCZESNOŚCI 
 * HISTORIA POLSKIEJ SZTUKI WSPÓŁCZESNEJ Z ELEMENTAMI RYNKU
 * ANALIZA DZIEŁA SZTUKI WEDŁUG METODY ERWINA PANOFSKY'EGO 
 * WARTOŚĆ ARTYSTYCZNA DZIEŁA W KONTEKŚCIE RYNKU SZTUKI 
