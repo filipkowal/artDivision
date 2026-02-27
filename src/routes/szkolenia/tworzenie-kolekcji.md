@@ -19,25 +19,24 @@ Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o
 
 **Program:**
 
-* Wprowadzenie: Charakterystyka rynku sztuki współczesnej.
-* Historia sztuki od akademizmu do współczesności 
-* Historia polskiej sztuki współczesnej z elementami rynku sztuki
-* Analiza formalna i znaczeniowa dzieła sztuki według metody Erwina Panowsky'ego 
-* Wartość artystyczna dzieła w kontekście rynku sztuki 
-* Kolekcje muzealne - wpływ instytucji na rynek 
-* Kolekcje prywatne – strategie kolekcjonowania, jak robią to najlepsi?
-* Rynek pierwotny - galerie sztuki 
-* Rynek wtórny – aukcje dzieł sztuki
-* Zagrożenia na rynku dzieł sztuki – abecadło bezpiecznej inwestycji
-* Targi sztuki, wydarzenia branżowe, gdzie warto bywać ?
-* Co wpływa na cenę dzieła sztuki? Jak określić potencjał wzrostu cen?
-* Mechanizmy i struktura polskiego rynku sztuki w kontekście inwestowania
-* Procesy kształtujące obieg dzieł i pozycje artysty
-* Sztuka młodych – jak szukać artystów z potencjałem ?
-* Wizyta w wybranych galeriach i intytucjach sztuki w Warszawie lub Krakowie
-* Praca z dziełami  ,,na żywo''
-* Omówienie aktualnych zjawisk rynkowych 
-* Podsumowanie: Pytania i odpowiedzi 
+* WPROWADZENIE: CHARAKTERYSTYKA RYNKU SZTUKI WSPÓŁCZESNEJ 
+*  HISTORIA SZTUKI: OD AKADEMIZMU DO WSPÓŁCZESNOŚCI 
+* HISTORIA POLSKIEJ SZTUKI WSPÓŁCZESNEJ Z ELEMENTAMI RYNKU
+* ANALIZA DZIEŁA SZTUKI WEDŁUG METODY ERWINA PANOFSKY'EGO 
+* WARTOŚĆ ARTYSTYCZNA DZIEŁA W KONTEKŚCIE RYNKU SZTUKI 
+* KOLEKCJE MUZEALNE - WPŁYW INSTYTUCJI NA RYNEK 
+* KOLEKCJE PRYWATNE: MODELE I STRATEGIE KOLEKCJONOWANIA, JAK ROBIĄ TO NAJLEPSI ?
+* RYNEK PIERWOTNY - GALERIE SZTUKI 
+* RYNEK WTÓRNY - AUKCJE DZIEŁ SZTUKI 
+* ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI - JAK BEZPIECZNIE INWESTOWAĆ ?
+* TARGI SZTUKI, WYDARZENIA BRANŻOWE, GDZIE WARTO BYĆ ?
+* CO WPŁYWA NA CENĘ DZIEŁA SZTUKI? JAK OKREŚLIĆ POTENCJAŁ WZROSTU CEN?
+* MECHANIZMY U STRUKTURY POLSKIEGO RYNKU SZTUKI W KONTEKSĆIE INWESTOWANIA
+* PROCESY KSZTAŁTUJĄCE OBIEG DZIEŁ I POZYCJE ARTYSTY 
+* SZTUKA MŁODYCH - JAK SZUKAĆ ARTYSTÓW Z POTENCJAŁEM?
+* WIZYTA W WYBRANYCH GALERIACH I INSTYTUCJACH SZTUKI W WARSZAWIE LUB KRAKOWIE 
+* PRACA Z DZIEŁAMI ,, NA ŻYWO'' I OMÓWIENIE AKTUALNYCH ZJAWISK RYNKOWYCH 
+* PODSUMOWANIE; PYTANIA I ODPOWIEDZI 
 
 Część teoretyczna kursu indywidualnego jest prowadzona online -  na żywo (ok.20 godzin). Terminy spotkań są ustalane indywidualnie. 
 
