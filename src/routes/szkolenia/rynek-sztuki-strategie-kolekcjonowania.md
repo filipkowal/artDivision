@@ -8,7 +8,12 @@ price: "3000 PLN "
 ---
 Indywidualne szkolenie przedstawia kluczowe mechanizmy rynku sztuki oraz główne modele kolekcjonowania. Omawimy strukturę rynku i procesy, które kształtują obieg oraz wartość dzieł- od momentu wejścia artysty na rynek po długofalowe budowanie jego pozycji. Program opiera się na analizie rzeczywistych przykładów i przygotowuje do podejmowania świadomych decyzji kolekcjonerskich.
 
-PROGRAM:
+**Prowadząca**: \
+**[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+
+Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka Zarządzania na Rynku Dzieł Sztuki UW. Od siedmiu lat specjalizuje się w edukacji dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
+
+**PROGRAM**:
 
 * WPROWADZENIE DO RYNKU SZTUKI WSPÓŁCZESNEJ 
 * STRUKTURA RYNKU: RYNEK PIERWOTNY I RYNEK WTÓRNY 
@@ -21,7 +26,5 @@ PROGRAM:
 * ZAGROŻENIA NA RYNKU DZIEŁ SZTUKI 
 * NAJCZĘSTSZE BŁEDY POCZĄTKUJĄCYCH KOLEKCJONERÓW- JAK ICH UNIKNĄĆ
 * WIZYTA W GALERII SZTUKI LUB DOMU AUKCYJNYM 
-
-
 
 Szkolenie obejmuje 10 godzin indywidualnych spotkań online w elastycznych harmonogramie. Po części teoretycznej odbywa się dwugodzinna wizyta we wspólnie wybranej prywatnej galerii sztuki lub domu aukcyjnym w Warszawie lub Krakowie.
