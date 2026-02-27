@@ -4,7 +4,7 @@ metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościo
   kolekcji dzieł sztuki. "
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
 date: 2023-09-27T09:22:21.988Z
-level: zaawansowany
+level: zaawansowane
 price: "5500  PLN "
 priceReduced: ""
 ---
