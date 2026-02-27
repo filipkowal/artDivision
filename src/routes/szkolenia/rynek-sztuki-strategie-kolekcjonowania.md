@@ -12,10 +12,10 @@ Indywidualne szkolenie przedstawia kluczowe mechanizmy rynku sztuki oraz główn
 
 ### **Co zyskasz?**
 
-* Zrozumienie struktury rynku sztuki - jak funkcjonuje rynek pierwotny i wtórny oraz czym różnią się te modele sprzedaży 
-* Umiejętność analizy cen - dowiesz się jak interpretować dane rynkowe, będziesz miał świadomość czynników wpływających na wzrost cen 
-* Ocenę wiarygodności źródeł zakupu - Będziesz wiedział które oferty są dla Ciebie najkorzystniejsze 
-* Wiedzę o zagrożeniach na rynku - dowiesz się jak rozpoznać falsyfikat i dzieło o niskim potencjale inwestycyjnym 
+* Zrozumienie struktury rynku sztuki - jak funkcjonuje rynek pierwotny i wtórny oraz czym różnią się te modele sprzedaży. 
+* Umiejętność analizy cen - dowiesz się jak interpretować dane rynkowe, będziesz miał świadomość czynników wpływających na wzrost cen. 
+* Ocenę wiarygodności źródeł zakupu - Będziesz wiedział które oferty są dla Ciebie najkorzystniejsze.
+* Wiedzę o zagrożeniach na rynku - dowiesz się jak rozpoznać falsyfikat i dzieło o niskim potencjale inwestycyjnym.
 * Pewność w podejmowaniu decyzji  na rynku sztuki - jak budować spójną i wartościową kolekcję opartą na analizie i wiedzy.
 
 ### **Prowadząca**: 
