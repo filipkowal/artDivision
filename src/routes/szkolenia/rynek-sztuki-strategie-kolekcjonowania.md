@@ -18,7 +18,8 @@ Indywidualne szkolenie przedstawia kluczowe mechanizmy rynku sztuki oraz główn
 * Wiedzę o zagrożeniach na rynku - dowiesz się jak rozpoznać falsyfikat i dzieło o niskim potencjale inwestycyjnym 
 * Pewność w podejmowaniu decyzji  na rynku sztuki - jak budować spójną i wartościową kolekcję opartą na analizie i wiedzy.
 
-**Prowadząca**: \
+### **Prowadząca**: 
+
 **[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka zarządzania na rynku dzieł sztuki UW. Od siedmiu lat specjalizuje się w edukacji dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
