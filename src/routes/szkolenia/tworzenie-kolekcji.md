@@ -10,14 +10,12 @@ priceReduced: ""
 ---
 **Świadome kolekcjonowanie- sztuka współczesna i mechanizmy rynku sztuki**. 
 
-Indywidualne szkolenie łączy wprowadzenie do sztuki współczesnej z analizą  kluczowych mechanizmów rynku sztuki. Poznasz najważniejsze kierunki XX i XXI wieku, nauczysz się  oraz narzędzia pozwalające na samodzielną interpretację i ocenę wartości artystycznej dzieł. Równolegle omawiana jest  struktura rynku pierwotnego i wtórnego, modele kolekcjonowania oraz czynniki i sygnały rynkowe wpływające na wzrost wartości prac. Całość  uzupełniają spotkania w galeriach i instytucjach sztuki, dzięki którym wiedza teoretyczna przekłada się na realne i świadome decyzje kolekcjonerskie.
+Indywidualne szkolenie łączy wprowadzenie do sztuki współczesnej z analizą  kluczowych mechanizmów rynku sztuki. Poznasz najważniejsze kierunki XX i XXI wieku, nauczysz się  oraz narzędzia pozwalające na samodzielną interpretację i ocenę wartości artystycznej dzieł. Równolegle omawiana jest  struktura rynku pierwotnego i wtórnego, modele kolekcjonowania oraz czynniki i sygnały rynkowe wpływające na wzrost wartości prac. Całość uzupełniają spotkania w galeriach i instytucjach sztuki, dzięki którym wiedza teoretyczna przekłada się na realne i świadome decyzje kolekcjonerskie.
 
 **Prowadząca**: \
 **[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
 Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka Zarządzania na Rynku Dzieł Sztuki UW. Od siedmiu lat specjalizuje się w edukacji dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
-
-
 
 **Program:**
 
