@@ -17,9 +17,7 @@ priceReduced: ""
   Prowadząca: adwokatka Amelia Krajewska
 
 Szkolenie trwa od godziny 11.00 do 18.00 z godzinną przerwą.
-Termin najbliższego szkolenia:\
+Termin najbliższego szkolenia podamy wkrótce \
 Kurs online odbędzie się za pomocą łatwej w obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji na żywo.
-
-
 
 ,,Szkolenie ma charakter edukacyjny i informacyjny. Nie stanowi porady prawnej ani podatkowej''
