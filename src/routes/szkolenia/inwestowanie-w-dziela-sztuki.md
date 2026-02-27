@@ -1,5 +1,5 @@
 ---
-title: Sztuka współczesna - jak interpretować dzieła sztuki ?
+title: Sztuka współczesna - jak interpretować dzieła sztuki?
 metaDescription: "Szkolenie wprowadzające do historii sztuki współczesnej "
 yoastKeyword: sztuka współczesna
 date: 2022-10-19T21:29:45.570Z
