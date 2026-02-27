@@ -6,12 +6,14 @@ date: 2026-02-19T22:13:36.196Z
 level: "zaawansowane "
 price: "3000 PLN "
 ---
-Indywidualne szkolenie przedstawia kluczowe mechanizmy rynku sztuki oraz główne modele kolekcjonowania. Omawimy strukturę rynku i procesy, które kształtują obieg oraz wartość dzieł- od momentu wejścia artysty na rynek po długofalowe budowanie jego pozycji. Program opiera się na analizie rzeczywistych przykładów i przygotowuje do podejmowania świadomych decyzji kolekcjonerskich.
+## Rynek sztuki - strategie kolekcjonowania 
+
+Indywidualne szkolenie przedstawia kluczowe mechanizmy rynku sztuki oraz główne modele kolekcjonowania. Omawiamy strukturę rynku i procesy, które kształtują obieg oraz wartość dzieł- od momentu wejścia artysty na rynek po długofalowe budowanie jego pozycji. Program opiera się na analizie rzeczywistych przykładów i przygotowuje do podejmowania świadomych decyzji kolekcjonerskich.
 
 **Prowadząca**: \
 **[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
-Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka Zarządzania na Rynku Dzieł Sztuki UW. Od siedmiu lat specjalizuje się w edukacji dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
+Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka zarządzania na rynku dzieł sztuki UW. Od siedmiu lat specjalizuje się w edukacji dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
 
 **PROGRAM**:
 
