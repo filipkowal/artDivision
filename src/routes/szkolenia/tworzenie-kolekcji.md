@@ -5,37 +5,42 @@ metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościo
 yoastKeyword: "kurs inwestowanie w dzieła sztuki "
 date: 2023-09-27T09:22:21.988Z
 level: zaawansowany
-price: 5500  PLN  +23%VAT
+price: "5500  PLN "
 priceReduced: ""
 ---
-**Kurs inwestowanie w dzieła sztuki -**  to szkolenie wysposaży Cię wiedzę, która umożliwi Ci świadome poruszanie się po rynku sztuki. Dzięki szkoleniu stworzysz wartościową kolekcję sztuki. Nie musisz mieć wiedzy z zakresu sztuki żeby wziąć udział w szkoleniu - wszystkiego dowiesz się na kursie. Szkolenie jest indywidualne - dostowsowane do Twoich preferencji, które ustalamy na początku szkolenia. 
+**Świadome kolekcjonowanie- sztuka współczesna i mechanizmy rynku sztuki**. 
 
-Jeśli ciekawi Cię, jak działa rynek sztuki? Zastanawia Cię, gdzie tkwi haczyk sprawiający, że jedne prace są coraz droższe, a inne idą w zapomnienie? Dlaczego akurat prace Fangora i Abakanowicz biją aukcyjne rekordy? Chcesz dowiedzieć się gdzie szukać artystów z potencjałem? Jak określić wartość rynkową dzieła i co robić, aby uniknąć nietrafionej inwestycji? Weź udział w szkoleniu i poznaj mechanizmy rynku sztuki. 
-Naucz się najważniejszych zagadnień z zakresu sztuki współczesnej i odkryj tajniki najlepszych kolekcjonerów.
+Indywidualne szkolenie łączy wprowadzenie do sztuki współczesnej z analizą  kluczowych mechanizmów rynku sztuki. Poznasz najważniejsze kierunki XX i XXI wieku, nauczysz się  oraz narzędzia pozwalające na samodzielną interpretację i ocenę wartości artystycznej dzieł. Równolegle omawiana jest  struktura rynku pierwotnego i wtórnego, modele kolekcjonowania oraz czynniki i sygnały rynkowe wpływające na wzrost wartości prac. Całość  uzupełniają spotkania w galeriach i instytucjach sztuki, dzięki którym wiedza teoretyczna przekłada się na realne i świadome decyzje kolekcjonerskie.
 
-Kurs prowadzi: art advisorka, ekspertka rynku sztuki i twórczyni podcastu: Wszystko o Rynku Sztuki - **[Joanna Sikorska ](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
+**Prowadząca**: \
+**[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
 
-Podcast dostępny jest na **[YouTube](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA)** i **[Spotify ](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)**
+Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka Zarządzania na Rynku Dzieł Sztuki UW. Od siedmiu lat specjalizuje się w edukacji dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
 
-Część teoretyczna kursu indywidualnego jest prowadzona w formie  online- na żywo. Część
-praktyczna obejmuje wizyty w instytucjach sztuki w towarzystwie art advisorki Joanny Sikorskiej. Cały kurs trwa około 25 godzin.
+
 
 **Program:**
 
 * Wprowadzenie: Charakterystyka rynku sztuki współczesnej.
-* Historia światowej sztuki współczesnej z elementami rynku sztuki  
+* Historia sztuki od akademizmu do współczesności 
 * Historia polskiej sztuki współczesnej z elementami rynku sztuki
-* Analiza dzieła sztuki - określenie wartości artystycznej
-* Kolekcje muzealne – strategie kolekcjonowania
+* Analiza formalna i znaczeniowa dzieła sztuki według metody Erwina Panowsky'ego 
+* Wartość artystyczna dzieła w kontekście rynku sztuki 
+* Kolekcje muzealne - wpływ instytucji na rynek 
 * Kolekcje prywatne – strategie kolekcjonowania, jak robią to najlepsi?
-* Rynek pierwotny - galerie sztuki – którą wybrać?
+* Rynek pierwotny - galerie sztuki 
 * Rynek wtórny – aukcje dzieł sztuki
 * Zagrożenia na rynku dzieł sztuki – abecadło bezpiecznej inwestycji
-* Targi sztuki, wydarzenia branżowe
-* Co wpływa na cenę dzieła sztuki? Kiedy cena może spaść?
+* Targi sztuki, wydarzenia branżowe, gdzie warto bywać ?
+* Co wpływa na cenę dzieła sztuki? Jak określić potencjał wzrostu cen?
 * Mechanizmy i struktura polskiego rynku sztuki w kontekście inwestowania
-* Wyjście z inwestycji -  określenie najlepszego czasu i miejsca sprzedaży
-* Sztuka młodych – gdzie i jak szukać, czyją prace kupić?
-* Wizyta w wspólnie wybranych galeriach i instytucjach kultury w Warszawie lub Krakowie
+* Procesy kształtujące obieg dzieł i pozycje artysty
+* Sztuka młodych – jak szukać artystów z potencjałem ?
+* Wizyta w wybranych galeriach i intytucjach sztuki w Warszawie lub Krakowie
+* Praca z dziełami  ,,na żywo''
+* Omówienie aktualnych zjawisk rynkowych 
+* Podsumowanie: Pytania i odpowiedzi 
 
-Część teoretyczna indywidualnego kursu online trwa około 20 godzin zegarowych. Terminy i czas spotkań są ustalane na bieżąco z kursantem. Szkolenie odbywa się przy pomocy prostej w obsłudze platformy webinarowej, która daje możliwość swobodnej komunikacji na żywo. Po zakończeniu części teoretycznej odwiedzamy wspólnie wybrane galerie i instytucje sztuki współczesnej w Warszawie lub Krakowie – czas około 5 godzin.
+Część teoretyczna kursu indywidualnego jest prowadzona online -  na żywo (ok.20 godzin). Terminy spotkań są ustalane indywidualnie. 
+
+Część praktyczna obejmuje wizyty w galeriach i instytucjach sztuki wraz z prowadzącą (ok. 5 godzin)
