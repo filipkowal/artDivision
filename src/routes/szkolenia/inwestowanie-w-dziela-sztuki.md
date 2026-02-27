@@ -7,7 +7,7 @@ level: "zaawansowane "
 price: "3000 PLN "
 priceReduced: ""
 ---
-### Jak wygląda szkolenie ze sztuki współczesnje i interpretacji dzieł sztuki?
+### Jak wygląda szkolenie ze sztuki współczesnej i interpretacji dzieł sztuki?
 
 Indywidualne szkolenie łączące spotkania online z osobistą wizytą w muzeum. Podczas zajęć online omawiamy kluczowe kierunki sztuki współczesnej, analizujemy wybrane dzieła w kontekście historycznym, kulturowym, znaczeniowym i formalnym. Poznasz historie z życia artystów i dowiesz się co ukształtowało ich twórczość .
 
