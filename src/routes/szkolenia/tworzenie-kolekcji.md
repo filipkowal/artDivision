@@ -8,7 +8,7 @@ level: zaawansowany
 price: "5500  PLN "
 priceReduced: ""
 ---
-**Jak wygląda kurs o kolekcjonowaniu sztuki?**
+**Jak wygląda kurs o świadomym kolekcjonowaniu sztuki?**
 
 Indywidualne szkolenie łączy wprowadzenie do sztuki współczesnej z analizą  kluczowych mechanizmów rynku sztuki. Poznasz najważniejsze kierunki XX i XXI wieku, nauczysz się  oraz narzędzia pozwalające na samodzielną interpretację i ocenę wartości artystycznej dzieł. Równolegle omawiana jest  struktura rynku pierwotnego i wtórnego, modele kolekcjonowania oraz czynniki i sygnały rynkowe wpływające na wzrost wartości prac. Całość uzupełniają spotkania w galeriach i instytucjach sztuki, dzięki którym wiedza teoretyczna przekłada się na realne i świadome decyzje kolekcjonerskie.
 
