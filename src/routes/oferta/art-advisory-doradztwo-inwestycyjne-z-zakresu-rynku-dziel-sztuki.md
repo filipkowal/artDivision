@@ -28,7 +28,7 @@ Art advisory to profesjonalne doradztwo na rynku sztuki, które wspiera kolekcjo
 * **Wyszukiwanie najlepiej rokujących ofert na rynku dzieł sztuki**. Jesteśmy na bieżąco - odwiedzamy preview wystaw, targi i pracownie artystów. Szybko reagujemy na prace z potencjałem. 
 * **Negocjowanie najkorzystniejszych warunków kupna i sprzedaży dla klienta.** Dzięki  naszym wypracowanym relacjom w galeriach możesz liczyć na zniżki. 
 * **Wspólne odwiedzanie wystaw w galeriach i instytucjach sztuki**- Dbamy o [edukację ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)naszych klientów, organizujemy oprowadzania po wystawach w galeriach. Tworzymy relacje oparte na dialogu o sztuce. 
-* **Wizyty na targach i eventach związanych ze sztuką**. Dzięki nam nic Cię nie ominie, zadbamy o zaproszenia na najważnieszje wydarzenia. 
+* **Wizyty na targach i eventach związanych ze sztuką**. Dzięki nam nic Cię nie ominie, zadbamy o zaproszenia na najważnieszjsze wydarzenia. 
 * **Pomoc w znalezieniu specjalistów z zakresu konserwacji dzieł sztuki**. Współpracujemy z profesjonalnymi konserwatorami, którzy poradzą sobie z każdym medium.
 * **Pakowanie** - Znamy specjalistów, którzy przygotują dla Ciebie skrzynie, postument a nawet specjalne regały do domowego magazynu. 
 * **Transport** - Dzieła sztuki wymagają szczególnego traktowania i odpowiednio wyposażonego samochodu, współpracujemy tylko z zaufanymi i profesjonalnymi przewoźnikami.
