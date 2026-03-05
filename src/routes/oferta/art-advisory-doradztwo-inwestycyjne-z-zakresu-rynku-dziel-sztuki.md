@@ -1,15 +1,17 @@
 ---
-title: "  Art Advisory - Doradztwo na Rynku Sztuki "
-metaDescription: "Profesjonalne doradztwo na rynku sztuki. Art Advisory dla
-  kolekcjonerów: budowanie i rozwój kolekcji, analiza rynku i rekomendacje
-  zakupowe"
-yoastKeyword: "Art Advisory Doradztwo na Rynku Sztuki "
+title: "  Art advisory - doradztwo na rynku sztuki "
+metaDescription: "Art advisory i doradztwo na rynku sztuki dla kolekcjonerów.
+  Pomoc w budowaniu kolekcji, zakupie dzieł sztuki oraz podejmowaniu świadomych
+  decyzji inwestycyjnych "
+yoastKeyword: doradztwo na rynku sztuki
 date: 2023-09-27T09:16:54.443Z
 price: " Cena jest zależna od kwoty przeznaczonej na budowanie kolekcji dzieł sztuki."
 ---
-### **[Art Advisory](https://artdivision.pl) - czyli Doradztwo na Rynku Sztuki.**
+### **[Art advisory](https://artdivision.pl) -  doradztwo na rynku sztuki.**
 
-Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętrza, niosą ze sobą wartość kulturową i są zapisem naszych czasów: myślenia, estetyki, wartości. Będą reprezentować nasz świat następnym pokoleniom. Są materialną refleksją i subiektywnym odczuciem tego co dookoła, pozwalają skierować nasze myśli na inny, nieznany wcześniej tor. 
+Art advisory to profesjonalne doradztwo na rynku sztuki, które wspiera kolekcjonerów w budowaniu wartościowych i spójnych kolekcji. Doradztwo obejmuje analizę rynku, wsparcie przy wyborze dzieł oraz tworzenie strategii kolekcjonowania dostosowanej do preferencji i celów kolekcjonera. 
+
+ Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętrza, niosą ze sobą wartość kulturową i są zapisem naszych czasów: myślenia, estetyki, wartości. Będą reprezentować nasz świat następnym pokoleniom. Są materialną refleksją i subiektywnym odczuciem tego co dookoła, pozwalają skierować nasze myśli na inny, nieznany wcześniej tor. 
 
   Sztuka może onieśmielać – czasami trudno od razu ją zrozumieć. Jeszcze trudniej pojąć zależność od tego co widzimy np. na obrazie, a jego ceną. Jak jedno wpływa na drugie? Wartość rynkowa niektórych, wydawałoby się – niepozornych dzieł, może zaskakiwać. Skąd wiedzieć, którego młodego artysty prace zyskają z czasem na wartości? Dlaczego na prace niektórych artystów trzeba czekać w kolejce? Jak nie nabrać się na falsyfikat? 
 
