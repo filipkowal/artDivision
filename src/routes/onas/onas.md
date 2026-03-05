@@ -15,4 +15,4 @@ Zapewniamy kompleksową opiekę, tak by nabywanie dzieł sztuki było nie tylko 
 \
 **Art Division / Advisory** to również źródło informacji o kolekcjonowaniu dzieł sztuki. Prowadzimy podcast **[Wszystko o Rynku Sztuki](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)** w którym przedstawiamy najważniejsze zjawiska, wydarzenia, sylwetki artystów oraz kolekcjonerów, a także liczne nieprawidłowości w obszarze rynku sztuki.\
 \
-*Świadome kolekcjonowanie dzieł sztuki pozwala nie tylko obcować z pięknem, ale także  daje możliwość budowania kapitału kulturowego i materialnego. Art Division / Advisory to twój przewodnik po labiryncie rynku sztuki, który pomaga zrozumieć jego mechanizmy i wspiera w budowaniu wartościowych kolekcji dzieł sztuki*
+*Świadome kolekcjonowanie dzieł sztuki pozwala nie tylko obcować z pięknem, ale także  daje możliwość budowania kapitału kulturowego i materialnego. Art Division / Advisory to przewodnik po labiryncie rynku sztuki, który pomaga zrozumieć jego mechanizmy i wspiera w budowaniu wartościowych kolekcji dzieł sztuki*
