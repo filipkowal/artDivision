@@ -1,5 +1,5 @@
 ---
-filename: artadvisor-joannasikorska
+filename: "joanna-sikorska-art-advisor "
 title: Joanna  Sikorska
 metaDescription: Joanna Sikorska - art advisor i ekspertka rynku sztuki.
   Doradztwo przy budowaniu kolekcji dzieł sztuki, strategie kolekcjonerskie i
