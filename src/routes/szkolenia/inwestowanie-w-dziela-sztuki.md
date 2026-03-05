@@ -1,7 +1,8 @@
 ---
-title: Sztuka współczesna - jak interpretować dzieła sztuki?
-metaDescription: "Szkolenie wprowadzające do historii sztuki współczesnej "
-yoastKeyword: sztuka współczesna
+title: " Szkolenie: Sztuka współczesna - jak interpretować dzieła sztuki?"
+metaDescription: "Szkolenie ze sztuki współczesnej uczące interpretacji dzieł
+  sztuki współczesnej oraz analizy najważniejszych kierunków "
+yoastKeyword: "sztuka współczesna szkolenie "
 date: 2022-10-19T21:29:45.570Z
 level: "zaawansowane "
 price: "3000 PLN "
@@ -9,13 +10,13 @@ priceReduced: ""
 ---
 ### Jak wygląda szkolenie ze sztuki współczesnej i interpretacji dzieł sztuki?
 
-Indywidualne szkolenie łączące spotkania online z osobistą wizytą w muzeum. Podczas zajęć online omawiamy kluczowe kierunki sztuki współczesnej, analizujemy wybrane dzieła w kontekście historycznym, kulturowym, znaczeniowym i formalnym. Poznasz historie z życia artystów i dowiesz się co ukształtowało ich twórczość .
+Indywidualne szkolenie ze sztuki współczesnej łączące spotkania online z osobistą wizytą w muzeum. Podczas zajęć online omawiamy kluczowe kierunki sztuki współczesnej, analizujemy wybrane dzieła w kontekście historycznym, kulturowym, znaczeniowym i formalnym. Poznasz historie z życia artystów i dowiesz się co ukształtowało ich twórczość. Kurs sztuki współczesnej daje nie tylko wiedzę, ale także rozwija  umiejętność rozumienia i interpretacji dzieł sztuki współczesnej.
 
   **Co zyskasz?**
 
 * Wiedzę o sztuce współczesnej. Zdobędziesz solidne podstawy z historii sztuki XX i XXI wieku przedstawione w jasny i przystępny sposób.
 * Umiejętność analizy dzieła sztuki: nauczysz się interpretować prace krok po kroku i rozpoznasz te o wysokiej wartości artystycznej. 
-* Znajomość języka symboli, archetypów i znaków którym posługują się  współcześni artyści. 
+* Znajomość języka symboli, archetypów i znaków którymi posługują się  współcześni artyści. 
 * Zrozumienie kierunków i idei, które ukształtowały współczesną scenę artystyczną
 * Historie z życia artystów: poznasz biograficzne wątki i życiowe doświadczenia, które  wpłynęły na twórczość znanych artystów. 
 
