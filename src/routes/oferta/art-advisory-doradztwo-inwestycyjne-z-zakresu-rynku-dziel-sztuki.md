@@ -9,7 +9,7 @@ price: " Cena jest zależna od kwoty przeznaczonej na budowanie kolekcji dzieł 
 ---
 ### **[Art advisory](https://artdivision.pl) -  doradztwo na rynku sztuki.**
 
- Profesjonalne doradztwo na rynku sztuki, które wspiera kolekcjonerów w budowaniu wartościowych i spójnych kolekcji. Doradztwo obejmuje analizę rynku, wsparcie przy wyborze dzieł oraz tworzenie strategii kolekcjonowania dostosowanej do preferencji i celów kolekcjonera. 
+Profesjonalne doradztwo na rynku sztuki, które wspiera kolekcjonerów w budowaniu wartościowych i spójnych kolekcji. Doradztwo obejmuje analizę rynku, wsparcie przy wyborze dzieł oraz tworzenie strategii kolekcjonowania dostosowanej do preferencji i celów kolekcjonera. 
 
  Dzieła sztuki to wyjątkowe aktywa. Oprócz pełnienia funkcji dekoracji wnętrza, niosą ze sobą wartość kulturową i są zapisem naszych czasów: myślenia, estetyki, wartości. Będą reprezentować nasz świat następnym pokoleniom. Są materialną refleksją i subiektywnym odczuciem tego co dookoła, pozwalają skierować nasze myśli na inny, nieznany wcześniej tor. 
 
