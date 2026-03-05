@@ -10,7 +10,7 @@ price: "3000 PLN "
 ---
 ### O szkoleniu z rynku sztuki:
 
-Indywidualne szkolenie  przedstawia kluczowe mechanizmy rynku sztuki oraz główne modele kolekcjonowania. Omawiamy strukturę rynku i procesy, które kształtują obieg oraz wartość dzieł- od momentu wejścia artysty na rynek po długofalowe budowanie jego pozycji. Program opiera się na analizie rzeczywistych przykładów i przygotowuje do podejmowania świadomych decyzji kolekcjonerskich i inwestycyjnych. Szkolenie skierowane jest do osób zaintersowanych rynkiem sztuki, kolekcjonowaniem oraz inwestowaniem w dzieła sztuki. Kurs rynku sztuki pozwala lepiej zrozumieć funkcjonowanie rynku i przygotowuje do samodzielnych zakupów. 
+Indywidualne szkolenie  przedstawia kluczowe mechanizmy rynku sztuki oraz główne modele kolekcjonowania. Omawiamy strukturę rynku i procesy, które kształtują obieg oraz wartość dzieł- od momentu wejścia artysty na rynek po długofalowe budowanie jego pozycji. Program opiera się na analizie rzeczywistych przykładów i przygotowuje do podejmowania świadomych decyzji kolekcjonerskich i inwestycyjnych. Szkolenie skierowane jest do osób zaintersowanych rynkiem sztuki, kolekcjonowaniem oraz inwestowaniem w dzieła sztuki. Kurs rynku sztuki pozwala lepiej zrozumieć jego mechanizmy i przygotowuje do samodzielnych zakupów. 
 
 ### **Co zyskasz?**
 
