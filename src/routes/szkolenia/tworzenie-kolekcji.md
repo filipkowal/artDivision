@@ -1,16 +1,17 @@
 ---
-title: "Świadome kolekcjonowanie - sztuka współczesna i mechanizmy rynku sztuki "
-metaDescription: "Szkolenie dające wiedzę umożliwiająca tworzenie wartościowej
-  kolekcji dzieł sztuki. "
-yoastKeyword: "kurs inwestowanie w dzieła sztuki "
+title: "Szkolenie: Świadome kolekcjonowanie - sztuka współczesna i mechanizmy
+  rynku sztuki "
+metaDescription: "Szkolenie o kolekcjonowaniu sztuki współczesnej i mechanizmach
+  rynku. Dowiedz się jak budować wartościową kolekcje dzieł sztuki "
+yoastKeyword: kolekcjonowanie sztuki szkolenie
 date: 2023-09-27T09:22:21.988Z
 level: zaawansowane
 price: "5500  PLN "
 priceReduced: ""
 ---
-**Jak wygląda kurs o świadomym kolekcjonowaniu sztuki?**
+**Jak wygląda szkolenie o kolekcjonowaniu sztuki?**
 
-Indywidualne szkolenie łączy wprowadzenie do sztuki współczesnej z analizą  kluczowych mechanizmów rynku sztuki. Poznasz najważniejsze kierunki XX i XXI wieku, nauczysz się  oraz narzędzia pozwalające na samodzielną interpretację i ocenę wartości artystycznej dzieł. Równolegle omawiana jest  struktura rynku pierwotnego i wtórnego, modele kolekcjonowania oraz czynniki i sygnały rynkowe wpływające na wzrost wartości prac. Całość uzupełniają spotkania w galeriach i instytucjach sztuki, dzięki którym wiedza teoretyczna przekłada się na realne i świadome decyzje kolekcjonerskie.
+Indywidualne szkolenie łączy wprowadzenie do sztuki współczesnej z analizą  kluczowych mechanizmów rynku sztuki. Poznasz najważniejsze kierunki XX i XXI wieku, nauczysz się  oraz narzędzia pozwalające na samodzielną interpretację i ocenę wartości artystycznej dzieł. Równolegle omawiana jest  struktura rynku pierwotnego i wtórnego, modele kolekcjonowania oraz czynniki i sygnały rynkowe wpływające na wzrost wartości prac. Całość uzupełniają spotkania w galeriach i instytucjach sztuki, dzięki którym wiedza teoretyczna przekłada się na praktykę. Kurs kolekcjonowania sztuki daje wiedzę i narzędzia, dzięki którym unikniesz błędów początkującego kolekcjonera i nauczysz się podejmować świadome decyzje kolekcjonerskie i inwestycyjne. 
 
 **Prowadząca**: \
 **[Joanna Sikorska](https://artdivision.pl/zespol/artadvisor-joannasikorska)**
