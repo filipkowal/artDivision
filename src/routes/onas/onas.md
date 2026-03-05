@@ -2,7 +2,7 @@
 logo: /images/uploads/ad_logo_desktop.svg
 thumbnail: /images/uploads/ad._team.jpg
 ---
-**Art Division / Advisory** to agencja doradztwa na rynku sztuki specjalizująca się w budowaniu kolekcji dzieł sztuki oraz analizie rynku sztuki współczesnej \
+**Art Division / Advisory** to agencja doradztwa na rynku sztuki specjalizująca się w budowaniu kolekcji dzieł sztuki oraz edukacji w obszarze sztuki współczesnej.\
 \
 **Edukujemy**\
 Prześwietlamy mechanizmy rządzące rynkiem i treści niezbędne do zrozumienia sztuki współczesnej w stopniu, który pozwala na ocenę wartości artystycznej oraz rynkowej dzieła. Dzięki naszym szkoleniom poznasz rynek sztuki od strony najlepszych galerii, artystów, domów aukcyjnych i art dealerów. Jesteśmy prekursorami w edukowaniu z zakresu technologii cyfrowych w obszarze rynku sztuki. \
