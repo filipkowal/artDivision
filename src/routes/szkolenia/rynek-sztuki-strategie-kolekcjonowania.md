@@ -1,14 +1,16 @@
 ---
-title: "Rynek sztuki - strategie kolekcjonowania "
-metaDescription: "jak działa rynek sztuki "
-yoastKeyword: "rynek sztuki "
+title: " Szkolenie: Rynek sztuki - strategie kolekcjonowania dzieł sztuki "
+metaDescription: "Szkolenie o rynku sztuku i strategiach kolekcjonowania dzieł
+  sztuki. Dowiedz się jak działa rynek pierwotny i wtórny oraz jak stworzyć
+  kolekcje dzieł sztuki "
+yoastKeyword: rynek sztuki szkolenie
 date: 2026-02-19T22:13:36.196Z
 level: "zaawansowane "
 price: "3000 PLN "
 ---
-### O szkoleniu:
+### O szkoleniu z rynku sztuki:
 
-Indywidualne szkolenie przedstawia kluczowe mechanizmy rynku sztuki oraz główne modele kolekcjonowania. Omawiamy strukturę rynku i procesy, które kształtują obieg oraz wartość dzieł- od momentu wejścia artysty na rynek po długofalowe budowanie jego pozycji. Program opiera się na analizie rzeczywistych przykładów i przygotowuje do podejmowania świadomych decyzji kolekcjonerskich.
+Indywidualne szkolenie  przedstawia kluczowe mechanizmy rynku sztuki oraz główne modele kolekcjonowania. Omawiamy strukturę rynku i procesy, które kształtują obieg oraz wartość dzieł- od momentu wejścia artysty na rynek po długofalowe budowanie jego pozycji. Program opiera się na analizie rzeczywistych przykładów i przygotowuje do podejmowania świadomych decyzji kolekcjonerskich i inwestycyjnych. Szkolenie skierowane jest do osób zaintersowanych rynkiem sztuki, kolekcjonowaniem oraz inwestowaniem w dzieła sztuki. Kurs rynku sztuki pozwala lepiej zrozumieć funkcjonowanie rynku i przygotowuje do samodzielnych zakupów. 
 
 ### **Co zyskasz?**
 
@@ -24,7 +26,7 @@ Indywidualne szkolenie przedstawia kluczowe mechanizmy rynku sztuki oraz główn
 
 Art advisor, doradczyni z zakresu rynku sztuki i autorka podcastu [**Wszystko o Rynku Sztuki**.](https://www.youtube.com/channel/UC8xmdAKF-kPHQcuqkejSaqA) Magistra sztuki oraz absolwentka zarządzania na rynku dzieł sztuki UW. Od siedmiu lat specjalizuje się w edukacji dotyczącej inwestowania w dzieła sztuki oraz doradztwem przy budowaniu kolekcji. Kuratorka prywatnych kolekcji dzieł sztuki w Polsce i za granicą.
 
-### **PROGRAM**:
+### **PROGRAM SZKOLENIA**:
 
 * WPROWADZENIE DO RYNKU SZTUKI WSPÓŁCZESNEJ 
 * STRUKTURA RYNKU: RYNEK PIERWOTNY I RYNEK WTÓRNY 
