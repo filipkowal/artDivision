@@ -28,7 +28,7 @@ Plan kolekcji powstaje w oparciu o wieloletnie doświadczenie na rynku sztuki or
 
 ### **Dla kogo jest ta usługa?**
 
-Opracowanie strategii budowania kolekcji sztuki jest skierowana zarówno do osób, które dopiero rozważają rozpoczęcie kolekcjonowania, jak i do kolekcjonerów którzy chcą rozwijać swoją kolekcję w sposób bardziej świadomy i długoterminowy.
+Opracowanie strategii budowania kolekcji sztuki jest skierowana zarówno do osób, które dopiero rozważają rozpoczęcie kolekcjonowania, jak i do kolekcjonerów którzy chcą rozwijać swoje zbiory w sposób bardziej świadomy i długoterminowy.
 
 Dla osób rozpoczynających kolekcjonowanie strategia będzie pierwszym krokiem w budowaniu kolekcji - pomoże zrozumieć rynek, określić kierunek oraz wybrać artystów, którzy najlepiej odpowiadają zainteresowaniom kolekcjonera. Usługa jest również wartościowa dla kolekcjonerów posiadających już dzieła sztuki, chcących uporządkować lub rozwinąć swoją kolekcję w oparciu o analizę rynku oraz potencjał wzrostu wartości prac wybranych artystów.
 
