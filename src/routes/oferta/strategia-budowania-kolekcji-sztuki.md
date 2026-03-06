@@ -8,7 +8,7 @@ price: Od 4.000 PLN w zależności od zakresu projektu.
 ---
 ### Strategia budowania kolekcji sztuki
 
-Pytanie o to, jak zbudować kolekcję sztuki pojawia się często na początku drogi kolekcjonerskiej.  Budowanie kolekcji sztuki wymaga nie tylko intuicji, ale przede wszystkim wiedzy o rynku, artystach oraz długoterminowych trendach. Koncepcja kolekcji to proces, który pozwala zaplanować rozwój kolekcji w sposób świadomy i spójny z celami kolekcjonera.
+Pytanie o to, jak zbudować kolekcję sztuki pojawia się często na początku drogi kolekcjonerskiej.  Budowanie kolekcji sztuki wymaga nie tylko intuicji, ale przede wszystkim wiedzy o rynku, artystach oraz długoterminowych trendach. Koncepcja kolekcji to proces, który pozwala zaplanować jej rozwój w sposób świadomy i spójny z celami kolekcjonera.
 
 Usługa obejmuje opracowanie indywidualnej strategii kolekcjonowania, dopasowanej do budżetu, zainteresowań oraz perspektywy rozwoju kolekcji w czasie. Proces rozpoczyna się od konsultacji, podczas których omawiane są cele kolekcjonerskie, preferencje estetyczne oraz założenia budżetowe. 
 
