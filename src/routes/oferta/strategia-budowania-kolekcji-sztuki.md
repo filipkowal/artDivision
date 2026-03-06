@@ -19,7 +19,7 @@ Usługa obejmuje opracowanie indywidualnej strategii kolekcjonowania, dopasowane
 * Określenie kierunku i charakteru  kolekcji 
 * Selekcja artystów oraz obszarów rynku o potencjale wzrostu 
 * Analiza rynku i potencjału wzrostu prac 
-* Określenie optymalnego momentu zakupu lub sprzedaży prac 
+* Określenie optymalnego momentu zakupu prac 
 * Opracowanie starannie wyselekcjonowanej listy artystów dopasowanej do strategii kolekcji
 * Plan budowy kolekcji w długoterminowej perspektywie
 * Rekomendacje dotyczące pierwszych zakupów
