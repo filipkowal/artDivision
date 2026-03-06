@@ -4,8 +4,7 @@ metaDescription: Jak zbudować kolekcję sztuki? Opracowuję strategię
   kolekcjonowania, analizę rynku i plan zakupów dostosowany do budżetu
 yoastKeyword: "jak zbudować kolekcję sztuki "
 date: 2026-03-06T12:50:58.701Z
-price: "Cena strategii budowania kolekcji sztuki rozpoczyna się od 4.000 PLN i
-  zależy od zakresu projektu oraz budżetu kolekcji "
+price: Od 4.000 PLN w zależności od zakresu projektu.
 ---
 ### Strategia budowania kolekcji sztuki
 
