@@ -23,11 +23,12 @@ Profesjonalne zarządzanie kolekcją dzieł sztuki polega na realizacji wcześni
 * Doradztwo w zakresie zabezpieczenia i przechowywania dzieł
 * Doradztwo w zakresie ubezpieczenia prac - pomoc w znalezieniu profesjonalnego brokera
 * Wsparcie prawne (dodatkowo płatne)
-*
+
+
 
 ### Dla kogo jest ta usługa?
 
-Usługa jest skierowana do kolekcjonerów którzy chcą rozwijać swoje zbiory w sposób długoterminowy, a jednocześnie potrzebują wsparcia w kontaktach z galeriami, domami aukcyjnymi oraz w bieżącym zarządzaniu kolekcją. 
+Oferta jest skierowana do kolekcjonerów którzy chcą rozwijać swoje zbiory w sposób długoterminowy, a jednocześnie potrzebują wsparcia w kontaktach z galeriami, domami aukcyjnymi oraz w bieżącym zarządzaniu kolekcją. 
 
 Współpraca obejmuje realizację planu kolekcji, pozyskiwanie ofert oraz wsparcie organizacyjne i logistyczne związane z zakupem, transportem i opieką nad dziełami.
 
