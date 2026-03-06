@@ -23,7 +23,7 @@ Usługa obejmuje opracowanie indywidualnej strategii, dopasowanej do budżetu, z
 * Plan budowy kolekcji w długoterminowej perspektywie
 * Rekomendacje dotyczące pierwszych zakupów
 
-Plan kolekcji powstaje w oparciu o wieloletnie doświadczenie na rynku sztuki oraz praktykę pracy z kolekcjonerami jako art advisor, udokumentowaną w portfolio projektów kolekcjonerskich i doradczych.
+Plan kolekcji powstaje w oparciu o wieloletnie doświadczenie na rynku sztuki współczesnej oraz praktykę pracy z kolekcjonerami jako art advisor, udokumentowaną w portfolio projektów kolekcjonerskich i doradczych.
 
 ### **Dla kogo jest ta oferta?**
 
