@@ -12,7 +12,7 @@ Pytanie o to, jak zbudować kolekcję sztuki pojawia się często na początku d
 
 Usługa obejmuje opracowanie indywidualnej strategii, dopasowanej do budżetu, zainteresowań oraz perspektywy rozwoju kolekcji w czasie. Proces rozpoczyna się od konsultacji, podczas których omawiane są  preferencje estetyczne, założenia budżetowe oraz cele kolekcjonerskie.
 
-### **W ramach usługi :**
+### **W ramach usługi:**
 
 * Konsultacje dotyczące celu i kierunku rozwoju kolekcji dzieł sztuki
 * Analiza rynku sztuki i aktualnych trendów
