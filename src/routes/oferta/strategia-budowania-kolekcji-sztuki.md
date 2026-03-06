@@ -12,7 +12,7 @@ Pytanie o to, jak zbudować kolekcję sztuki pojawia się często na początku d
 
 Usługa obejmuje opracowanie indywidualnej strategii kolekcjonowania, dopasowanej do budżetu, zainteresowań oraz perspektywy rozwoju kolekcji w czasie. Proces rozpoczyna się od konsultacji, podczas których omawiane są cele kolekcjonerskie, preferencje estetyczne oraz założenia budżetowe. 
 
-####   **  W ramach strategii kolekcji:**
+#### **W ramach strategii kolekcji:**
 
 * Konsultacje dotyczące celów i kierunku budowy kolekcji
 * Analiza rynku sztuki i aktualnych trendów
@@ -26,7 +26,7 @@ Usługa obejmuje opracowanie indywidualnej strategii kolekcjonowania, dopasowane
 
 Plan kolekcji powstaje w oparciu o wieloletnie doświadczenie na rynku sztuki oraz praktykę pracy z kolekcjonerami jako art advisor, udokumentowaną w portfolio projektów kolekcjonerskich i doradczych.
 
-####   **  Dla kogo jest ta usługa?**
+#### **Dla kogo jest ta usługa?**
 
 Opracowanie strategii budowania kolekcji sztuki jest skierowana zarówno do osób, które dopiero rozważają rozpoczęcie kolekcjonowania, jak i do kolekcjonerów którzy chcą rozwijać swoją kolekcję w sposób bardziej świadomy i długoterminowy.
 
