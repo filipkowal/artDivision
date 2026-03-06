@@ -22,7 +22,8 @@ Profesjonalne zarządzanie kolekcją dzieł sztuki polega na realizacji wcześni
 * Doradztwo w zakresie konserwacji - pomoc w znalezieniu wykwalifikowanego specjalisty 
 * Doradztwo w zakresie zabezpieczenia i przechowywania dzieł
 * Doradztwo w zakresie ubezpieczenia prac - pomoc w znalezieniu profesjonalnego brokera
-* Wsparcie prawne (usługa dodatkowa)
+* Wsparcie prawne (dodatkowo płatne)
+*
 
 ### Dla kogo jest ta usługa?
 
