@@ -7,7 +7,7 @@ yoastKeyword: zarządzanie kolekcją sztuki
 date: 2026-03-06T16:13:00.130Z
 price: "Prowizja od zakupu lub opłata abonamentowa "
 ---
-###  Opieka nad kolekcją sztuki 
+###  Opieka nad kolekcją 
 
 Profesjonalne zarządzanie kolekcją dzieł sztuki polega na realizacji wcześniej opracowanego planu kolekcji oraz długoterminowej opiece nad jej rozwojem. Usługa obejmuje koordynację zakupów dzieł sztuki, pozyskiwanie ofert z galerii, negocjację oraz organizację wszystkich etapów transakcji  w tym transportu dzieł, aranżacji we wnętrzu, wypożyczeń oraz doradztwa w zakresie w konserwacji i ubezpieczenia.
 
