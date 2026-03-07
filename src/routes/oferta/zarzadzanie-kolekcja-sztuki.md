@@ -3,7 +3,7 @@ title: "Zarządzanie kolekcją sztuki "
 metaDescription: "Zarządzanie kolekcją sztuki obejmuje, pomoc w pozyskiwaniu
   ofert z rynku sztuki, transport, ubezpieczenie i sprawdzenie proweniencji "
 yoastKeyword: "zarządzanie kolekcją sztuki "
-date: 2026-03-07T18:17:01.985Z
+date: 2026-03-06T18:17:01.985Z
 price: "Prowizja od zakupu lub opłata abonamentowa "
 ---
 **Realizacja strategii kolekcjonowania** 
