@@ -4,7 +4,7 @@ metaDescription: Kompleksowe doradztwo dla kolekcjonerów sztuki. Wsparcie w
   budowaniu i rozwijaniu  kolekcji dzieł sztuki, analizie rynku sztuki oraz
   podejmowaniu decyzji kolekcjonerskich i inwestycyjnych
 yoastKeyword: "doradztwo na rynku sztuki "
-date: 2026-03-07T18:43:35.434Z
+date: 2026-03-03T18:57:00.733Z
 price: Prowizja od zakupów lub opłata abonamentowa
 ---
 Indywidualne doradztwo na rynku sztuki (Private Art Advisory)
