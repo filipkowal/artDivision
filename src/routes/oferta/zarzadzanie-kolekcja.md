@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie kolekcja
+title: Zarządzanie kolekcją
 metaDescription: "zarządzanie kolekcją "
 yoastKeyword: "zarządzanie "
 date: 2026-03-06T19:14:29.754Z
