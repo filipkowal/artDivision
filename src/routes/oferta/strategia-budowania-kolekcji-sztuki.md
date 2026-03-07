@@ -3,7 +3,7 @@ title: "Opracowanie strategii budowania kolekcji dzieł sztuki "
 metaDescription: Jak zbudować kolekcję sztuki? Opracowuję strategię
   kolekcjonowania, analizę rynku i plan zakupów dostosowany do budżetu
 yoastKeyword: " jak zbudować kolekcję sztuki "
-date: 2026-03-06T12:50:58.701Z
+date: 2024-09-04T11:50:58.701Z
 price: Od 4 000 PLN  w zależności od zakresu projektu i budżetu.
 ---
 ### Jak zbudować kolekcję sztuki?
