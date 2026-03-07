@@ -1,5 +1,5 @@
 ---
-title: "zarządzanie kolekcją sztuki "
+title: "Zarządzanie kolekcją sztuki "
 metaDescription: "strategia "
 yoastKeyword: zarządzanie kolekcją sztuki
 date: 2026-03-07T19:19:30.758Z
