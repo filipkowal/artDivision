@@ -1,7 +1,7 @@
 ---
-title: "zarządzanie "
+title: "zarządzanie kolekcją sztuki "
 metaDescription: "strategia "
-yoastKeyword: "strategia "
+yoastKeyword: zarządzanie kolekcją sztuki
 date: 2026-03-07T19:19:30.758Z
 price: "prowizja lub opłata abonamentowa "
 ---
