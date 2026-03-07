@@ -5,7 +5,7 @@ yoastKeyword: zarządzanie kolekcją sztuki
 date: 2026-03-07T19:19:30.758Z
 price: "prowizja lub opłata abonamentowa "
 ---
-### Realizacja strategii kolekcjonowania 
+### Koordynacja i obsługa kolekcji sztuki
 
 Profesjonalne zarządzanie kolekcją dzieł sztuki polega na realizacji wcześniej opracowanego planu kolekcji oraz długoterminowej opiece nad jej rozwojem. Usługa obejmuje koordynację zakupów dzieł sztuki, pozyskiwanie ofert z galerii, negocjację oraz organizację wszystkich etapów transakcji w tym transportu dzieł, aranżacji we wnętrzu, wypożyczeń oraz doradztwa w zakresie w konserwacji i ubezpieczenia.
 
