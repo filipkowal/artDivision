@@ -4,6 +4,39 @@ metaDescription: Doradztwo w zakresie inwestowania w dzieła sztuki. Analiza
   rynku, strategia zakupowa  oraz wsparcie przy  zakupie dzieł sztuki
 yoastKeyword: "inwestowanie w dzieła sztuki "
 date: 2026-03-09T11:58:20.781Z
-price: "ustalana indywidualnie "
+price: "ustalana indywidualnie - zależy od budżetu i wielkości projektu "
 ---
-Inwestowanie w dzieła sztuki
+Inwestowanie w dzieła sztuki współczesnej 
+
+Dzieła sztuki wspóczesnej należą do klasy aktywów alternatywnych, które mogą stanowić element dywersyfikacji portfela inwestycyjnego. W raportach takich jak Art Basel & UBS Global Art Market Report wskazuje się, że rynek sztuki pozostaje w stosunkowo niewielkim stopniu powiązany z tradycyjnymi rynkami finansowymi. 
+
+Inwestowanie w dzieła sztuki dotyczy aktywów o charakterze materialnym pozostająch w bezpośrednim posiadaniu kolekcjonera. Wartość dzieła sztuki kształtowana jest przez pozycję artysty na rynku, wartość artystyczną dzieł oraz miejsce w kontekście historii sztuki i obiegu instytucjonalnego. 
+
+Historia rynku sztuki pokazuje również, że jego dynamika czsto różni się od zachowania rynków kapitałowych. W czasie globalnego kryzysu finansowego w latach 2007 -2008 rynek sztuki odczuł spowolnienie, jednak w kolejnych latach wiele segmentów - szczególnie w obszarze sztuki współczesnej powróciło do wzrostów. Trzeba pamiętać, że na rynku sztuki działa się długoterminowo i skuteczność przynosi znajomość  mechanizmów i wiedza z zakresu sztuki 
+
+Doradztwo obejmuje wsparcie w procesie inwestowania w sztukę współczesną- od opracowania strategii inwestycyjnej i zakupowej, po identyfikację oraz zakup dzieł zgodnych z przyjętymi założeniami. Wieloletnie monitorowanie rynku sztuki oraz relacje zbudowane z galeriami, artystami, domami aukcyjnymi i instytucjami, pozwalają identyfikować prace o wysokiej wartości artystycznej i potencjale rynkowym.
+
+Zakres usługi:
+
+Etap I  - Strategia inwestowania w dzieła sztuki 
+
+*  Konsultacja i określenie strategii
+* Analiza rynku sztuki współczesnej
+* Identyfikacja artystów i segmentów rynku o potencjale wzrostu wartości
+* Przygotowanie strategii zakupowej w oparciu o preferencje i budżet klienta 
+* Rekomendacje dotyczące pozyskania ofert 
+
+Etap II - Realizacja strategii 
+
+* Wyszukiwanie dzieł zgodnych z strategią na rynku pierowtnym i wtórnym
+* Weryfikacja proweniencji dzieł
+* Wsparcie w negocjacjach i zakupie 
+* Koordynacja formalności związanych z transakcją 
+* Koordynacja transportu 
+* Wsparcie w sprawach technicznych 
+
+  Zakres współpracy składa się z  dwóch etapów rozliczanych odrębnie.
+
+Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktynwe na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych rynkowi sztuki, świadomemu kolekcjonowaniu oraz sztuce współczesnej.
+
+W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze.
