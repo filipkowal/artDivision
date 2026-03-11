@@ -4,8 +4,8 @@ metaDescription: Doradztwo w zakresie inwestowania w dzieła sztuki. Analiza
   rynku, strategia zakupowa  oraz wsparcie przy  zakupie dzieł sztuki
 yoastKeyword: "inwestowanie w dzieła sztuki "
 date: 2026-03-09T11:58:20.781Z
-price: Ustalana indywidualnie - zależy od budżetu i wielkości projektu. Cena za
-  przygotowanie strategii inwestowania w dzieła sztuki rozpoczyna się od 4.000
+price: Ustalana indywidualnie, zależy od budżetu i wielkości projektu. Cena za
+  przygotowanie strategii inwestowania w dzieła sztuki rozpoczyna się od 4 000
   PLN
 ---
 ### Inwestowanie w dzieła sztuki współczesnej 
