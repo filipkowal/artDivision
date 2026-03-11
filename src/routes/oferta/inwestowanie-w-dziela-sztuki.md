@@ -30,7 +30,7 @@ Zakres usługi:
 
 ### Etap II - Realizacja strategii 
 
-* Wyszukiwanie dzieł zgodnych z strategią na rynku pierowtnym i wtórnym
+* Wyszukiwanie dzieł zgodnych z strategią na rynku pierwotnym i wtórnym
 * Weryfikacja proweniencji dzieł
 * Wsparcie w negocjacjach i zakupie 
 * Koordynacja formalności związanych z transakcją 
@@ -39,6 +39,6 @@ Zakres usługi:
 
   Zakres współpracy składa się z  dwóch etapów rozliczanych odrębnie.
 
-Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych rynkowi sztuki, świadomemu kolekcjonowaniu oraz sztuce współczesnej.
+Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych [rynkowi sztuki](https://artdivision.pl/szkolenia/rynek-sztuki-strategie-kolekcjonowania), [świadomemu kolekcjonowaniu ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)oraz [sztuce współczesnej.](https://artdivision.pl/szkolenia/inwestowanie-w-dziela-sztuki)
 
 **W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuje z klientami z całej Polski.**
