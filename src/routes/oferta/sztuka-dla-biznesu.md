@@ -5,7 +5,8 @@ metaDescription: Kompleksowe doradztwo dla kolekcjonerów sztuki. Wsparcie w
   podejmowaniu decyzji kolekcjonerskich i inwestycyjnych
 yoastKeyword: doradztwo na rynku sztuki
 date: 2026-03-07T19:17:57.545Z
-price: Model wynagrodzenia ustalany jest indywidualnie
+price: Model wynagrodzenia ustalany jest indywidualnie, może obejmować prowizję
+  od zakupu lub opłatę abonamentową.
 ---
 ### Indywidualne doradztwo na rynku sztuki (Private Art Advisory)
 
