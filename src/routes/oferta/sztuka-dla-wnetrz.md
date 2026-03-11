@@ -5,7 +5,7 @@ metaDescription: "Sztuka dla wnętrz: dobór dzieł sztuki i tworzenie małych
   estetycznego i rynkowego"
 yoastKeyword: dobór sztuki do wnętrz
 date: 2026-03-07T19:18:41.561Z
-price: "Ustalana indywidualnie "
+price: "Prowizja od zakupu dzieł sztuki "
 ---
 ### Jaką sztukę wybrać do wnętrza?
 
