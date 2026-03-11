@@ -4,7 +4,9 @@ metaDescription: Doradztwo w zakresie inwestowania w dzieła sztuki. Analiza
   rynku, strategia zakupowa  oraz wsparcie przy  zakupie dzieł sztuki
 yoastKeyword: "inwestowanie w dzieła sztuki "
 date: 2026-03-09T11:58:20.781Z
-price: "ustalana indywidualnie - zależy od budżetu i wielkości projektu "
+price: Ustalana indywidualnie - zależy od budżetu i wielkości projektu. Cena za
+  przygotowanie strategii inwestowania w dzieła sztuki rozpoczyna się od 4.000
+  PLN
 ---
 Inwestowanie w dzieła sztuki współczesnej 
 
@@ -20,7 +22,7 @@ Zakres usługi:
 
 Etap I  - Strategia inwestowania w dzieła sztuki 
 
-*  Konsultacja i określenie strategii
+* Konsultacja i określenie strategii
 * Analiza rynku sztuki współczesnej
 * Identyfikacja artystów i segmentów rynku o potencjale wzrostu wartości
 * Przygotowanie strategii zakupowej w oparciu o preferencje i budżet klienta 
@@ -37,6 +39,6 @@ Etap II - Realizacja strategii
 
   Zakres współpracy składa się z  dwóch etapów rozliczanych odrębnie.
 
-Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktynwe na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych rynkowi sztuki, świadomemu kolekcjonowaniu oraz sztuce współczesnej.
+Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych rynkowi sztuki, świadomemu kolekcjonowaniu oraz sztuce współczesnej.
 
 W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze.
