@@ -41,4 +41,4 @@ Zakres usługi:
 
 Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych rynkowi sztuki, świadomemu kolekcjonowaniu oraz sztuce współczesnej.
 
-**W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze.**
+**W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuje z klientami z całej Polski.**
