@@ -37,4 +37,4 @@ Każda kolekcja rozwija się w czasie i naturalnie przechodzi kolejne etapy. Je�
 * Doradztwo przy promocji i prezentacji kolekcji, w tym przy projektach wystawienniczych
 * Doradztwo przy tworzeniu prywatnej przestrzeni wystawienniczej 
 
-**Każda kolekcja ma swój charakter, dlatego zakres współpracy ustalany jest indywidualnie. W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuje z kolekcjonerami z całej Polski.**
+**Każda kolekcja ma swój charakter, dlatego zakres współpracy ustalany jest indywidualnie. W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuję z kolekcjonerami z całej Polski.**
