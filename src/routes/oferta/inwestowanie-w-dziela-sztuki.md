@@ -41,4 +41,4 @@ Zakres usługi:
 
 Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych [rynkowi sztuki](https://artdivision.pl/szkolenia/rynek-sztuki-strategie-kolekcjonowania), [świadomemu kolekcjonowaniu ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)oraz [sztuce współczesnej.](https://artdivision.pl/szkolenia/inwestowanie-w-dziela-sztuki)
 
-**W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuje z klientami z całej Polski.**
+*W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuje z klientami z całej Polski.*
