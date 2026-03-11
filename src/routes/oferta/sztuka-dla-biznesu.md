@@ -5,7 +5,7 @@ metaDescription: Kompleksowe doradztwo dla kolekcjonerów sztuki. Wsparcie w
   podejmowaniu decyzji kolekcjonerskich i inwestycyjnych
 yoastKeyword: doradztwo na rynku sztuki
 date: 2026-03-07T19:17:57.545Z
-price: "prowizja lub opłata abonamentowa "
+price: Model wynagrodzenia ustalany jest indywidualnie
 ---
 ### Indywidualne doradztwo na rynku sztuki (Private Art Advisory)
 
@@ -13,7 +13,7 @@ Indywidualne doradztwo na rynku sztuku obejmuje wsparcie dla kolekcjonerów w bu
 
 Współpraca ma charakter stałej relacji z kolekcjonerem i obejmuję bieżącą opiekę nad kolekcją, a także monitorowanie rynku i zmian zachodzących w jego obrębie. Istotnym elementem w pracy doradczej jest stałe wsparcie merytoryczne kolekcjonera oparte na dialogu o sztuce. Organizujemy wizyty w galeriach, pracowniach artystów oraz dbamy o zaproszenia na ważne wydarzenia branżowe.
 
-Każda kolekcja rozwija się w czasie i naturalnie przechodzi kolejene etapy. Jeśli kolekcjoner zdecyduje się podzielić swoimi zbiorami z szerszym gronem odbiorców, zapewnimy wsparcie w zakresie promocji i prezentacji - m.in. poprzez projekty wystawiennicze, publikacje czy współpracę z galeriami i instytucjami kultury. Doradztwo może obejmować także pomoc w stworzeniu prywatnej przestrzeni wystawienniczej. 
+Każda kolekcja rozwija się w czasie i naturalnie przechodzi kolejne etapy. Jeśli kolekcjoner zdecyduje się podzielić swoimi zbiorami z szerszym gronem odbiorców, zapewnimy wsparcie w zakresie promocji i prezentacji - m.in. poprzez projekty wystawiennicze, publikacje czy współpracę z galeriami i instytucjami kultury. Doradztwo może obejmować także pomoc w stworzeniu prywatnej przestrzeni wystawienniczej. 
 
 ### Doradztwo i wsparcie obejmuje:
 
@@ -36,4 +36,4 @@ Każda kolekcja rozwija się w czasie i naturalnie przechodzi kolejene etapy. Je
 * Doradztwo przy promocji i prezentacji kolekcji, w tym przy projektach wystawienniczych
 * Doradztwo przy tworzeniu prywatnej przestrzeni wystawienniczej 
 
-**Każda kolekcja ma swój charakter, dlatego zakres współpracy ustalany jest indywidualnie.**
+**Każda kolekcja ma swój charakter, dlatego zakres współpracy ustalany jest indywidualnie. W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuje z kolekcjonerami z całej Polski.**
