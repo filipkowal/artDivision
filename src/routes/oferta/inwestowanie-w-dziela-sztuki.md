@@ -8,9 +8,9 @@ price: Ustalana indywidualnie - zależy od budżetu i wielkości projektu. Cena 
   przygotowanie strategii inwestowania w dzieła sztuki rozpoczyna się od 4.000
   PLN
 ---
-Inwestowanie w dzieła sztuki współczesnej 
+### Inwestowanie w dzieła sztuki współczesnej 
 
-Dzieła sztuki wspóczesnej należą do klasy aktywów alternatywnych, które mogą stanowić element dywersyfikacji portfela inwestycyjnego. W raportach takich jak Art Basel & UBS Global Art Market Report wskazuje się, że rynek sztuki pozostaje w stosunkowo niewielkim stopniu powiązany z tradycyjnymi rynkami finansowymi. 
+Dzieła sztuki współczesnej należą do klasy aktywów alternatywnych, które mogą stanowić element dywersyfikacji portfela inwestycyjnego. W raportach takich jak Art Basel & UBS Global Art Market Report wskazuje się, że rynek sztuki pozostaje w stosunkowo niewielkim stopniu powiązany z tradycyjnymi rynkami finansowymi. 
 
 Inwestowanie w dzieła sztuki dotyczy aktywów o charakterze materialnym pozostająch w bezpośrednim posiadaniu kolekcjonera. Wartość dzieła sztuki kształtowana jest przez pozycję artysty na rynku, wartość artystyczną dzieł oraz miejsce w kontekście historii sztuki i obiegu instytucjonalnego. 
 
@@ -20,7 +20,7 @@ Doradztwo obejmuje wsparcie w procesie inwestowania w sztukę współczesną- od
 
 Zakres usługi:
 
-Etap I  - Strategia inwestowania w dzieła sztuki 
+### Etap I  - Strategia inwestowania w dzieła sztuki 
 
 * Konsultacja i określenie strategii
 * Analiza rynku sztuki współczesnej
@@ -28,7 +28,7 @@ Etap I  - Strategia inwestowania w dzieła sztuki
 * Przygotowanie strategii zakupowej w oparciu o preferencje i budżet klienta 
 * Rekomendacje dotyczące pozyskania ofert 
 
-Etap II - Realizacja strategii 
+### Etap II - Realizacja strategii 
 
 * Wyszukiwanie dzieł zgodnych z strategią na rynku pierowtnym i wtórnym
 * Weryfikacja proweniencji dzieł
@@ -41,4 +41,4 @@ Etap II - Realizacja strategii
 
 Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych rynkowi sztuki, świadomemu kolekcjonowaniu oraz sztuce współczesnej.
 
-W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze.
+**W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze.**
