@@ -10,7 +10,7 @@ price: Ustalana indywidualnie, zależy od budżetu i wielkości projektu. Cena z
 ---
 ### Inwestowanie w dzieła sztuki współczesnej
 
-Dzieła sztuki współczesnej należą do klasy aktywów alternatywnych, które mogą stanowić element dywersyfikacji portfela inwestycyjnego. W raportach takich jak Art Basel & UBS Global Art Market Report wskazuje się, że rynek sztuki pozostaje w stosunkowo niewielkim stopniu powiązany z tradycyjnymi rynkami finansowymi. 
+Dzieła sztuki współczesnej należą do klasy aktywów alternatywnych, które mogą stanowić element dywersyfikacji portfela inwestycyjnego. W raportach takich jak [Deloitte Art & Finance Report](https://www.deloitte.com/lu/en/services/consulting-financial/research/art-finance-report.html) wskazuje się, że rynek sztuki pozostaje w stosunkowo niewielkim stopniu powiązany z tradycyjnymi rynkami finansowymi. 
 
 Inwestowanie w dzieła sztuki dotyczy aktywów o charakterze materialnym pozostająch w bezpośrednim posiadaniu kolekcjonera. Wartość dzieła sztuki kształtowana jest przez pozycję artysty na rynku, wartość artystyczną dzieł oraz miejsce w kontekście historii sztuki i obiegu instytucjonalnego. 
 
@@ -37,7 +37,7 @@ Zakres usługi:
 * Wsparcie w sprawach technicznych takich jak przechowywania, konserwacja, ubezpieczenie
 * Obsługa wypożyczeń do instytucji
 
-Zakres współpracy składa się z  dwóch etapów rozliczanych odrębnie.
+**Zakres współpracy składa się z  dwóch etapów rozliczanych odrębnie.**
 
 Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do  kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych [rynkowi sztuki](https://artdivision.pl/szkolenia/rynek-sztuki-strategie-kolekcjonowania), [świadomemu kolekcjonowaniu ](https://artdivision.pl/szkolenia/tworzenie-kolekcji)oraz [sztuce współczesnej.](https://artdivision.pl/szkolenia/inwestowanie-w-dziela-sztuki)
 
