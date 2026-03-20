@@ -1,40 +1,44 @@
 ---
-title: "Kompleksowe doradztwo dla kolekcjonerów sztuki | Art advisory "
-metaDescription: Kompleksowe doradztwo dla kolekcjonerów sztuki. Wsparcie w
-  budowaniu i rozwijaniu  kolekcji dzieł sztuki, analizie rynku sztuki oraz
-  podejmowaniu decyzji kolekcjonerskich i inwestycyjnych
-yoastKeyword: doradztwo na rynku sztuki
+title: "Inwestowanie w dzieła sztuki - doradztwo "
+metaDescription: Doradztwo w inwestowaniu w dzieła sztuki -
+  kompleksowe  wsparcie w budowaniu kolekcji, selekcja prac o wysokim potencjale
+  wzrostu.
+yoastKeyword: "inwestowanie w dzieła sztuki "
 date: 2026-03-07T19:17:57.545Z
 price: Model wynagrodzenia ustalany jest indywidualnie, może obejmować prowizję
   od zakupu lub opłatę abonamentową.
 ---
-### Indywidualne doradztwo na rynku sztuki (Private Art Advisory)
+**Inwestowanie w dzieła sztuki  - kompleksowe doradztwo** 
 
-Indywidualne doradztwo na rynku sztuku obejmuje wsparcie dla kolekcjonerów w budowaniu i rozwijaniu kolekcji. W oparciu o wieloletnie doświadczenie oraz znajomość mechanizmów rynku sztuki, pomagamy podejmować świadome decyzje od wyboru prac o wysokiej wartości artystycznej i analizy ich potencjału po planowanie długoterminowego rozwoju kolekcji. 
+Dzieła sztuki współczesnej należą do klasy aktywów alternatywnych, które mogą stanowić element dywersyfikacji portfela inwestycyjnego. W raportach takich jak [Deloitte Art & Finance Report](https://www.deloitte.com/lu/en/services/consulting-financial/research/art-finance-report.html) wskazuje się, że rynek sztuki pozostaje w stosunkowo niewielkim stopniu powiązany z tradycyjnymi rynkami finansowymi. 
 
-Współpraca ma charakter stałej relacji z kolekcjonerem i obejmuję bieżącą opiekę nad kolekcją, a także monitorowanie rynku i zmian zachodzących w jego obrębie. Istotnym elementem w pracy doradczej jest stałe wsparcie merytoryczne kolekcjonera oparte na dialogu o sztuce. Organizujemy wizyty w galeriach, pracowniach artystów oraz dbamy o zaproszenia na ważne wydarzenia branżowe.
+Inwestowanie w dzieła sztuki dotyczy aktywów o charakterze materialnym pozostająch w bezpośrednim posiadaniu kolekcjonera. Wartość dzieła sztuki kształtowana jest przez pozycję artysty na rynku, wartość artystyczną dzieł oraz miejsce w kontekście historii sztuki i obiegu instytucjonalnego. 
 
-Każda kolekcja rozwija się w czasie i naturalnie przechodzi kolejne etapy. Jeśli kolekcjoner zdecyduje się podzielić swoimi zbiorami z szerszym gronem odbiorców, zapewnimy wsparcie w zakresie promocji i prezentacji - m.in. poprzez projekty wystawiennicze, publikacje czy współpracę z galeriami i instytucjami kultury. Doradztwo może obejmować także pomoc w stworzeniu prywatnej przestrzeni wystawienniczej. 
+Historia rynku sztuki pokazuje również, że jego dynamika często różni się od zachowania rynków kapitałowych. W czasie globalnego kryzysu finansowego w latach 2007 -2008 rynek sztuki odczuł spowolnienie, jednak w kolejnych latach wiele segmentów - szczególnie w obszarze sztuki współczesnej powróciło do wzrostów. Trzeba pamiętać, że na rynku sztuki działa się długoterminowo i skuteczność przynosi znajomość mechanizmów i wiedza z zakresu sztuki 
 
-### Doradztwo i wsparcie obejmuje:
+Doradztwo obejmuje wsparcie w procesie inwestowania w sztukę współczesną- od opracowania strategii inwestycyjnej i zakupowej, po identyfikację oraz zakup dzieł zgodnych z przyjętymi założeniami. Wieloletnie monitorowanie rynku sztuki oraz relacje zbudowane z galeriami, artystami, domami aukcyjnymi i instytucjami, pozwalają identyfikować prace o wysokiej wartości artystycznej i potencjale rynkowym.
 
-* Analizę rynku sztuki oraz identyfikację artystów i dzieł o potencjale kolekcjonerskim i rynkowym
-* Opracowanie wraz z kolekcjonerem koncepcji kolekcji i kierunku jej rozwoju
-* Pozyskiwanie ofert zakupu dzieł sztuki, w tym prac artystów o ugruntowanej pozycji na rynku (blue-chip)
-* Obsługę procesu zakupu dzieł, rezerwacje, negocjacje i finalizację transakcji
-* Weryfikację autentyczności dzieł sztuki oraz analizę ich proweniencji
-* Monitorowanie rynku 
-* Doradztwo przy wyborze i zakupie dzieł sztuki na rynku pierwotnym i wtórnym 
-* Stały kontakt z kolekcjonerem, bieżące konsultacje 
-* Organizację transportów, logistyki oraz formalności związanych z obrotem dziełami sztuki
-* Koordynację wypożyczeń dzieł sztuki do instytucji i projektów wystawienniczych
-* Doradztwo w zakresie przechowywania i zabezpieczania prac
-* Doradztwo w zakresie konserwacji - pomoc w znalezieniu wykwalifikowanego specjalisty 
-* Doradztwo w zakresie ubezpieczenia- pomoc w znalezieniu brokera
-* Wsparcie prawne (dodatkowo płatne)
-* Wspólne wizyty w galeriach, muzeach i pracowaniach artystów oraz udział w wybranych wydarzeniach branżowych
-* Wsparcie w dokumentowaniu i prezentacji kolekcji
-* Doradztwo przy promocji i prezentacji kolekcji, w tym przy projektach wystawienniczych
-* Doradztwo przy tworzeniu prywatnej przestrzeni wystawienniczej 
+Zakres usługi:
 
-**Każda kolekcja ma swój charakter, dlatego zakres współpracy ustalany jest indywidualnie. W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuję z kolekcjonerami z całej Polski.**
+**Etap I - Strategia inwestowania w dzieła sztuki**
+
+* Konsultacja i określenie strategii
+* Analiza rynku sztuki współczesnej
+* Identyfikacja artystów i segmentów rynku o potencjale wzrostu wartości
+* Przygotowanie strategii zakupowej w oparciu o preferencje i budżet klienta 
+* Rekomendacje dotyczące pozyskania ofert 
+
+**Etap II - Realizacja strategii**
+
+* Wyszukiwanie dzieł zgodnych z strategią na rynku pierwotnym i wtórnym
+* Weryfikacja proweniencji dzieł
+* Koordynacja formalności związanych z transakcją 
+* Koordynacja transportu 
+* Wsparcie w sprawach technicznych takich jak przechowywania, konserwacja, ubezpieczenie
+* Obsługa wypożyczeń do instytucji
+
+**Zakres współpracy składa się z dwóch etapów rozliczanych odrębnie.**
+
+Usługa skierowana jest do osób zainteresowanych inwestowaniem w dzieła sztuki współczesnej- zarówno do kolekcjonerów z doświadczeniem jak i do osób które dopiero chcą być aktywne na rynku sztuki. Osoby, które chcą lepiej poznać mechanizmy rynku sztuki, mogą również skorzystać ze szkoleń poświęconych [rynkowi sztuki](https://artdivision.pl/szkolenia/rynek-sztuki-strategie-kolekcjonowania), [świadomemu kolekcjonowaniu](https://artdivision.pl/szkolenia/tworzenie-kolekcji) oraz [sztuce współczesnej.](https://artdivision.pl/szkolenia/inwestowanie-w-dziela-sztuki)
+
+*W celu omówienia możliwości współpracy zapraszam na spotkanie zapoznawcze online. Współpracuję z klientami z całej Polski.*
