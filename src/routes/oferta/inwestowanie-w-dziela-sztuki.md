@@ -4,9 +4,7 @@ metaDescription: "Jak zbudować kolekcję sztuki? Opracowuję strategię
   kolekcjonowania , analizę rynku i plan zakupu "
 yoastKeyword: "jak zbudować kolekcję sztuki "
 date: 2026-03-09T11:58:20.781Z
-price: Ustalana indywidualnie, zależy od budżetu i wielkości projektu. Cena za
-  przygotowanie strategii inwestowania w dzieła sztuki rozpoczyna się od 4 000
-  PLN
+price: "Od 4 000 PLN, wycena jest zależna od zakresu projektu i budżetu "
 ---
 **Jak zbudować kolekcję sztuki?**
 
