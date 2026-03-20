@@ -5,8 +5,8 @@ metaDescription: "Sztuka dla wnętrz: dobór dzieł sztuki i tworzenie małych
   estetycznego i rynkowego"
 yoastKeyword: dobór sztuki do wnętrz
 date: 2026-03-07T19:18:41.561Z
-price: "Ustalana indywidualnie. Prowizja od zakupu: 10-17% w zależności od
-  budżetu i skali projektu "
+price: "Ustalana indywidualnie. Prowizja od budżetu: 10-17% w zależności od
+  skali projektu i zakresu usługi"
 ---
 ### Jaką sztukę wybrać do wnętrza?
 
