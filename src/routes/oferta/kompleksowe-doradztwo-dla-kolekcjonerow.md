@@ -4,7 +4,7 @@ metaDescription: "Profesjonalne zarządzanie kolekcją sztuki- pozyskiwanie ofer
   koordynacja zakupów, logistyka "
 yoastKeyword: zarządzanie kolekcją sztuki
 date: 2026-03-05T19:04:05.138Z
-price: "prowizja od zakupu lub opłata abonamentowa "
+price: "Prowizja od zakupu lub opłata abonamentowa "
 ---
 **Koordynacja i obsługa kolekcji sztuki**
 
