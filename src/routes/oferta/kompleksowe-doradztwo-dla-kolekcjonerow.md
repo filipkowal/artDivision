@@ -4,7 +4,7 @@ metaDescription: "Profesjonalne zarządzanie kolekcją sztuki- pozyskiwanie ofer
   koordynacja zakupów, logistyka "
 yoastKeyword: zarządzanie kolekcją sztuki
 date: 2026-03-05T19:04:05.138Z
-price: "Od 4 000 PLN, wycena jest zależna od zakresu projektu i budżetu "
+price: "prowizja od zakupu lub opłata abonamentowa "
 ---
 **Koordynacja i obsługa kolekcji sztuki**
 
