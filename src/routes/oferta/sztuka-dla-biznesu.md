@@ -5,8 +5,9 @@ metaDescription: Doradztwo w inwestowaniu w dzieła sztuki -
   wzrostu.
 yoastKeyword: "inwestowanie w dzieła sztuki "
 date: 2026-03-07T19:17:57.545Z
-price: Model wynagrodzenia ustalany jest indywidualnie, może obejmować prowizję
-  od zakupu lub opłatę abonamentową.
+price: Ustalana indywidualnie, zależy od budżetu i wielkości projektu. Cena za
+  przygotowanie strategii inwestowania w dzieła sztuki rozpoczyna się od 4 000
+  PLN
 ---
 **Inwestowanie w dzieła sztuki  - kompleksowe doradztwo** 
 
