@@ -13,7 +13,7 @@ price: Ustalana indywidualnie, zależy od budżetu i wielkości projektu. Cena z
 
 Dzieła sztuki współczesnej należą do klasy aktywów alternatywnych, które mogą stanowić element dywersyfikacji portfela inwestycyjnego. W raportach takich jak [Deloitte Art & Finance Report](https://www.deloitte.com/lu/en/services/consulting-financial/research/art-finance-report.html) wskazuje się, że rynek sztuki pozostaje w stosunkowo niewielkim stopniu powiązany z tradycyjnymi rynkami finansowymi. 
 
-Inwestowanie w dzieła sztuki dotyczy aktywów o charakterze materialnym pozostająch w bezpośrednim posiadaniu kolekcjonera. Wartość dzieła sztuki kształtowana jest przez pozycję artysty na rynku, wartość artystyczną dzieł oraz miejsce w kontekście historii sztuki i obiegu instytucjonalnego. 
+Inwestowanie w dzieła sztuki dotyczy aktywów o charakterze materialnym pozostających w bezpośrednim posiadaniu kolekcjonera. Wartość dzieła sztuki kształtowana jest przez pozycję artysty na rynku, wartość artystyczną dzieł oraz miejsce w kontekście historii sztuki i obiegu instytucjonalnego. 
 
 Historia rynku sztuki pokazuje również, że jego dynamika często różni się od zachowania rynków kapitałowych. W czasie globalnego kryzysu finansowego w latach 2007 -2008 rynek sztuki odczuł spowolnienie, jednak w kolejnych latach wiele segmentów - szczególnie w obszarze sztuki współczesnej powróciło do wzrostów. Trzeba pamiętać, że na rynku sztuki działa się długoterminowo i skuteczność przynosi znajomość mechanizmów i wiedza z zakresu sztuki 
 
