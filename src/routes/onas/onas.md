@@ -13,7 +13,7 @@ Jesteśmy oczami i uszami naszych klientów. Łączymy wieloletnią pasję do sz
 **Dbamy o komfort i dyskrecję**\
 Zapewniamy kompleksową opiekę, tak by nabywanie dzieł sztuki było nie tylko przyjemnością, ale i bezpieczną lokatą kapitału.\
 \
-**Art Division** to także Fundacja, która realizuje działania edukacyjne i społeczne na rzecz rynku sztuki i kolekcjonerstwa. W ramach Fundacji Art Division prowadzony jest podcast **[Wszystko o Rynku Sztuki](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)** oraz projekt Art Nawigator, wspierający młodych artystów i oddolne inicjatywy artystyczne w budowaniu obecności w świecie sztuki współczesnej.
+**Art Division** to także Fundacja, która realizuje działania edukacyjne i społeczne na rzecz rynku sztuki i kolekcjonerstwa. W ramach Fundacji Art Division prowadzony jest podcast **[Wszystko o Rynku Sztuki](https://open.spotify.com/show/4NPiBzksWYu3mGoUKxvufn)** oraz projekt **Art Nawigator**, wspierający młodych artystów i oddolne inicjatywy artystyczne w budowaniu obecności w świecie sztuki współczesnej.
 
 \
 *Świadome kolekcjonowanie dzieł sztuki pozwala nie tylko obcować z pięknem, ale także  daje możliwość budowania kapitału kulturowego i materialnego. Art Division / Advisory to przewodnik po labiryncie rynku sztuki, który pomaga zrozumieć jego mechanizmy i wspiera w budowaniu wartościowych kolekcji dzieł sztuki*
