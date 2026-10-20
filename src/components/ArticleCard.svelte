@@ -13,7 +13,7 @@
 	}
 </script>
 
-<a href={`/artykuly/${fileName}`} on:touchstart={addHoverEffect} on:touchend={removeHoverEffect}>
+<a href={`/aktualnosci/${fileName}`} on:touchstart={addHoverEffect} on:touchend={removeHoverEffect}>
 	<div class="articleCard">
 		<div class="image-container">
 			<img src={thumbnail + '?nf_resize=smartcrop&w=160&h=200'} alt={title} />

@@ -1,6 +1,6 @@
 export const fetchArticles = async () => {
-	const allPostFiles = import.meta.glob('/src/routes/artykuly/*.md');
-	const posts = await getFilesContent(allPostFiles, 'artykuly');
+	const allPostFiles = import.meta.glob('/src/routes/aktualnosci/*.md');
+	const posts = await getFilesContent(allPostFiles, 'aktualnosci');
 
 	return sortByDate(posts);
 };

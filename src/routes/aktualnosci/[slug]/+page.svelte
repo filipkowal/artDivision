@@ -13,7 +13,7 @@
 <Meta {title} {date} {author} {metaDescription} {path} />
 <PageTransition>
 	<article class="column page-container column-2">
-		<SectionHeader title="Artykuły" href="/artykuly" />
+		<SectionHeader title="Aktualności" href="/aktualnosci" />
 		<div class="article-content">
 			<div class="article-content-header">
 				<div class="header-row">

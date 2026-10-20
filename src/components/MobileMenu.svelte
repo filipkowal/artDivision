@@ -16,7 +16,7 @@
 	{#if isMenuOpen}
 		<div class="mobile-menu-popup">
 			<h2><a href="/#onas" on:click={() => setOpenMenu(null)}>O nas</a></h2>
-			<h2><a href="/artykuly" on:click={() => setOpenMenu(null)}>Artykuły</a></h2>
+			<h2><a href="/aktualnosci" on:click={() => setOpenMenu(null)}>Aktualności</a></h2>
 			<h2><a href="/oferta" on:click={() => setOpenMenu(null)}>Oferta</a></h2>
 			<h2><a href="/szkolenia" on:click={() => setOpenMenu(null)}>Szkolenia</a></h2>
 			<h2><a href="/#zespol" on:click={() => setOpenMenu(null)}>Zespół</a></h2>

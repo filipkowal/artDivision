@@ -7,9 +7,9 @@ slug:
   encoding: "ascii"
   clean_accents: true
 collections:
-  - name: "artykuly" # Used in routes, e.g., /admin/collections/artykuly
-    label: "Artykuły" # Used in the UI
-    folder: "src/routes/artykuly" # The path to the folder where the documents are stored
+  - name: "aktualnosci" # Used in routes, e.g., /admin/collections/aktualnosci
+    label: "Aktualności" # Used in the UI
+    folder: "src/routes/aktualnosci" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:

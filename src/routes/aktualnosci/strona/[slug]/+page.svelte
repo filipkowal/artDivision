@@ -11,7 +11,7 @@
 <Meta />
 <PageTransition>
 	<section class="page-container column">
-		<SectionHeader title="Artykuły" href="/artykuly" />
+		<SectionHeader title="Aktualności" href="/aktualnosci" />
 		<div class="articles">
 			{#each data.articles as article}
 				<div class="card">

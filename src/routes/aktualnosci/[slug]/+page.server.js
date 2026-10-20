@@ -1,6 +1,6 @@
 export async function load({ params }) {
 	const { attributes, html: body } = await import(`../${params.slug}.md`);
-	const path = 'artykuly/' + params.slug;
+	const path = 'aktualnosci/' + params.slug;
 
 	return { ...attributes, body: addCaptionsToImages(body), path };
 }

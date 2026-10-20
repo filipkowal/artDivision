@@ -1,0 +1,18 @@
+# Stare adresy podstron -> nowe (zmiana URL-i pod tytuły, 2026-10)
+/oferta/sztuka-dla-biznesu                      /oferta/inwestowanie-w-dziela-sztuki        301
+/oferta/kompleksowe-doradztwo-dla-kolekcjonerow /oferta/zarzadzanie-kolekcja-sztuki         301
+/oferta/opracowanie-strategii-kolekcjonowania   /oferta/doradztwo-dla-kolekcjonerow-sztuki  301
+/oferta/sztuka-dla-wnetrz                       /oferta/dobor-sztuki-do-wnetrz              301
+/oferta/zarzadzanie-kolekcja                    /oferta/art-branding-sztuka-w-biznesie      301
+/szkolenia/inwestowanie-w-dziela-sztuki         /szkolenia/sztuka-wspolczesna               301
+/szkolenia/tworzenie-kolekcji                   /szkolenia/swiadome-kolekcjonowanie-sztuki  301
+
+# Jeszcze starsze adresy (usunięte wcześniej w CMS)
+/oferta/art-advisory-doradztwo-inwestycyjne-z-zakresu-rynku-dziel-sztuki  /oferta/doradztwo-dla-kolekcjonerow-sztuki  301
+/oferta/art-branding-wspieramy-biznes-poprzez-sztuke                      /oferta/art-branding-sztuka-w-biznesie      301
+/oferta/porady-prawne-z-zakresu-rynku-dziel-sztuki                        /oferta                                     301
+/szkolenia/sztuka-wspolczesna-w-kontekscie-wzrostu-wartosci-dziela        /szkolenia/sztuka-wspolczesna               301
+
+# Artykuły -> Aktualności (2026-10)
+/artykuly            /aktualnosci           301
+/artykuly/*          /aktualnosci/:splat    301

@@ -20,7 +20,7 @@
 		</div>
 
 		<section class="articles column column-2">
-			<a href="/artykuly"><h1 class="section-title">Artykuły</h1></a>
+			<a href="/aktualnosci"><h1 class="section-title">Aktualności</h1></a>
 			<div class="cards-container">
 				{#each articles as article}
 					<ArticleCard
@@ -32,7 +32,7 @@
 				{/each}
 				<div class="shadow" />
 			</div>
-			<a href="/artykuly"><button class="see-all-button">Zobacz wszystkie artykuły</button></a>
+			<a href="/aktualnosci"><button class="see-all-button">Zobacz wszystkie aktualności</button></a>
 		</section>
 		<section class="offer column column-3">
 			<a href="/oferta"><h1 class="section-title">Oferta</h1></a>
