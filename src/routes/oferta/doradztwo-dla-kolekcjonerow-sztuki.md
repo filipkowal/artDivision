@@ -1,5 +1,6 @@
 ---
 title: " Kompleksowe doradztwo dla kolekcjonerów sztuki | Art advisory "
+order: 3
 metaDescription: Kompleksowe doradztwo dla kolekcjonerów sztuki. Wsparcie w
   budowaniu i rozwijaniu  kolekcji dzieł sztuki, analizie rynku sztuki oraz
   podejmowaniu decyzji kolekcjonerskich i inwestycyjnych

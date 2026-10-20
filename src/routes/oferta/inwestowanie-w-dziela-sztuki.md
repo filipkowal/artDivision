@@ -1,5 +1,6 @@
 ---
 title: "Inwestowanie w dzieła sztuki - doradztwo "
+order: 4
 metaDescription: Doradztwo w inwestowaniu w dzieła sztuki -
   kompleksowe  wsparcie w budowaniu kolekcji, selekcja prac o wysokim potencjale
   wzrostu.

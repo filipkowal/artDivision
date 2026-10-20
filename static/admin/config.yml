@@ -34,8 +34,10 @@ collections:
     folder: "src/routes/oferta"
     create: true
     slug: "{{slug}}"
+    sortable_fields: ["order", "title"]
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Kolejność na stronie (1 = pierwsza)", name: "order", widget: "number", value_type: "int", required: false }
       - { label: "Meta description", name: "metaDescription", widget: "string" }
       - { label: "Yoast keyword", name: "yoastKeyword", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }

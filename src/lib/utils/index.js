@@ -7,9 +7,9 @@ export const fetchArticles = async () => {
 
 export const fetchOffers = async () => {
 	const allPostFiles = import.meta.glob('/src/routes/oferta/*.md');
-	const posts = getFilesContent(allPostFiles, 'oferta');
+	const posts = await getFilesContent(allPostFiles, 'oferta');
 
-	return posts;
+	return sortByOrder(posts);
 };
 
 export const fetchWorkshops = async () => {
@@ -25,6 +25,12 @@ export const fetchTeam = async () => {
 
 	return sortByDate(posts);
 };
+
+// Kolejność ustawiana w CMS polem "Kolejność" (1 = pierwsza). Pozycje bez numeru idą na koniec.
+function sortByOrder(posts) {
+	const num = (p) => (Number.isFinite(Number(p.order)) && p.order !== '' && p.order != null ? Number(p.order) : Infinity);
+	return posts.sort((a, b) => num(a) - num(b) || String(a.title).localeCompare(String(b.title), 'pl'));
+}
 
 function sortByDate(posts) {
 	return posts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));

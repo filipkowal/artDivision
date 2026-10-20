@@ -1,5 +1,6 @@
 ---
 title: "Art branding i sztuka w biznesie "
+order: 6
 metaDescription: "Sztuka w biznesie : tworzenie kolekcji korporacyjnych, dobór
   dzieł sztuki do przestrzeni firm oraz wsparcie w strategii art brandingu."
 yoastKeyword: "sztuka dla biznesu "

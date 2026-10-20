@@ -1,5 +1,6 @@
 ---
 title: Dobór sztuki do wnętrz
+order: 5
 metaDescription: "Sztuka dla wnętrz: dobór dzieł sztuki i tworzenie małych
   kolekcji prezentowanych w domu lub mieszkaniu z uwzględnieniem aspektu
   estetycznego i rynkowego"

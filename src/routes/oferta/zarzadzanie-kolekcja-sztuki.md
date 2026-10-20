@@ -1,5 +1,6 @@
 ---
 title: "Zarządzanie kolekcją sztuki "
+order: 2
 metaDescription: "Profesjonalne zarządzanie kolekcją sztuki- pozyskiwanie ofert,
   koordynacja zakupów, logistyka "
 yoastKeyword: zarządzanie kolekcją sztuki

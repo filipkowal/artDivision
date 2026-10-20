@@ -1,5 +1,6 @@
 ---
 title: "Strategia budowania kolekcji dzieł sztuki "
+order: 1
 metaDescription: "Jak zbudować kolekcję sztuki? Opracowuję strategię
   kolekcjonowania , analizę rynku i plan zakupu "
 yoastKeyword: "jak zbudować kolekcję sztuki "
