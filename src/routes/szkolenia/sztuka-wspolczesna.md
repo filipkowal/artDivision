@@ -1,4 +1,5 @@
 ---
+order: 1
 title: " Szkolenie: Sztuka współczesna - jak interpretować dzieła sztuki?"
 metaDescription: "Szkolenie ze sztuki współczesnej uczące interpretacji dzieł
   sztuki współczesnej oraz analizy najważniejszych kierunków "

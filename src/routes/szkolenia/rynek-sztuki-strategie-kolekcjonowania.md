@@ -1,4 +1,5 @@
 ---
+order: 2
 title: " Szkolenie: Rynek sztuki - strategie kolekcjonowania dzieł sztuki "
 metaDescription: "Szkolenie o rynku sztuku i strategiach kolekcjonowania dzieł
   sztuki. Dowiedz się jak działa rynek pierwotny i wtórny oraz jak stworzyć

@@ -1,4 +1,5 @@
 ---
+order: 3
 title: "Szkolenie: Świadome kolekcjonowanie - sztuka współczesna i mechanizmy
   rynku sztuki "
 metaDescription: "Szkolenie o kolekcjonowaniu sztuki współczesnej i mechanizmach

@@ -14,9 +14,9 @@ export const fetchOffers = async () => {
 
 export const fetchWorkshops = async () => {
 	const allPostFiles = import.meta.glob('/src/routes/szkolenia/*.md');
-	const posts = getFilesContent(allPostFiles, 'szkolenia');
+	const posts = await getFilesContent(allPostFiles, 'szkolenia');
 
-	return posts;
+	return sortByOrder(posts);
 };
 
 export const fetchTeam = async () => {
